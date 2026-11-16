@@ -24,21 +24,22 @@ def from_rss(src):
     dc = {"dc": "http://purl.org/dc/elements/1.1/"}
     out = []
     for it in root.iter("item"):
+        link = (it.findtext("link") or "").strip()
+        if src.get("link_filter") and not re.search(src["link_filter"], link):
+            continue
         try:
             date = parsedate_to_datetime(it.findtext("pubDate")).isoformat()
         except Exception:
             date = NOW
-                    link = (it.findtext("link") or "").strip()
-        if src.get("link_filter") and not re.search(src["link_filter"], link):
-            continue
         out.append({
             "title": (it.findtext("title") or "").strip(),
-            "link": (it.findtext("link") or "").strip(),
+            "link": link,
             "author": (it.findtext("dc:creator", namespaces=dc)
                        or it.findtext("author") or "").strip(),
             "date": date,
         })
     return out
+    
 
 
 def dup_prefix(s):
