@@ -43,5 +43,17 @@
     "url": "https://www.cumhuriyet.com.tr/gunun-kose-yazilari",
     "link_regex": "/yazarlar/([^/]+)/[^/]+-\\d+/?$",
     "author_from": "link_pair"
+  },
+    {
+    "name": "BirGün",
+    "type": "rss",
+    "url": "https://www.birgun.net/rss/home",
+    "link_filter": "/makale/"
+  },
+  {
+    "name": "BirGün",
+    "type": "rss",
+    "url": "https://www.birgun.net/xml/rss.xml",
+    "link_filter": "/makale/"
   }
 ]
