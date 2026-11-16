@@ -47,13 +47,6 @@
     {
     "name": "BirGün",
     "type": "rss",
-    "url": "https://www.birgun.net/rss/home",
-    "link_filter": "/makale/"
-  },
-  {
-    "name": "BirGün",
-    "type": "rss",
-    "url": "https://www.birgun.net/xml/rss.xml",
-    "link_filter": "/makale/"
+    "url": "https://www.birgun.net/rss/yazarlar"
   }
 ]
