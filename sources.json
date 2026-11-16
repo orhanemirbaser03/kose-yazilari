@@ -17,5 +17,31 @@
     "url": "https://www.haberturk.com/htyazarlar",
     "link_regex": "/ozel-icerikler/([^/]+)/\\d+-[^/]+$",
     "author_from": "text"
+  },
+  {
+    "name": "Sabah",
+    "type": "rss",
+    "url": "https://www.sabah.com.tr/rss/yazarlar.xml"
+  },
+  {
+    "name": "Milliyet",
+    "type": "html",
+    "url": "https://www.milliyet.com.tr/yazarlar/",
+    "link_regex": "/(?:yazarlar|skorer)/([^/]+)/[^/]+-\\d+/?$",
+    "author_from": "before_title"
+  },
+  {
+    "name": "Akşam",
+    "type": "html",
+    "url": "https://www.aksam.com.tr/yazarlar/",
+    "link_regex": "/yazarlar/([^/]+)/[^/]+/haber-\\d+/?$",
+    "author_index_regex": "^/yazarlar/([^/]+)/?$"
+  },
+  {
+    "name": "Cumhuriyet",
+    "type": "html",
+    "url": "https://www.cumhuriyet.com.tr/gunun-kose-yazilari",
+    "link_regex": "/yazarlar/([^/]+)/[^/]+-\\d+/?$",
+    "author_from": "link_pair"
   }
 ]
