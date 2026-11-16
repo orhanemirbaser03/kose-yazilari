@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sözcü",
+    "type": "rss",
+    "url": "https://www.sozcu.com.tr/feeds-rss-category-yazar"
+  },
+  {
+    "name": "Hürriyet",
+    "type": "html",
+    "url": "https://www.hurriyet.com.tr/yazarlar/",
+    "link_regex": "/yazarlar/([^/]+)/[^/]+-\\d+/?$",
+    "author_index_regex": "^/(?:[a-z]+/)?yazarlar/([^/]+)/?$"
+  }
+]

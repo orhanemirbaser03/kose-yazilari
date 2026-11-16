@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Köşe Yazılarım</title>
+<style>
+:root{--bg:#faf8f4;--fg:#1d1b18;--mut:#7a746b;--line:#e4dfd5;--acc:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#161513;--fg:#ece8e1;--mut:#9a948a;--line:#2d2a26;--acc:#ff8a80}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.4 Georgia,serif}
+main{max-width:760px;margin:0 auto;padding:16px}
+h1{font-size:1.4rem;margin:8px 0 12px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;font:14px system-ui,sans-serif}
+.bar>*{padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg)}
+#q{flex:1 1 180px}
+.row{display:flex;gap:10px;padding:12px 0;border-bottom:1px solid var(--line)}
+.row a{color:var(--fg);text-decoration:none;font-size:1.05rem}
+.row a:visited{color:var(--mut)}
+.meta{font:13px system-ui,sans-serif;color:var(--mut);margin-top:2px}
+.star{cursor:pointer;background:none;border:0;font-size:1.2rem;color:var(--mut);padding:0}
+.star.on{color:var(--acc)}
+#upd{font:12px system-ui,sans-serif;color:var(--mut)}
+</style>
+</head>
+<body>
+<main>
+<h1>Köşe Yazılarım</h1>
+<div class="bar">
+  <input id="q" type="search" placeholder="Başlık veya yazar ara">
+  <select id="src"><option value="">Tüm kaynaklar</option></select>
+  <select id="aut"><option value="">Tüm yazarlar</option></select>
+  <label><input id="fav" type="checkbox"> ★ Takip ettiklerim</label>
+</div>
+<div id="list"></div>
+<p id="upd"></p>
+</main>
+<script>
+let all = [], follow = new Set();
+try { follow = new Set(JSON.parse(localStorage.getItem("follow") || "[]")); } catch (e) {}
+const $ = id => document.getElementById(id);
+const save = () => { try { localStorage.setItem("follow", JSON.stringify([...follow])); } catch (e) {} };
+const fmt = iso => new Date(iso).toLocaleString("tr-TR", {day: "numeric", month: "long", hour: "2-digit", minute: "2-digit"});
+
+function fill(sel, vals) {
+  const cur = sel.value;
+  [...new Set(vals)].filter(Boolean).sort((a, b) => a.localeCompare(b, "tr"))
+    .forEach(v => sel.add(new Option(v, v)));
+  sel.value = cur;
+}
+
+function render() {
+  const q = $("q").value.toLocaleLowerCase("tr"), s = $("src").value, a = $("aut").value, f = $("fav").checked;
+  const rows = all.filter(x =>
+    (!s || x.source === s) && (!a || x.author === a) && (!f || follow.has(x.author)) &&
+    (!q || (x.title + " " + x.author).toLocaleLowerCase("tr").includes(q)));
+  const list = $("list");
+  list.replaceChildren();
+  rows.forEach(x => {
+    const row = document.createElement("div"); row.className = "row";
+    const star = document.createElement("button");
+    star.className = "star" + (follow.has(x.author) ? " on" : "");
+    star.textContent = follow.has(x.author) ? "★" : "☆";
+    star.title = "Yazarı takip et";
+    star.onclick = () => { follow.has(x.author) ? follow.delete(x.author) : follow.add(x.author); save(); render(); };
+    const box = document.createElement("div");
+    const link = document.createElement("a");
+    link.href = x.link; link.target = "_blank"; link.rel = "noopener"; link.textContent = x.title;
+    const meta = document.createElement("div"); meta.className = "meta";
+    meta.textContent = [x.author || "—", x.source, fmt(x.date)].join(" · ");
+    box.append(link, meta); row.append(star, box); list.append(row);
+  });
+  if (!rows.length) list.textContent = "Yazı bulunamadı.";
+}
+
+fetch("articles.json").then(r => r.json()).then(d => {
+  all = d.articles;
+  fill($("src"), all.map(x => x.source));
+  fill($("aut"), all.map(x => x.author));
+  $("upd").textContent = "Son güncelleme: " + fmt(d.updated);
+  render();
+}).catch(() => { $("list").textContent = "articles.json yüklenemedi. Önce fetch.py çalışmalı."; });
+["q", "src", "aut", "fav"].forEach(id => $(id).addEventListener("input", render));
+</script>
+</body>
+</html>
