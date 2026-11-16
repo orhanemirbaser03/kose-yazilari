@@ -83,11 +83,14 @@ def from_html(src):
         m = link_re.search(urlparse(full).path)
         if not m:
             continue
-        g = groups.setdefault(full, {"slug": m.group(1), "texts": [], "title": ""})
+        g = groups.setdefault(full, {"slug": m.group(1), "texts": [], "title": "", "alt": ""})
         text = a.get_text(" ", strip=True)
         if text:
             g["texts"].append(text)
         g["title"] = g["title"] or (a.get("title") or "").strip()
+        img = a.find("img")
+        if img and img.get("alt") and not g["alt"]:
+            g["alt"] = img["alt"].strip()
 
     mode = src.get("author_from", "")
     out = []
@@ -99,6 +102,13 @@ def from_html(src):
             author, title = texts[0], texts[1]          # 1. link yazar, 2. link başlık
         elif mode == "before_title" and title and title in text:
             author = text[: text.find(title)].strip() or author
+        elif mode == "img_alt":
+            author = g["alt"] or author                 # yazar adı görselin alt metninde
+            t = text
+            if author and t.startswith(author):
+                t = t[len(author):].strip()
+            t = re.sub(r"\s*\d{1,2}\s+\S+\s+\d{4}\s*$", "", t)  # sondaki tarihi at
+            title = t or title
         elif mode == "text":
             if title and text.endswith(title):
                 author = dup_prefix(text[: -len(title)].strip())[0] or author
