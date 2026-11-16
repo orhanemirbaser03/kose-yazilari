@@ -38,16 +38,26 @@ def from_rss(src):
     return out
 
 
+def dup_prefix(s):
+    """'A ... A' biçimindeki metinde baştaki ve sondaki aynı kelimeleri bulur."""
+    w = s.split()
+    for k in range(len(w) // 2, 0, -1):
+        if w[:k] == w[-k:]:
+            return " ".join(w[:k]), " ".join(w[k:len(w) - k])
+    return "", s
+
+
 def from_html(src):
     soup = BeautifulSoup(get(src["url"]).text, "html.parser")
-    idx = re.compile(src["author_index_regex"])
     link_re = re.compile(src["link_regex"])
     names = {}  # slug -> düzgün yazar adı (Türkçe karakterli)
-    for a in soup.find_all("a", href=True):
-        m = idx.search(urlparse(a["href"]).path)
-        text = a.get_text(strip=True)
-        if m and text:
-            names.setdefault(m.group(1), text)
+    if src.get("author_index_regex"):
+        idx = re.compile(src["author_index_regex"])
+        for a in soup.find_all("a", href=True):
+            m = idx.search(urlparse(a["href"]).path)
+            text = a.get_text(strip=True)
+            if m and text:
+                names.setdefault(m.group(1), text)
     out = []
     for a in soup.find_all("a", href=True):
         full = urljoin(src["url"], a["href"])
@@ -55,11 +65,23 @@ def from_html(src):
         if not m:
             continue
         slug = m.group(1)
-        title = (a.get("title") or a.get_text(" ", strip=True)).strip()
+        text = a.get_text(" ", strip=True)
+        title = (a.get("title") or "").strip()
+        author = names.get(slug, "")
+        if src.get("author_from") == "text":
+            if title and text.endswith(title):
+                author = dup_prefix(text[:-len(title)].strip())[0] or author
+            elif not title:
+                title, author = dup_prefix(text)  # "Başlık Yazar Başlık"
+        title = title or text
+        if not author:
+            author = re.sub(r"-\d+$", "", slug).replace("-", " ").title()
+        if not title:
+            continue
         out.append({
             "title": title,
             "link": full,
-            "author": names.get(slug, slug.replace("-", " ").title()),
+            "author": author,
             "date": NOW,
         })
     return out
