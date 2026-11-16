@@ -47,6 +47,7 @@
     {
     "name": "BirGün",
     "type": "rss",
-    "url": "https://www.birgun.net/rss/yazarlar"
+    "url": "https://www.birgun.net/rss/yazarlar",
+    "author_from_page": true
   }
 ]
