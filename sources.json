@@ -1,8 +1,10 @@
 [
-  {
+    {
     "name": "Sözcü",
-    "type": "rss",
-    "url": "https://www.sozcu.com.tr/feeds-rss-category-yazar"
+    "type": "html",
+    "url": "https://www.sozcu.com.tr/yazarlar",
+    "link_regex": "/[^/]+-p(\\d+)/?$",
+    "author_from": "img_alt"
   },
   {
     "name": "Hürriyet",
