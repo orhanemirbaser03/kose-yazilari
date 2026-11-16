@@ -28,6 +28,9 @@ def from_rss(src):
             date = parsedate_to_datetime(it.findtext("pubDate")).isoformat()
         except Exception:
             date = NOW
+                    link = (it.findtext("link") or "").strip()
+        if src.get("link_filter") and not re.search(src["link_filter"], link):
+            continue
         out.append({
             "title": (it.findtext("title") or "").strip(),
             "link": (it.findtext("link") or "").strip(),
