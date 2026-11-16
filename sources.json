@@ -10,5 +10,12 @@
     "url": "https://www.hurriyet.com.tr/yazarlar/",
     "link_regex": "/yazarlar/([^/]+)/[^/]+-\\d+/?$",
     "author_index_regex": "^/(?:[a-z]+/)?yazarlar/([^/]+)/?$"
+  },
+  {
+    "name": "Habertürk",
+    "type": "html",
+    "url": "https://www.haberturk.com/htyazarlar",
+    "link_regex": "/ozel-icerikler/([^/]+)/\\d+-[^/]+$",
+    "author_from": "text"
   }
 ]
