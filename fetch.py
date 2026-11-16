@@ -58,32 +58,43 @@ def from_html(src):
             text = a.get_text(strip=True)
             if m and text:
                 names.setdefault(m.group(1), text)
-    out = []
+
+    # Aynı yazıya giden tüm linkleri grupla
+    groups = {}
     for a in soup.find_all("a", href=True):
         full = urljoin(src["url"], a["href"])
         m = link_re.search(urlparse(full).path)
         if not m:
             continue
-        slug = m.group(1)
+        g = groups.setdefault(full, {"slug": m.group(1), "texts": [], "title": ""})
         text = a.get_text(" ", strip=True)
-        title = (a.get("title") or "").strip()
-        author = names.get(slug, "")
-        if src.get("author_from") == "text":
+        if text:
+            g["texts"].append(text)
+        g["title"] = g["title"] or (a.get("title") or "").strip()
+
+    mode = src.get("author_from", "")
+    out = []
+    for full, g in groups.items():
+        texts, title = g["texts"], g["title"]
+        text = texts[0] if texts else ""
+        author = names.get(g["slug"], "")
+        if mode == "link_pair" and len(texts) >= 2:
+            author, title = texts[0], texts[1]          # 1. link yazar, 2. link başlık
+        elif mode == "before_title" and title and title in text:
+            author = text[: text.find(title)].strip() or author
+        elif mode == "text":
             if title and text.endswith(title):
-                author = dup_prefix(text[:-len(title)].strip())[0] or author
+                author = dup_prefix(text[: -len(title)].strip())[0] or author
             elif not title:
-                title, author = dup_prefix(text)  # "Başlık Yazar Başlık"
+                t, a2 = dup_prefix(text)                # "Başlık Yazar Başlık"
+                if t:
+                    title, author = t, a2
         title = title or text
         if not author:
-            author = re.sub(r"-\d+$", "", slug).replace("-", " ").title()
+            author = re.sub(r"-\d+$", "", g["slug"]).replace("-", " ").title()
         if not title:
             continue
-        out.append({
-            "title": title,
-            "link": full,
-            "author": author,
-            "date": NOW,
-        })
+        out.append({"title": title, "link": full, "author": author, "date": NOW})
     return out
 
 
