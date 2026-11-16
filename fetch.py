@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 
 UA = {"User-Agent": "Mozilla/5.0 (kisisel kose yazisi okuyucu)"}
 KEEP_DAYS = 30
+MAX_PAGE_FETCH = 40  # bir çalıştırmada yazar için en fazla bu kadar sayfa açılır
 NOW = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
 
 
@@ -17,6 +18,19 @@ def get(url):
     r = requests.get(url, headers=UA, timeout=30)
     r.raise_for_status()
     return r
+
+
+def page_author(url):
+    """Yazı sayfasının <meta name="author"> alanından yazar adını okur."""
+    try:
+        soup = BeautifulSoup(get(url).text, "html.parser")
+        for key in ("author", "articleAuthor"):
+            tag = soup.find("meta", attrs={"name": key})
+            if tag and tag.get("content"):
+                return tag["content"].strip()
+    except Exception:
+        pass
+    return ""
 
 
 def from_rss(src):
@@ -39,7 +53,6 @@ def from_rss(src):
             "date": date,
         })
     return out
-    
 
 
 def dup_prefix(s):
@@ -120,10 +133,20 @@ def main():
         except Exception as e:
             print(f'{src["name"]}: HATA {e}')
             continue
+        fetched = 0
         for it in items:
-            if it["link"] and it["title"]:
-                it["source"] = src["name"]
-                by_link.setdefault(it["link"], it)
+            if not (it["link"] and it["title"]):
+                continue
+            it["source"] = src["name"]
+            prev = by_link.get(it["link"])
+            if prev and (prev.get("author") or not src.get("author_from_page")):
+                continue
+            if src.get("author_from_page") and not it["author"] and fetched < MAX_PAGE_FETCH:
+                it["author"] = page_author(it["link"])
+                fetched += 1
+            if prev:
+                it["date"] = prev["date"]
+            by_link[it["link"]] = it
 
     limit = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=KEEP_DAYS)).isoformat()
     arts = sorted((a for a in by_link.values() if a["date"] >= limit),
