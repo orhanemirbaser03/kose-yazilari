@@ -22,8 +22,10 @@
   },
   {
     "name": "Sabah",
-    "type": "rss",
-    "url": "https://www.sabah.com.tr/rss/yazarlar.xml"
+    "type": "html",
+    "url": "https://www.sabah.com.tr/yazarlar",
+    "link_regex": "/yazarlar/(?:[^/]+/)?([^/]+)/\\d{4}/\\d{2}/\\d{2}/[^/]+/?$",
+    "author_from": "bold_title"
   },
   {
     "name": "Milliyet",
