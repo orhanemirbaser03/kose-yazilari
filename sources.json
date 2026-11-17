@@ -65,11 +65,6 @@
     "author_from": "next_img_alt"
   },
   {
-    "name": "Gazete Duvar",
-    "type": "rss",
-    "url": "https://www.gazeteduvar.com.tr/rss/kose-yazilari"
-  },
-  {
     "name": "Haber Global",
     "type": "rss",
     "url": "https://haberglobal.com/rss/yazarlar",
