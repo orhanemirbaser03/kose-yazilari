@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Sözcü",
     "type": "html",
     "url": "https://www.sozcu.com.tr/yazarlar",
@@ -46,10 +46,34 @@
     "link_regex": "/yazarlar/([^/]+)/[^/]+-\\d+/?$",
     "author_from": "link_pair"
   },
-    {
+  {
     "name": "BirGün",
     "type": "rss",
     "url": "https://www.birgun.net/rss/yazarlar",
+    "author_from_page": true
+  },
+  {
+    "name": "Yeni Şafak",
+    "type": "rss",
+    "url": "https://www.yenisafak.com/rss?authortype=newspaper&contenttype=column"
+  },
+  {
+    "name": "Star",
+    "type": "html",
+    "url": "https://m.star.com.tr/yazarlar/",
+    "link_regex": "/yazar/[^/]+-yazi-(\\d+)/?$",
+    "author_from": "next_img_alt"
+  },
+  {
+    "name": "Gazete Duvar",
+    "type": "rss",
+    "url": "https://www.gazeteduvar.com.tr/rss/kose-yazilari"
+  },
+  {
+    "name": "Haber Global",
+    "type": "rss",
+    "url": "https://haberglobal.com/rss/yazarlar",
+    "link_filter": "/yazarlar/",
     "author_from_page": true
   }
 ]
