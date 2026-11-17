@@ -8,10 +8,9 @@
   },
   {
     "name": "Hürriyet",
-    "type": "html",
-    "url": "https://www.hurriyet.com.tr/yazarlar/",
-    "link_regex": "/yazarlar/([^/]+)/[^/]+-\\d+/?$",
-    "author_index_regex": "^/(?:[a-z]+/)?yazarlar/([^/]+)/?$"
+    "type": "rss",
+    "url": "https://www.hurriyet.com.tr/rss/yazarlar",
+    "author_from_page": true
   },
   {
     "name": "Habertürk",
