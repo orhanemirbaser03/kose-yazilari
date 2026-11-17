@@ -20,10 +20,24 @@ def get(url):
     return r
 
 
+def soup_of(url):
+    # .content: ham veri. BeautifulSoup karakter kodunu sayfanın kendisinden okur.
+    return BeautifulSoup(get(url).content, "html.parser")
+
+
+def tr_title(s):
+    """BÜYÜK HARFLİ adı Türkçe kurallarıyla 'Büyük Harfli' yapar."""
+    def fix(w):
+        w = w.replace("I", "ı").replace("İ", "i").lower()
+        first = "İ" if w[:1] == "i" else w[:1].upper()
+        return first + w[1:]
+    return " ".join(fix(w) for w in s.split())
+
+
 def page_author(url):
     """Yazı sayfasının <meta name="author"> alanından yazar adını okur."""
     try:
-        soup = BeautifulSoup(get(url).text, "html.parser")
+        soup = soup_of(url)
         for key in ("author", "articleAuthor"):
             tag = soup.find("meta", attrs={"name": key})
             if tag and tag.get("content"):
@@ -65,7 +79,7 @@ def dup_prefix(s):
 
 
 def from_html(src):
-    soup = BeautifulSoup(get(src["url"]).text, "html.parser")
+    soup = soup_of(src["url"])
     link_re = re.compile(src["link_regex"])
     mode = src.get("author_from", "")
     names = {}  # slug -> düzgün yazar adı (Türkçe karakterli)
@@ -74,6 +88,9 @@ def from_html(src):
         for a in soup.find_all("a", href=True):
             m = idx.search(urlparse(a["href"]).path)
             text = a.get_text(strip=True)
+            low = text.lower()
+            if "tüm" in low and "yazı" in low:   # "Tüm Yazıları" bağlantısı ad değildir
+                continue
             if m and text:
                 names.setdefault(m.group(1), text)
 
@@ -94,7 +111,8 @@ def from_html(src):
         if not m:
             continue
         current = full
-        g = groups.setdefault(full, {"slug": m.group(1), "texts": [], "title": "", "alt": ""})
+        g = groups.setdefault(
+            full, {"slug": m.group(1), "texts": [], "title": "", "alt": "", "bold": ""})
         text = el.get_text(" ", strip=True)
         if text:
             g["texts"].append(text)
@@ -102,6 +120,9 @@ def from_html(src):
         img = el.find("img")
         if img and img.get("alt") and not g["alt"]:
             g["alt"] = img["alt"].strip()
+        bold = el.find(["strong", "b"])
+        if bold and not g["bold"]:
+            g["bold"] = bold.get_text(" ", strip=True)
 
     out = []
     for full, g in groups.items():
@@ -112,6 +133,10 @@ def from_html(src):
             author, title = texts[0], texts[1]          # 1. link yazar, 2. link başlık
         elif mode == "before_title" and title and title in text:
             author = text[: text.find(title)].strip() or author
+        elif mode == "bold_title" and g["bold"]:        # Sabah: "YAZAR **Başlık** özet"
+            title = g["bold"]
+            if title in text:
+                author = text[: text.find(title)].strip() or author
         elif mode in ("img_alt", "next_img_alt"):
             author = g["alt"] or author                 # yazar adı görselin alt metninde
             if mode == "img_alt":
@@ -128,6 +153,8 @@ def from_html(src):
                 if t:
                     title, author = t, a2
         title = title or text
+        if author and author.isupper():
+            author = tr_title(author)
         if not author and not g["slug"].isdigit():
             author = re.sub(r"-\d+$", "", g["slug"]).replace("-", " ").title()
         if not title:
