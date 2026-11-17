@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:48:21+00:00",
+ "updated": "2026-11-17T22:10:35+00:00",
  "articles": [
   {
    "title": "Atatürk, Refik Halit'i nasıl affetti?",
@@ -926,6 +926,48 @@
    "source": "BirGün"
   },
   {
+   "title": "B planı C planı",
+   "link": "https://www.nefes.com.tr/yazarlar/nevsin-mengu/b-plani-c-plani-165006",
+   "author": "Nevsin Mengu",
+   "date": "2026-11-17T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Kanıksanan ölüm",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/kaniksanan-olum-165007",
+   "author": "Soner Yalcin",
+   "date": "2026-11-17T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Er ya da geç ortaya çıkacak!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/er-ya-da-gec-ortaya-cikacak-165008",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-17T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Ülkeyi ibretlik yaptılar!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/ulkeyi-ibretlik-yaptilar-165011",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-17T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Ali Emre Ballı’nın son 3 günü Çağlayan’da",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/ali-emre-ballinin-son-3-gunu-caglayanda-165012",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-17T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Gazeteci ve ahlak!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/gazeteci-ve-ahlak-165013",
+   "author": "Umit Zileli",
+   "date": "2026-11-17T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
    "title": "ABD Senatosu’nda İsrail savaşları!",
    "link": "https://www.yenisafak.com/yazarlar/abdullah-muradoglu/abd-senatosunda-israil-savaslari-4873245",
    "author": "Abdullah Muradoğlu",
@@ -1059,11 +1101,25 @@
    "source": "Hürriyet"
   },
   {
+   "title": "2027’nin vergi faturası kime kesilecek?",
+   "link": "https://www.nefes.com.tr/yazarlar/mahmut-aydogmus/2027nin-vergi-faturasi-kime-kesilecek-164975",
+   "author": "Mahmut Aydogmus",
+   "date": "2026-11-16T17:48:06+03:00",
+   "source": "Nefes"
+  },
+  {
    "title": "Ruslara böyle kaybettik! Yakup Cemil'in uymadığı emir neydi?",
    "link": "https://haberglobal.com/yazarlar/ruslara-boyle-kaybettik-yakup-cemilin-uymadigi-emir-neydi-553694",
    "author": "",
    "date": "2026-11-16T16:20:00+03:00",
    "source": "Haber Global"
+  },
+  {
+   "title": "Bu kadar",
+   "link": "https://www.nefes.com.tr/yazarlar/fatih-soylemezoglu/bu-kadar-164929",
+   "author": "Fatih Soylemezoglu",
+   "date": "2026-11-16T14:55:33+03:00",
+   "source": "Nefes"
   },
   {
    "title": "Atmaca ile korunacaklar, Malezya füzede Türkiye'yi seçti",
@@ -1183,6 +1239,55 @@
    "author": "Faruk Bildirici",
    "date": "2026-11-16T05:00:00+03:00",
    "source": "BirGün"
+  },
+  {
+   "title": "Kaynaklar Azalırken Dünya Ne Yapıyor? Antalya’da Geleceğin İzini Sürdüm…",
+   "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/kaynaklar-azalirken-dunya-ne-yapiyor-antalyada-gelecegin-izini-surdum-164797",
+   "author": "Damla Turgutlu Soybas",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Mirasın değil vefanın davası...",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/mirasin-degil-vefanin-davasi-164801",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Parti devleti itirafı",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/parti-devleti-itirafi-164803",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "O listenin tamamını açıklayamazlar!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/o-listenin-tamamini-aciklayamazlar-164804",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Erken seçim 2028 Nisan mı yoksa 2027 Kasım mı?",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/erken-secim-2028-nisan-mi-yoksa-2027-kasim-mi-164805",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "İbrahim Kalın, Kürtlere iyi geldi… Açılımda seçim endeksli vaatler!",
+   "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/ibrahim-kalin-kurtlere-iyi-geldi-acilimda-secim-endeksli-vaatler-164808",
+   "author": "Nuray Babacan",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Erbakan’ın Vasiyeti!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/erbakanin-vasiyeti-164809",
+   "author": "Umit Zileli",
+   "date": "2026-11-16T05:00:00+03:00",
+   "source": "Nefes"
   },
   {
    "title": "Milas: Tarihin, zeytinin ve lezzetin izinde",
@@ -1360,6 +1465,13 @@
    "source": "Hürriyet"
   },
   {
+   "title": "5 ayda Fenerbahçe'yi tazminat manyağı yaptı",
+   "link": "https://www.nefes.com.tr/yazarlar/alican-ozcan/5-ayda-fenerbahceyi-tazminat-manyagi-yapti-164745",
+   "author": "Alican Ozcan",
+   "date": "2026-11-15T16:16:00+03:00",
+   "source": "Nefes"
+  },
+  {
    "title": "Haftanın vizyonu | Vahşi At Dokuz: Son pişmanlık neye yarar!",
    "link": "https://www.hurriyet.com.tr/yazarlar/gozde-hatunoglu/haftanin-vizyonu-vahsi-at-dokuz-son-pismanlik-neye-yarar-43379226",
    "author": "Gözde Hatunoğlu",
@@ -1442,6 +1554,41 @@
    "author": "Nurcan Bilge Gökdemir",
    "date": "2026-11-15T05:00:00+03:00",
    "source": "BirGün"
+  },
+  {
+   "title": "Arda yetmez",
+   "link": "https://www.nefes.com.tr/yazarlar/utkan-aydin/arda-yetmez-164620",
+   "author": "Utkan Aydin",
+   "date": "2026-11-15T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Onlarda. Bizde",
+   "link": "https://www.nefes.com.tr/yazarlar/nevsin-mengu/onlarda-bizde-164626",
+   "author": "Nevsin Mengu",
+   "date": "2026-11-15T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Babası ağaca bağladı, o ağaçları evlat edindi!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/babasi-agaca-bagladi-o-agaclari-evlat-edindi-164627",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-15T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Bu cümleyi bizim mahalle kurmadı, AKP mahallesi kurdu: Fon krizi, AK Parti’yi izah edilmesi zor bir kriz ile baş başa bıraktı",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/bu-cumleyi-bizim-mahalle-kurmadi-akp-mahallesi-kurdu-fon-krizi-ak-partiyi-izah-edilmesi-zor-bir-kriz-ile-bas-basa-birakti-164630",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-15T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Yeni maya tutar!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/yeni-maya-tutar-164635",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-15T05:00:00+03:00",
+   "source": "Nefes"
   },
   {
    "title": "Listenin açıklanmaması nelere yol açıyor",
@@ -1682,6 +1829,41 @@
    "source": "BirGün"
   },
   {
+   "title": "MacBook Pro Çok Güzel Makine, Ama Sana Göre Değil!",
+   "link": "https://www.nefes.com.tr/yazarlar/firat-ozdemir/macbook-pro-cok-guzel-makine-ama-sana-gore-degil-164346",
+   "author": "Firat Ozdemir",
+   "date": "2026-11-14T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Memlekette Sıradan Bir Hafta: Acı, Hüzün, Öfke, Çokça Soru…",
+   "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/memlekette-siradan-bir-hafta-aci-huzun-ofke-cokca-soru-164426",
+   "author": "Damla Turgutlu Soybas",
+   "date": "2026-11-14T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Berdan Mardini’ye soruyorum: Kader mi karakter mi?",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/berdan-mardiniye-soruyorum-kader-mi-karakter-mi-164428",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-14T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "AKP’yi ve Beştepe'yi sarsan fon soygununa içeriden açık bir itiraz: Külliye’deki bürokrasinin sonucu fon krizi yaşandı, çoklu denetim şart",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/akpyi-ve-bestepeyi-sarsan-fon-soygununa-iceriden-acik-bir-itiraz-kulliyedeki-burokrasinin-sonucu-fon-krizi-yasandi-coklu-denetim-sart-164434",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-14T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Benzerliğe bakın, şapka çıkarın!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/benzerlige-bakin-sapka-cikarin-164435",
+   "author": "Umit Zileli",
+   "date": "2026-11-14T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
    "title": "Enflasyon Raporu, faiz indirimi ve reel sektör",
    "link": "https://www.yenisafak.com/yazarlar/levent-yilmaz/enflasyon-raporu-faiz-indirimi-ve-reel-sektor-4872302",
    "author": "Levent Yılmaz",
@@ -1841,6 +2023,48 @@
    "author": "Zafer Arapkirli",
    "date": "2026-11-13T05:00:00+03:00",
    "source": "BirGün"
+  },
+  {
+   "title": "Andre Rieu konseri ve gülümsemeyi unutan insanlarımız...",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/andre-rieu-konseri-ve-gulumsemeyi-unutan-insanlarimiz-164211",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-13T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Devrimciye ağıt",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/devrimciye-agit-164213",
+   "author": "Soner Yalcin",
+   "date": "2026-11-13T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Türk Lirası’nın kötü kaderi!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/turk-lirasinin-kotu-kaderi-164214",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-13T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Ne yapsalar olmuyor… Soygun unutulmuyor!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/ne-yapsalar-olmuyor-soygun-unutulmuyor-164215",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-13T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "ABD ile ilişkilerde zorlu dönem... AKP’de Trump sonrası senaryolar",
+   "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/abd-ile-iliskilerde-zorlu-donem-akpde-trump-sonrasi-senaryolar-164216",
+   "author": "Nuray Babacan",
+   "date": "2026-11-13T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Kurban kültürü",
+   "link": "https://www.nefes.com.tr/yazarlar/fatih-soylemezoglu/kurban-kulturu-164220",
+   "author": "Fatih Soylemezoglu",
+   "date": "2026-11-13T05:00:00+03:00",
+   "source": "Nefes"
   },
   {
    "title": "Karbonun bedelini kim ödeyecek?",
@@ -2011,6 +2235,55 @@
    "source": "BirGün"
   },
   {
+   "title": "Bence yaşamanın en güzel tarafı",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/bence-yasamanin-en-guzel-tarafi-163987",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "O şiir kime yazılmıştı?",
+   "link": "https://www.nefes.com.tr/yazarlar/can-atakli/o-siir-kime-yazilmisti-163990",
+   "author": "Can Atakli",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Size bir savcı tanıtayım",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/size-bir-savci-tanitayim-163991",
+   "author": "Soner Yalcin",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Herkesi taşıyamazsınız!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/herkesi-tasiyamazsiniz-163993",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Kendi parasının dilencisi!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/kendi-parasinin-dilencisi-163994",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "BDDK’dan Arıncı’ya kim talimat verdi?",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/bddkdan-arinciya-kim-talimat-verdi-163997",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Akrabanı seçemezsin!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/akrabani-secemezsin-164000",
+   "author": "Umit Zileli",
+   "date": "2026-11-12T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
    "title": "Büyük güç rekabeti ve istihbarat savaşlarındaki dönüşüm",
    "link": "https://www.yenisafak.com/yazarlar/nur-ozkan-erbay/buyuk-guc-rekabeti-ve-istihbarat-savaslarindaki-donusum-4871680",
    "author": "Nur Özkan Erbay",
@@ -2116,6 +2389,55 @@
    "source": "BirGün"
   },
   {
+   "title": "Temizlik İmandan, Hijyen Maddi İmkândan Gelir",
+   "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/temizlik-imandan-hijyen-maddi-imkandan-gelir-163773",
+   "author": "Damla Turgutlu Soybas",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Borsa eridi mi çöktü mü, normali mi yaşıyor?..",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/borsa-eridi-mi-coktu-mu-normali-mi-yasiyor-163775",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Övünüyorsunuz, güzel de…",
+   "link": "https://www.nefes.com.tr/yazarlar/can-atakli/ovunuyorsunuz-guzel-de-163780",
+   "author": "Can Atakli",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Mavi… Kırmızı… Yeşil…",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/mavi-kirmizi-yesil-163781",
+   "author": "Soner Yalcin",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Bu ne yaman çelişki!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/bu-ne-yaman-celiski-163782",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "CHP Genel Başkan Yardımcısı Bülent Kuşoğlu NEFES'e net konuştu: Bugün Altılı Masa olsaydı fon soygunu nedeniyle iktidar istifa ederdi",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/chp-genel-baskan-yardimcisi-bulent-kusoglu-nefese-net-konustu-bugun-altili-masa-olsaydi-fon-soygunu-nedeniyle-iktidar-istifa-ederdi-163787",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Seçim öncesi ikinci zam sorunu… İktidarda emekli zammı açmazı",
+   "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/secim-oncesi-ikinci-zam-sorunu-iktidarda-emekli-zammi-acmazi-163788",
+   "author": "Nuray Babacan",
+   "date": "2026-11-11T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
    "title": "Asgari ücretin kaderi mutfakta yazılıyor",
    "link": "https://www.yenisafak.com/yazarlar/ozgur-bayram-soylu/asgari-ucretin-kaderi-mutfakta-yaziliyor-4871365",
    "author": "Özgür Bayram Soylu",
@@ -2177,6 +2499,34 @@
    "author": "Hayri Kozanoğlu",
    "date": "2026-11-10T05:00:00+03:00",
    "source": "BirGün"
+  },
+  {
+   "title": "Godot’yu bekler gibi liste bekliyoruz",
+   "link": "https://www.nefes.com.tr/yazarlar/nevsin-mengu/godotyu-bekler-gibi-liste-bekliyoruz-163561",
+   "author": "Nevsin Mengu",
+   "date": "2026-11-10T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Atatürk’ün gözünden Kürt ve Arap konusu",
+   "link": "https://www.nefes.com.tr/yazarlar/can-atakli/ataturkun-gozunden-kurt-ve-arap-konusu-163563",
+   "author": "Can Atakli",
+   "date": "2026-11-10T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Atatürk’ün psikolojisi",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/ataturkun-psikolojisi-163564",
+   "author": "Soner Yalcin",
+   "date": "2026-11-10T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Faizin kucağına oturduk!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/faizin-kucagina-oturduk-163566",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-10T05:00:00+03:00",
+   "source": "Nefes"
   },
   {
    "title": "Bir yıldızın ölümünden geleceğimizi okumak",
