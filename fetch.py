@@ -155,6 +155,20 @@ def from_html(src):
                 t, a2 = dup_prefix(text)                # "Başlık Yazar Başlık"
                 if t:
                     title, author = t, a2
+
+        # title_regex: link metninden başlığı kalıpla ayıkla ((?P<t>...) grubu başlıktır).
+        # Kalıba uymayan linkler atlanır.
+        if src.get("title_regex"):
+            for t in texts:
+                mt = re.search(src["title_regex"], t)
+                if mt:
+                    title = mt.group("t").strip()
+                    break
+            else:
+                continue
+        if src.get("author"):                           # tek yazarlı site: sabit yazar adı
+            author = src["author"]
+
         title = title or text
         if author and author.isupper():
             author = tr_title(author)
@@ -195,6 +209,11 @@ def main():
             if src.get("author_from_page") and not it["author"] and fetched < MAX_PAGE_FETCH:
                 it["author"] = page_author(it["link"])
                 fetched += 1
+            # Yazar hâlâ yoksa linkten çıkar (author_regex: ilk grup yazar adı slug'ıdır)
+            if not it["author"] and src.get("author_regex"):
+                ma = re.search(src["author_regex"], it["link"])
+                if ma:
+                    it["author"] = tr_title(ma.group(1).replace("-", " "))
             if prev:
                 it["date"] = prev["date"]
             by_link[it["link"]] = it
