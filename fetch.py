@@ -67,6 +67,7 @@ def dup_prefix(s):
 def from_html(src):
     soup = BeautifulSoup(get(src["url"]).text, "html.parser")
     link_re = re.compile(src["link_regex"])
+    mode = src.get("author_from", "")
     names = {}  # slug -> düzgün yazar adı (Türkçe karakterli)
     if src.get("author_index_regex"):
         idx = re.compile(src["author_index_regex"])
@@ -76,23 +77,32 @@ def from_html(src):
             if m and text:
                 names.setdefault(m.group(1), text)
 
-    # Aynı yazıya giden tüm linkleri grupla
+    # Aynı yazıya giden tüm linkleri grupla (sayfa sırasıyla)
     groups = {}
-    for a in soup.find_all("a", href=True):
-        full = urljoin(src["url"], a["href"])
+    current = None
+    for el in soup.find_all(["a", "img"]):
+        if el.name == "img":
+            # Star: yazı linkinden hemen sonra gelen görselin alt metni yazar adıdır
+            if (mode == "next_img_alt" and current and el.get("alt")
+                    and not groups[current]["alt"]):
+                groups[current]["alt"] = el["alt"].strip()
+            continue
+        if not el.get("href"):
+            continue
+        full = urljoin(src["url"], el["href"])
         m = link_re.search(urlparse(full).path)
         if not m:
             continue
+        current = full
         g = groups.setdefault(full, {"slug": m.group(1), "texts": [], "title": "", "alt": ""})
-        text = a.get_text(" ", strip=True)
+        text = el.get_text(" ", strip=True)
         if text:
             g["texts"].append(text)
-        g["title"] = g["title"] or (a.get("title") or "").strip()
-        img = a.find("img")
+        g["title"] = g["title"] or (el.get("title") or "").strip()
+        img = el.find("img")
         if img and img.get("alt") and not g["alt"]:
             g["alt"] = img["alt"].strip()
 
-    mode = src.get("author_from", "")
     out = []
     for full, g in groups.items():
         texts, title = g["texts"], g["title"]
@@ -102,13 +112,14 @@ def from_html(src):
             author, title = texts[0], texts[1]          # 1. link yazar, 2. link başlık
         elif mode == "before_title" and title and title in text:
             author = text[: text.find(title)].strip() or author
-        elif mode == "img_alt":
+        elif mode in ("img_alt", "next_img_alt"):
             author = g["alt"] or author                 # yazar adı görselin alt metninde
-            t = text
-            if author and t.startswith(author):
-                t = t[len(author):].strip()
-            t = re.sub(r"\s*\d{1,2}\s+\S+\s+\d{4}\s*$", "", t)  # sondaki tarihi at
-            title = t or title
+            if mode == "img_alt":
+                t = text
+                if author and t.startswith(author):
+                    t = t[len(author):].strip()
+                t = re.sub(r"\s*\d{1,2}\s+\S+\s+\d{4}\s*$", "", t)  # sondaki tarihi at
+                title = t or title
         elif mode == "text":
             if title and text.endswith(title):
                 author = dup_prefix(text[: -len(title)].strip())[0] or author
@@ -117,7 +128,7 @@ def from_html(src):
                 if t:
                     title, author = t, a2
         title = title or text
-        if not author:
+        if not author and not g["slug"].isdigit():
             author = re.sub(r"-\d+$", "", g["slug"]).replace("-", " ").title()
         if not title:
             continue
