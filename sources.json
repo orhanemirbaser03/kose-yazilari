@@ -71,5 +71,20 @@
     "url": "https://haberglobal.com/rss/yazarlar",
     "link_filter": "/yazarlar/",
     "author_from_page": true
+  },
+  {
+    "name": "Fatih Altaylı",
+    "type": "html",
+    "url": "https://fatihaltayli.com.tr/",
+    "link_regex": "/yazarlar/([^/]+)/\\d{4}-\\d{2}-\\d{2}/[^/]+/?$",
+    "title_regex": "^(?P<t>.+?) Köşe Yazıları (?P=t) Fatih Altaylı",
+    "author": "Fatih Altaylı"
+  },
+  {
+    "name": "Nefes",
+    "type": "rss",
+    "url": "https://www.nefes.com.tr/export/rss/yazarlar",
+    "author_from_page": true,
+    "author_regex": "/yazarlar/([^/]+)/"
   }
 ]
