@@ -37,7 +37,7 @@ def tr_title(s):
 def page_author(url):
     """Yazı sayfasının <meta name="author"> alanından yazar adını okur."""
     try:
-        soup = soup_of(url)
+        soup = soup_of(url
         for key in ("author", "articleAuthor"):
             tag = soup.find("meta", attrs={"name": key})
             if tag and tag.get("content"):
@@ -80,6 +80,7 @@ def dup_prefix(s):
 
 def from_html(src):
     soup = soup_of(src["url"])
+    print(f'  {src["name"]} sayfası: {len(soup.find_all("a"))} link, başlık: {soup.title.string if soup.title else None}')
     link_re = re.compile(src["link_regex"])
     mode = src.get("author_from", "")
     names = {}  # slug -> düzgün yazar adı (Türkçe karakterli)
