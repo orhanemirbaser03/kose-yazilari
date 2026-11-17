@@ -129,4 +129,82 @@ def from_html(src):
 
     out = []
     for full, g in groups.items():
-        texts, title = g["texts"],
+        texts, title = g["texts"], g["title"]
+        text = texts[0] if texts else ""
+        author = names.get(g["slug"], "")
+        if mode == "link_pair" and len(texts) >= 2:
+            author, title = texts[0], texts[1]          # 1. link yazar, 2. link başlık
+        elif mode == "before_title" and title and title in text:
+            author = text[: text.find(title)].strip() or author
+        elif mode == "bold_title" and g["bold"]:        # Sabah: "YAZAR **Başlık** özet"
+            title = g["bold"]
+            if title in text:
+                author = text[: text.find(title)].strip() or author
+        elif mode in ("img_alt", "next_img_alt"):
+            author = g["alt"] or author                 # yazar adı görselin alt metninde
+            if mode == "img_alt":
+                t = text
+                if author and t.startswith(author):
+                    t = t[len(author):].strip()
+                t = re.sub(r"\s*\d{1,2}\s+\S+\s+\d{4}\s*$", "", t)  # sondaki tarihi at
+                title = t or title
+        elif mode == "text":
+            if title and text.endswith(title):
+                author = dup_prefix(text[: -len(title)].strip())[0] or author
+            elif not title:
+                t, a2 = dup_prefix(text)                # "Başlık Yazar Başlık"
+                if t:
+                    title, author = t, a2
+        title = title or text
+        if author and author.isupper():
+            author = tr_title(author)
+        if not author and not g["slug"].isdigit():
+            author = re.sub(r"-\d+$", "", g["slug"]).replace("-", " ").title()
+        if not title:
+            continue
+        out.append({"title": title, "link": full, "author": author, "date": NOW})
+    return out
+
+
+PARSERS = {"rss": from_rss, "html": from_html}
+
+
+def main():
+    sources = json.load(open("sources.json", encoding="utf-8"))
+    try:
+        old = json.load(open("articles.json", encoding="utf-8"))["articles"]
+    except Exception:
+        old = []
+    by_link = {a["link"]: a for a in old}  # eski kayıtlar (ilk görülme tarihi korunur)
+
+    for src in sources:
+        try:
+            items = PARSERS[src["type"]](src)
+            print(f'{src["name"]}: {len(items)} yazı')
+        except Exception as e:
+            print(f'{src["name"]}: HATA {e}')
+            continue
+        fetched = 0
+        for it in items:
+            if not (it["link"] and it["title"]):
+                continue
+            it["source"] = src["name"]
+            prev = by_link.get(it["link"])
+            if prev and (prev.get("author") or not src.get("author_from_page")):
+                continue
+            if src.get("author_from_page") and not it["author"] and fetched < MAX_PAGE_FETCH:
+                it["author"] = page_author(it["link"])
+                fetched += 1
+            if prev:
+                it["date"] = prev["date"]
+            by_link[it["link"]] = it
+
+    limit = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=KEEP_DAYS)).isoformat()
+    arts = sorted((a for a in by_link.values() if a["date"] >= limit),
+                  key=lambda a: a["date"], reverse=True)
+    json.dump({"updated": NOW, "articles": arts},
+              open("articles.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
+if __name__ == "__main__":
+    main()
