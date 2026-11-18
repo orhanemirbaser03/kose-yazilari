@@ -77,7 +77,7 @@
     "type": "html",
     "url": "https://fatihaltayli.com.tr/",
     "link_regex": "/yazarlar/([^/]+)/\\d{4}-\\d{2}-\\d{2}/[^/]+/?$",
-    "title_regex": "^(?P<t>.+?) Köşe Yazıları (?P=t) Fatih Altaylı",
+    "title_regex": "^Köşe Yazıları (?P<t>.+?) Fatih Altaylı",
     "author": "Fatih Altaylı"
   },
   {
