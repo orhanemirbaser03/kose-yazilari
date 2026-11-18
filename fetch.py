@@ -25,6 +25,11 @@ def soup_of(url):
     return BeautifulSoup(get(url).content, "html.parser")
 
 
+def clean(s):
+    """Her türlü boşluğu (görünmeyen boşluklar dahil) tek boşluğa çevirir."""
+    return re.sub(r"\s+", " ", s or "").strip()
+
+
 def tr_title(s):
     """BÜYÜK HARFLİ adı Türkçe kurallarıyla 'Büyük Harfli' yapar."""
     def fix(w):
@@ -90,7 +95,7 @@ def from_html(src):
         idx = re.compile(src["author_index_regex"])
         for a in soup.find_all("a", href=True):
             m = idx.search(urlparse(a["href"]).path)
-            text = a.get_text(strip=True)
+            text = clean(a.get_text(strip=True))
             low = text.lower()
             if "tüm" in low and "yazı" in low:   # "Tüm Yazıları" bağlantısı ad değildir
                 continue
@@ -105,7 +110,7 @@ def from_html(src):
             # Star: yazı linkinden hemen sonra gelen görselin alt metni yazar adıdır
             if (mode == "next_img_alt" and current and el.get("alt")
                     and not groups[current]["alt"]):
-                groups[current]["alt"] = el["alt"].strip()
+                groups[current]["alt"] = clean(el["alt"])
             continue
         if not el.get("href"):
             continue
@@ -116,17 +121,19 @@ def from_html(src):
         current = full
         g = groups.setdefault(
             full, {"slug": m.group(1), "texts": [], "title": "", "alt": "", "bold": ""})
-        text = el.get_text(" ", strip=True)
+        text = clean(el.get_text(" ", strip=True))
         if text:
             g["texts"].append(text)
-        g["title"] = g["title"] or (el.get("title") or "").strip()
+        g["title"] = g["title"] or clean(el.get("title"))
         img = el.find("img")
         if img and img.get("alt") and not g["alt"]:
-            g["alt"] = img["alt"].strip()
+            g["alt"] = clean(img["alt"])
         bold = el.find(["strong", "b"])
         if bold and not g["bold"]:
-            g["bold"] = bold.get_text(" ", strip=True)
+            g["bold"] = clean(bold.get_text(" ", strip=True))
+    print(f'  {src["name"]}: link kalıbına uyan {len(groups)} link')
 
+    shown = 0
     out = []
     for full, g in groups.items():
         texts, title = g["texts"], g["title"]
@@ -165,6 +172,9 @@ def from_html(src):
                     title = mt.group("t").strip()
                     break
             else:
+                if shown < 3:
+                    print(f'    kalıba uymayan metin: {texts[:2]!r}')
+                    shown += 1
                 continue
         if src.get("author"):                           # tek yazarlı site: sabit yazar adı
             author = src["author"]
