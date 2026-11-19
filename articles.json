@@ -1,6 +1,307 @@
 {
- "updated": "2026-11-19T00:59:19+00:00",
+ "updated": "2026-11-19T03:52:42+00:00",
  "articles": [
+  {
+   "title": "AKSA’nın “Hurda” makineleri EL-SEN’e takıldı",
+   "link": "https://www.birgun.net/makale/aksanin-hurda-makineleri-el-sene-takildi-747224",
+   "author": "Gözde Bedeloğlu",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Gerçekleri susturarak iktidarı koruyamazsınız!",
+   "link": "https://www.birgun.net/makale/gercekleri-susturarak-iktidari-koruyamazsiniz-747198",
+   "author": "Fikri Sağlar",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Şafak karanlığı kısa sürer!",
+   "link": "https://www.birgun.net/makale/safak-karanligi-kisa-surer-747199",
+   "author": "Merdan Yanardağ",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Dijital çağın yeni nesil savaşları: Siber saldırılar",
+   "link": "https://www.birgun.net/makale/dijital-cagin-yeni-nesil-savaslari-siber-saldirilar-747201",
+   "author": "Mahir Ulutaş",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "23 Kasım'a giderken: Eğitim hakkı ve karma eğitim için mücadele",
+   "link": "https://www.birgun.net/makale/23-kasim-a-giderken-egitim-hakki-ve-karma-egitim-icin-mucadele-747197",
+   "author": "Feray Aytekin Aydoğan",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "18 Kasım 1986'da başlayan tarihi grev tam 93 gün sürdü: 40. yılında Netaş Grevi",
+   "link": "https://www.birgun.net/makale/18-kasim-1986-da-baslayan-tarihi-grev-tam-93-gun-surdu-40-yilinda-netas-grevi-747202",
+   "author": "Nazım Alpman",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Orkestranın sesi",
+   "link": "https://www.birgun.net/makale/orkestranin-sesi-747196",
+   "author": "Zeynep Altıok Akatlı",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Tiyatromuz yaşasın",
+   "link": "https://www.birgun.net/makale/tiyatromuz-yasasin-747200",
+   "author": "Burhan Şeşen",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Emekliye zam fiyatlara bayram mı?",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/emekliye-zam-fiyatlara-bayram-mi-165413",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Şaşırmıyorum",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/sasirmiyorum-165416",
+   "author": "Soner Yalcin",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Hiç olmazsa 67 kişiyi açıklayın!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/hic-olmazsa-67-kisiyi-aciklayin-165417",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "HGS rezaleti! Gişe gitti, avukat geldi",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/hgs-rezaleti-gise-gitti-avukat-geldi-165419",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Tera’ya, Pusula’yı alma talimatını kim/ler verdi?",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/teraya-pusulayi-alma-talimatini-kimler-verdi-165421",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Görme duyma konuşma!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/gorme-duyma-konusma-165422",
+   "author": "Umit Zileli",
+   "date": "2026-11-19T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Boşu boşlukla doldurmak",
+   "link": "https://www.yenisafak.com/yazarlar/gokhan-ozcan/bosu-boslukla-doldurmak-4874154",
+   "author": "Gökhan Özcan",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "John Berger ile geç kalınmış bir hesaplaşma",
+   "link": "https://www.yenisafak.com/yazarlar/omer-lekesiz/john-berger-ile-gec-kalinmis-bir-hesaplasma-4874118",
+   "author": "Ömer Lekesiz",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Kaosların içinde üçlü zirve",
+   "link": "https://www.yenisafak.com/yazarlar/suleyman-seyfi-ogun/kaoslarin-icinde-uclu-zirve-4874133",
+   "author": "Süleyman Seyfi Öğün",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Berlin’de “Made in EU” günü!",
+   "link": "https://www.yenisafak.com/yazarlar/levent-yilmaz/berlinde-made-in-eu-gunu-4874127",
+   "author": "Levent Yılmaz",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Siyonizm’in yeni cephesi: Yahudi-Hıristiyan ittifakı",
+   "link": "https://www.yenisafak.com/yazarlar/selcuk-turkyilmaz/siyonizmin-yeni-cephesi-yahudi-hiristiyan-ittifaki-4874151",
+   "author": "Selçuk Türkyılmaz",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "20 yıl önceki bir suikast neden bugüne taşındı? İşaret mi, mesaj mı, tehdit mi?\nSavunma sanayiinin öncüleri, “özel koruma” altına alınmalı. Konvansiyonel koruma yetmez. \nİstihbarat ve Emniyet’te, sadece bu amaca yönelik, “özel birimler” kurulmalı.",
+   "link": "https://www.yenisafak.com/yazarlar/ibrahim-karagul/20-yil-onceki-bir-suikast-neden-bugune-tasindi-isaret-mi-mesaj-mi-tehdit-misavunma-sanayiinin-onculeri-ozel-koruma-altina-alinmali-konvansiyonel-koruma-yetmez-istihbarat-ve-emniyette-sadece-bu-amaca-yonelik-ozel-birimler-kurulmali-4874149",
+   "author": "İbrahim Karagül",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Avrupa’nın yeni ticaret kalkanı",
+   "link": "https://www.yenisafak.com/yazarlar/erdal-tanas-karagol/avrupanin-yeni-ticaret-kalkani-4874131",
+   "author": "Erdal Tanas Karagöl",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Ezeli rakipler aynı masada… Yeni bir dünya kurulurken Türkiye’nin \n“merkez ülke” hedefini anlamak…",
+   "link": "https://www.yenisafak.com/yazarlar/nur-ozkan-erbay/ezeli-rakipler-ayni-masada-yeni-bir-dunya-kurulurken-turkiyenin-merkez-ulke-hedefini-anlamak-4874143",
+   "author": "Nur Özkan Erbay",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Masada olmayan menüdedir…",
+   "link": "https://www.yenisafak.com/yazarlar/ali-saydam/masada-olmayan-menudedir-4874124",
+   "author": "Ali Saydam",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yeni bir dünyaya doğru mu? Dugin haritası ve Çin’deki zirve üzerine",
+   "link": "https://www.yenisafak.com/yazarlar/turgay-yerlikaya/yeni-bir-dunyaya-dogru-mu-dugin-haritasi-ve-cindeki-zirve-uzerine-4874138",
+   "author": "Turgay Yerlikaya",
+   "date": "2026-11-19T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yalıhüyük Kaymakamı!",
+   "link": "https://www.korkusuz.com.tr/yalihuyuk-kaymakami-p58512",
+   "author": "Mustafa Mutlu",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Cinsel sorunlarda çözümü tek başına üstlenmek zor!",
+   "link": "https://www.korkusuz.com.tr/cinsel-sorunlarda-cozumu-tek-basina-ustlenmek-zor-p58513",
+   "author": "Kemal Özcan",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Altın yumurtlayan tavuk???",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/altin-yumurtlayan-tavuk-2557389",
+   "author": "Emre Kongar",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Matematik sorumluyu söylüyor",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-terkoglu/matematik-sorumluyu-soyluyor-2557391",
+   "author": "Barış Terkoğlu",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Dur bakalım, n’olcek? Peki bu kapatmalar iktidarı kurtarır mı?",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/dur-bakalim-n-olcek-peki-bu-kapatmalar-iktidari-kurtarir-mi-2557394",
+   "author": "Orhan Bursalı",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Yalta değil, Tianxia",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ergin-yildizoglu/yalta-degil-tianxia-2557400",
+   "author": "Ergin Yıldızoğlu",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Bugünkü zirve...",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/bugunku-zirve-2557392",
+   "author": "Mustafa Balbay",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "1802 Malta, 2026 Türkiye... AKP iktidarının tarihsel utancı",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-saltik/1802-malta-2026-turkiye-akp-iktidarinin-tarihsel-utanci-2557399",
+   "author": "Ahmet Saltık",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Tek parti, tek medya, tek sandık",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-ali-guller/tek-parti-tek-medya-tek-sandik-2557397",
+   "author": "Mehmet Ali Güller",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Güzellikle zulüm arasında",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/guzellikle-zulum-arasinda-2557402",
+   "author": "Zeynep Oral",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Karartmalar vız gelir!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/bedri-baykam/karartmalar-viz-gelir-2557360",
+   "author": "Bedri Baykam",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Kaos!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/erman-kunter/kaos-2557401",
+   "author": "Erman Kunter",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Birlikte yaşamak ama nasıl? - Betül Çotuksöken",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/birlikte-yasamak-ama-nasil-betul-cotuksoken-2557385",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Yeni Parti ve yeni siyaset - Gazi Zorer",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/yeni-parti-ve-yeni-siyaset-gazi-zorer-2557387",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Z kuşağının öfkesi",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ali-apaydin/z-kusaginin-ofkesi-2557406",
+   "author": "Ali Apaydın",
+   "date": "2026-11-19T03:52:42+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan’ın mesajlarının kodları",
+   "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/cumhurbaskani-erdoganin-mesajlarinin-kodlari-43383154",
+   "author": "Abdulkadir SELVİ",
+   "date": "2026-11-19T03:06:11+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Kritik zirve öncesi Rusya büyükelçisi Hürriyet’e konuştu: Yeni dünya düzeni kuruluyor",
+   "link": "https://www.hurriyet.com.tr/yazarlar/hande-firat/kritik-zirve-oncesi-rusya-buyukelcisi-hurriyete-konustu-yeni-dunya-duzeni-kuruluyor-43383179",
+   "author": "Hande FIRAT",
+   "date": "2026-11-19T03:04:53+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Emekli maaşı zammında konuşulan 5 seçenek",
+   "link": "https://www.hurriyet.com.tr/yazarlar/noyan-dogan/emekli-maasi-zamminda-konusulan-5-secenek-43383157",
+   "author": "Noyan Doğan",
+   "date": "2026-11-19T03:03:50+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Tarım ve Orman Bakanı İbrahim Yumaklı’yla gıda güvenliğini konuştuk... Güvenli gıda devrimi başlıyor",
+   "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/tarim-ve-orman-bakani-ibrahim-yumakliyla-gida-guvenligini-konustuk-guvenli-gida-devrimi-basliyor-43383143",
+   "author": "Ahmet HAKAN",
+   "date": "2026-11-19T03:02:27+00:00",
+   "source": "Hürriyet"
+  },
   {
    "title": "Keşke sadece 450 bin mağdur olsa",
    "link": "https://fatihaltayli.com.tr/yazarlar/fatih-altayli/2026-11-18/keske-sadece-450-bin-magdur-olsa",
