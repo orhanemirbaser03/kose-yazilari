@@ -120,7 +120,8 @@ def from_html(src):
             continue
         current = full
         g = groups.setdefault(
-            full, {"slug": m.group(1), "texts": [], "title": "", "alt": "", "bold": ""})
+            full, {"slug": m.group(1), "texts": [], "title": "", "alt": "",
+                   "bold": "", "strings": []})
         text = clean(el.get_text(" ", strip=True))
         if text:
             g["texts"].append(text)
@@ -131,6 +132,8 @@ def from_html(src):
         bold = el.find(["strong", "b"])
         if bold and not g["bold"]:
             g["bold"] = clean(bold.get_text(" ", strip=True))
+        if not g["strings"]:
+            g["strings"] = [clean(s) for s in el.stripped_strings if clean(s)]
     print(f'  {src["name"]}: link kalıbına uyan {len(groups)} link')
 
     shown = 0
@@ -141,6 +144,12 @@ def from_html(src):
         author = names.get(g["slug"], "")
         if mode == "link_pair" and len(texts) >= 2:
             author, title = texts[0], texts[1]          # 1. link yazar, 2. link başlık
+        elif mode == "strings_pair" and len(g["strings"]) >= 2:
+            # T24: link içindeki ilk metin yazar, son metin başlık
+            author, title = g["strings"][0], g["strings"][-1]
+            if shown < 2:
+                print(f'    örnek metinler: {g["strings"]!r}')
+                shown += 1
         elif mode == "before_title" and title and title in text:
             author = text[: text.find(title)].strip() or author
         elif mode == "bold_title" and g["bold"]:        # Sabah: "YAZAR **Başlık** özet"
