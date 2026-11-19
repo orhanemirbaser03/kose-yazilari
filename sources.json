@@ -86,5 +86,12 @@
     "url": "https://www.nefes.com.tr/export/rss/yazarlar",
     "author_from_page": true,
     "author_regex": "/yazarlar/([^/]+)/"
+  },
+  {
+    "name": "T24",
+    "type": "html",
+    "url": "https://t24.com.tr/son-yazilar",
+    "link_regex": "/yazarlar/([^/]+)/[^/]+,\\d+/?$",
+    "author_from": "strings_pair"
   }
 ]
