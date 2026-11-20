@@ -1,6 +1,272 @@
 {
- "updated": "2026-11-20T00:54:19+00:00",
+ "updated": "2026-11-20T03:49:50+00:00",
  "articles": [
+  {
+   "title": "Sağlık sisteminde yeni komite riski",
+   "link": "https://www.birgun.net/makale/saglik-sisteminde-yeni-komite-riski-747350",
+   "author": "Bayazıt İlhan",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Aynaları kıra kıra...",
+   "link": "https://www.birgun.net/makale/aynalari-kira-kira-747351",
+   "author": "Zafer Arapkirli",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Gazeteci olmanın ağır bedeli: İşsizlik de var, cezaevi de",
+   "link": "https://www.birgun.net/makale/gazeteci-olmanin-agir-bedeli-issizlik-de-var-cezaevi-de-747353",
+   "author": "Hüseyin İrfan Fırat",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Aynı gün, iki hukuk",
+   "link": "https://www.birgun.net/makale/ayni-gun-iki-hukuk-747348",
+   "author": "Yalçın Karatepe",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Devletin aklı mı yurttaşın hakkı mı?...",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/devletin-akli-mi-yurttasin-hakki-mi-165604",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Bu işin magazini olmaz",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/bu-isin-magazini-olmaz-165606",
+   "author": "Soner Yalcin",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Korkaklıkla yaşanır mı?",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/korkaklikla-yasanir-mi-165609",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Fon zararda, 3 milyar cepte, hisseler yerinde!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/fon-zararda-3-milyar-cepte-hisseler-yerinde-165611",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Türkiye Sigorta eski Genel Müdürü Taha Çakmak’ın altı sayfalık ifadesini okudum: GrainTürk hissesinden 24 milyon lira kazandım, gerekiyorsa iade edebilirim",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/turkiye-sigorta-eski-genel-muduru-taha-cakmakin-alti-sayfalik-ifadesini-okudum-grainturk-hissesinden-24-milyon-lira-kazandim-gerekiyorsa-iade-edebilirim-165613",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Üç konu, çok açmaz… ABD seçimi, küreselleşme ve COP",
+   "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/uc-konu-cok-acmaz-abd-secimi-kuresellesme-ve-cop-165615",
+   "author": "Nuray Babacan",
+   "date": "2026-11-20T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "“Kendini iyi hisset!” buyruğu ya da mutluluk zorunluluğu",
+   "link": "https://www.yenisafak.com/yazarlar/fatma-barbarosoglu/kendini-iyi-hisset-buyrugu-ya-da-mutluluk-zorunlulugu-4874570",
+   "author": "Fatma Barbarosoğlu",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Fan, Fin, Fon",
+   "link": "https://www.yenisafak.com/yazarlar/mehmet-seker/fan-fin-fon-4874602",
+   "author": "Mehmet Şeker",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Müslümanlar 2035’te Hristiyanları geçecek!",
+   "link": "https://www.yenisafak.com/yazarlar/mehmet-akif-soysal/muslumanlar-2035te-hristiyanlari-gececek-4874579",
+   "author": "Mehmet Akif Soysal",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Kılınmak için iki yıldır bekleyen namaz",
+   "link": "https://www.yenisafak.com/yazarlar/ersin-celik/kilinmak-icin-iki-yildir-bekleyen-namaz-4874574",
+   "author": "Ersin Çelik",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Fon vurgunu: İflas eden sahih İslâm değil, protestanlaştırılan sahte İslâm anlayışıdır!",
+   "link": "https://www.yenisafak.com/yazarlar/yusuf-kaplan/fon-vurgunu-iflas-eden-sahih-islam-degil-protestanlastirilan-sahte-islam-anlayisidir-4874587",
+   "author": "Yusuf Kaplan",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Bir Körfez ülkesinden Ankara’ya yeni teklif",
+   "link": "https://www.yenisafak.com/yazarlar/yahya-bostan/bir-korfez-ulkesinden-ankaraya-yeni-teklif-4874598",
+   "author": "Yahya Bostan",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "“Osmanlı’dan Günümüze Hâlidîlik” sempozyumunun ardından",
+   "link": "https://www.yenisafak.com/yazarlar/mahmut-ay/osmanlidan-gunumuze-halidilik-sempozyumunun-ardindan-4874584",
+   "author": "Mahmut Ay",
+   "date": "2026-11-20T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Büyük ihanet!",
+   "link": "https://www.korkusuz.com.tr/buyuk-ihanet-p58531",
+   "author": "Mustafa Mutlu",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Tekrar eden sorunlar tesadüf değildir",
+   "link": "https://www.korkusuz.com.tr/tekrar-eden-sorunlar-tesaduf-degildir-p58532",
+   "author": "Kemal Özcan",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Seçildikten sonra parti değiştirmek yasaklanmalıdır",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/secildikten-sonra-parti-degistirmek-yasaklanmalidir-2557702",
+   "author": "Emre Kongar",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Şam’ın şekeri değil Isparta gülü",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ozdemir-ince/sam-in-sekeri-degil-isparta-gulu-2557703",
+   "author": "Özdemir İnce",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Suya düşen pazarlık!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/zulal-kalkandelen/suya-dusen-pazarlik-2557708",
+   "author": "Zülal Kalkandelen",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Merhamet yorgunları",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-pehlivan/merhamet-yorgunlari-2557704",
+   "author": "Barış Pehlivan",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Kaybedenler ve kazananlar",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/sertac-es/kaybedenler-ve-kazananlar-2557706",
+   "author": "Sertaç Eş",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Susturmak yetiyor mu? Baskı iktidarı kurtarır mı?",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ozlem-yuzak/susturmak-yetiyor-mu-baski-iktidari-kurtarir-mi-2557712",
+   "author": "Özlem Yüzak",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Sağlam temelli eğitim",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/adnan-binyazar/saglam-temelli-egitim-2557713",
+   "author": "Adnan Binyazar",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Yüksek emekli aylığı için 2026 mı yoksa 2027 yılında mı müracaat daha avantajlı?",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/nergis-simsek/yuksek-emekli-ayligi-icin-2026-mi-yoksa-2027-yilinda-mi-muracaat-daha-avantajli-2557711",
+   "author": "Nergis Şimşek",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Bir ülke kendine neler eder!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/feridun-andac/bir-ulke-kendine-neler-eder-2557709",
+   "author": "Feridun Andaç",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Basketboldan dersler",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/gulengul-altinsay/basketboldan-dersler-2557714",
+   "author": "Gülengül Altınsay",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "İzmir’de yeni dönem ve ‘İzmir duruşu’nu sahiplenmek",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/izmir-de-yeni-donem-ve-izmir-durusu-nu-sahiplenmek-2557744",
+   "author": "Mehmet Şakir Örs",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Eğirdir’e İstiklal Madalyası verilmeli",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/tolga-aydogan/egirdir-e-istiklal-madalyasi-verilmeli-2557715",
+   "author": "Tolga Aydoğan",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Oportünizm ve antimilli bir fodulluk - Engin Berber",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/oportunizm-ve-antimilli-bir-fodulluk-engin-berber-2557698",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Kişilik nasıl kazanılır? - Nusret Ertürk",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/kisilik-nasil-kazanilir-nusret-erturk-2557699",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-20T03:49:50+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Darüşşafaka ‘dünyanın en iyisi’ seçildi",
+   "link": "https://www.hurriyet.com.tr/yazarlar/nuran-cakmakci/darussafaka-dunyanin-en-iyisi-secildi-43384418",
+   "author": "Nuran ÇAKMAKÇI",
+   "date": "2026-11-20T03:09:24+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İmamoğlu ve Özel’in CHP’yi pavyon köşelerinde delege pazarında hile ile ele geçirdiği karara bağlandı",
+   "link": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/imamoglu-ve-ozelin-chpyi-pavyon-koselerinde-delege-pazarinda-hile-ile-ele-gecirdigi-karara-baglandi-43384431",
+   "author": "Nedim ÅENER",
+   "date": "2026-11-20T02:58:30+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İmamoğlu cumhurbaşkanı adayı olamıyor peki aday kim",
+   "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/imamoglu-cumhurbaskani-adayi-olamiyor-peki-aday-kim-43384414",
+   "author": "Abdulkadir SELVİ",
+   "date": "2026-11-20T02:57:31+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Rusya Büyükelçisi’nden kritik mesajlar: S-400, Karadeniz, İran",
+   "link": "https://www.hurriyet.com.tr/yazarlar/hande-firat/rusya-buyukelcisinden-kritik-mesajlar-s-400-karadeniz-iran-43384462",
+   "author": "Hande FIRAT",
+   "date": "2026-11-20T02:56:28+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "En çok götürenler listesini açıklıyorum",
+   "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/en-cok-goturenler-listesini-acikliyorum-43384449",
+   "author": "Ahmet HAKAN",
+   "date": "2026-11-20T02:55:25+00:00",
+   "source": "Hürriyet"
+  },
   {
    "title": "Yayın kuruluşu kapatma veya kayyıma devretmenin farklı boyutları",
    "link": "https://t24.com.tr/yazarlar/ercan-uygur/yayin-kurulusu-kapatma-veya-kayyima-devretmenin-farkli-boyutlari,59999",
