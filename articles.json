@@ -1,6 +1,314 @@
 {
- "updated": "2026-11-23T03:57:41+00:00",
+ "updated": "2026-11-23T07:24:05+00:00",
  "articles": [
+  {
+   "title": "AB'nin 10 yıllık vize açmazı, mallar geçiyor Türkler bekliyor!",
+   "link": "https://haberglobal.com/yazarlar/abnin-10-yillik-vize-acmazi-mallar-geciyor-turkler-bekliyor-554695",
+   "author": "",
+   "date": "2026-11-23T09:45:00+03:00",
+   "source": "Haber Global"
+  },
+  {
+   "title": "Şampiyonluk istiyorsan bu savunma yetmez!",
+   "link": "https://www.sozcu.com.tr/sampiyonluk-istiyorsan-bu-savunma-yetmez-p383633",
+   "author": "Sonuç Sürmeli",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Sorunun kendisi Fenerbahçe",
+   "link": "https://www.sozcu.com.tr/sorunun-kendisi-fenerbahce-p383580",
+   "author": "Sercan C. Güler",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Şeytanın bacağını kırdı",
+   "link": "https://www.sozcu.com.tr/seytanin-bacagini-kirdi-p383597",
+   "author": "Ozan Kılıç",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Karbon düğümünü nükleer enerji çözer",
+   "link": "https://www.sabah.com.tr/yazarlar/melihaltinok/2026/11/23/karbon-dugumunu-nukleer-enerji-cozer",
+   "author": "Melih Altınok",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Caminin mumunu yiyen kedinin gözü kör olur",
+   "link": "https://www.sabah.com.tr/yazarlar/donat/2026/11/23/caminin-mumunu-yiyen-kedinin-gozu-kor-olur",
+   "author": "Yavuz Donat",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Grip aşısı için önemli hatırlatmalar",
+   "link": "https://www.sabah.com.tr/yazarlar/osman-muftuoglu/2026/11/23/grip-asisi-icin-onemli-hatirlatmalar",
+   "author": "Osman Müftüoğlu",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Avrupa bu fotoğrafın neresinde?",
+   "link": "https://www.sabah.com.tr/yazarlar/ozlemdoganer/2026/11/23/avrupa-bu-fotografin-neresinde",
+   "author": "Özlem Doğaner",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Satılan 100 otodan 66’sı SUV",
+   "link": "https://www.sabah.com.tr/yazarlar/sandik/2026/11/23/satilan-100-otodan-66si-suv",
+   "author": "Ufuk Sandık",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Taban eğilimlerine karşı hassasiyetin siyasi anlamı",
+   "link": "https://www.sabah.com.tr/yazarlar/nebi_mis/2026/11/23/taban-egilimlerine-karsi-hassasiyetin-siyasi-anlami",
+   "author": "Nebi Miş",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Hücum gücünü gösterdi, takıntısını törpüledi",
+   "link": "https://www.sabah.com.tr/yazarlar/spor/fdogan/2026/11/23/hucum-gucunu-gosterdi-takintisini-torpuledi",
+   "author": "Fatih Doğan",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Konya’da oyun değil, kalite kazandı!",
+   "link": "https://www.sabah.com.tr/yazarlar/spor/murat_ozbostan/2026/11/23/konyada-oyun-degil-kalite-kazandi",
+   "author": "Murat Özbostan",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Hakem başarılıydı!",
+   "link": "https://www.sabah.com.tr/yazarlar/spor/mustafa-culcu/2026/11/23/hakem-basariliydi",
+   "author": "Mustafa Çulcu",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Fırtına’nın üstünlüğü skora yansımadı",
+   "link": "https://www.sabah.com.tr/yazarlar/spor/gunen/2026/11/23/firtinanin-ustunlugu-skora-yansimadi",
+   "author": "İskender Günen",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Roma’da ikinci kez ‘evet’ diyecek",
+   "link": "https://www.sabah.com.tr/yazarlar/gunaydin/cankurt/2026/11/23/romada-ikinci-kez-evet-diyecek",
+   "author": "Bülent Cankurt",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Ordu’nun nefis lezzetleri",
+   "link": "https://www.sabah.com.tr/yazarlar/gunaydin/idil-cimrin/2026/11/23/ordunun-nefis-lezzetleri",
+   "author": "İdil Açıkalın",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Dünyaca ünlü sanatçılar da dijital gelir istiyor",
+   "link": "https://www.sabah.com.tr/yazarlar/gunaydin/hakan-uc/2026/11/23/dunyaca-unlu-sanatcilar-da-dijital-gelir-istiyor",
+   "author": "Hakan Uç",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Sabah"
+  },
+  {
+   "title": "Çağrı üzerine çalışma",
+   "link": "https://www.milliyet.com.tr/yazarlar/cem-kilic/cagri-uzerine-calisma-7705867",
+   "author": "Cem Kılıç",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Özel’in çıkışına partisi ne diyor?",
+   "link": "https://www.milliyet.com.tr/yazarlar/didem-ozel-tumer/ozelin-cikisina-partisi-ne-diyor-7705878",
+   "author": "Didem Özel Tümer",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Zirveler, görüş ayrılıkları ve yeni dünya",
+   "link": "https://www.milliyet.com.tr/yazarlar/abdullah-karakus/zirveler-gorus-ayriliklari-ve-yeni-dunya-7705833",
+   "author": "Abdullah Karakuş",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Yalta olmadı; peki ne oldu?",
+   "link": "https://www.milliyet.com.tr/yazarlar/hakki-ocal/yalta-olmadi-peki-ne-oldu-7705873",
+   "author": "Hakkı Öcal",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "İlk taşı bembeyaz olan atsın",
+   "link": "https://www.milliyet.com.tr/yazarlar/asu-maro/ilk-tasi-bembeyaz-olan-atsin-7705876",
+   "author": "Asu Maro",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Mutfaktaki şekeri kestiniz, peki ya ekrandaki ışığı?",
+   "link": "https://www.milliyet.com.tr/yazarlar/dr-demet-erciyes/mutfaktaki-sekeri-kestiniz-peki-ya-ekrandaki-isigi-7705861",
+   "author": "Dr. Demet Erciyes",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "İnsan Tek Başına Kemale Erebilir mi? İbn Miskeveyh’ten Michelangelo Fenomenine",
+   "link": "https://www.milliyet.com.tr/yazarlar/prof-dr-mahmut-ozer/insan-tek-basina-kemale-erebilir-mi-ibn-miskeveyhten-michelangelo-fenomenine-7705797",
+   "author": "Prof. Dr. Mahmut Özer",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Altılı ganyanda bugün (23 Kasım)",
+   "link": "https://www.milliyet.com.tr/skorer/afsin-yakuboglu/altili-ganyanda-bugun-23-kasim-7705850",
+   "author": "Afşın Yakuboğlu",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Cerny'den net mesaj",
+   "link": "https://www.milliyet.com.tr/skorer/bilal-mese/cernyden-net-mesaj-7705840",
+   "author": "Bilal Meşe",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Galip gelmek, yoluna devam etmek; pek güzel!",
+   "link": "https://www.milliyet.com.tr/skorer/aksal-yavuz/galip-gelmek-yoluna-devam-etmek-pek-guzel-7705855",
+   "author": "Aksal Yavuz",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Ustaların maçı",
+   "link": "https://www.milliyet.com.tr/skorer/attila-gokce/ustalarin-maci-7705839",
+   "author": "Attila Gökçe",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Zevahiri kurtardı!",
+   "link": "https://www.milliyet.com.tr/skorer/cemal-ersen/zevahiri-kurtardi-7705838",
+   "author": "Cemal Ersen",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Yobaz gerici laik diabolik!",
+   "link": "https://www.aksam.com.tr/yazarlar/hikmet-genc/yobaz-gerici-laik-diabolik/haber-1716548",
+   "author": "Hikmet Genç",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "MGK teyidi beklenirken",
+   "link": "https://www.aksam.com.tr/yazarlar/kurtulus-tayiz/mgk-teyidi-beklenirken/haber-1716553",
+   "author": "Kurtuluş Tayiz",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "Değişen manzaranın hissettirdiği",
+   "link": "https://www.aksam.com.tr/yazarlar/taceddin-kutay/degisen-manzaranin-hissettirdigi/haber-1716552",
+   "author": "Taceddin Kutay",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "Kırım ve Türklüğün hafızası",
+   "link": "https://www.aksam.com.tr/yazarlar/oguzhan-bilgin/kirim-ve-turklugun-hafizasi/haber-1716551",
+   "author": "Oğuzhan Bilgin",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "Beşiktaş her maç hakemleri de yenmek zorunda mı?",
+   "link": "https://www.aksam.com.tr/yazarlar/alen-markaryan/besiktas-her-mac-hakemleri-de-yenmek-zorunda-mi/haber-1716573",
+   "author": "Alen Markaryan",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "Eyüp sabrıyla...",
+   "link": "https://www.aksam.com.tr/yazarlar/kenan-karci/eyup-sabriyla/haber-1716570",
+   "author": "Kenan Karcı",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "Mobbing olmadan işçi tazminat alabilir mi?",
+   "link": "https://www.aksam.com.tr/yazarlar/tarkan-zengin/mobbing-olmadan-isci-tazminat-alabilir-mi/haber-1716549",
+   "author": "Tarkan Zengin",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "Italiano çözemedi!",
+   "link": "https://www.aksam.com.tr/yazarlar/burak-colo/italiano-cozemedi/haber-1716569",
+   "author": "Burak Çolo",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Akşam"
+  },
+  {
+   "title": "İran'daki bütün köprüleri vururum!' diyen Trump'ın akıllıca' (?!) lafları..",
+   "link": "https://m.star.com.tr/yazar/irandaki-butun-kopruleri-vururum-diyen-trumpin-akillica-laflari-yazi-2055156/",
+   "author": "Selahaddin E. ÇAKIRGİL",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Star"
+  },
+  {
+   "title": "ABD-İran savaşı: Kazanan yok, değişen çok",
+   "link": "https://m.star.com.tr/yazar/abd-iran-savasi-kazanan-yok-degisen-cok-yazi-2055100/",
+   "author": "Halime KÖKCE",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Star"
+  },
+  {
+   "title": "HGS soruşturması fon soygunu kadar konuşulacaktır",
+   "link": "https://m.star.com.tr/yazar/hgs-sorusturmasi-fon-soygunu-kadar-konusulacaktir-yazi-2055119/",
+   "author": "Yakup KÖSE",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Star"
+  },
+  {
+   "title": "Yılın kelimesi: İnsan",
+   "link": "https://m.star.com.tr/yazar/yilin-kelimesi-insan-yazi-2055122/",
+   "author": "M. Yalçın YILMAZ",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Star"
+  },
+  {
+   "title": "Katil Robotlar'",
+   "link": "https://m.star.com.tr/yazar/katil-robotlar-yazi-2055107/",
+   "author": "Filiz Katman",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Star"
+  },
+  {
+   "title": "İklim değişikliği bir tehdit mi yeni bir ekonomi fırsatı mı?",
+   "link": "https://m.star.com.tr/yazar/iklim-degisikligi-bir-tehdit-mi-yeni-bir-ekonomi-firsati-mi-yazi-2055101/",
+   "author": "Adil Karaismailoğlu",
+   "date": "2026-11-23T07:24:05+00:00",
+   "source": "Star"
+  },
+  {
+   "title": "ATDSK Cup’ta 11 ülkeden 116 genç raket kupa için yarıştı",
+   "link": "https://www.hurriyet.com.tr/yazarlar/erdal-fernergiz/atdsk-cupta-11-ulkeden-116-genc-raket-kupa-icin-yaristi-43387528",
+   "author": "Erdal Fernergiz",
+   "date": "2026-11-23T06:04:00+00:00",
+   "source": "Hürriyet"
+  },
   {
    "title": "Zorbanın korktuğu ne varsa!",
    "link": "https://www.birgun.net/makale/zorbanin-korktugu-ne-varsa-747848",
@@ -84,6 +392,20 @@
    "author": "Argun Darici",
    "date": "2026-11-23T05:00:00+03:00",
    "source": "Nefes"
+  },
+  {
+   "title": "Şehrin hafızasında saklı bir dönem",
+   "link": "https://www.hurriyet.com.tr/yazarlar/sayim-cinar/sehrin-hafizasinda-sakli-bir-donem-43387489",
+   "author": "Sayım Çınar",
+   "date": "2026-11-23T04:28:00+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Bir James Bond nasıl seçilir?",
+   "link": "https://www.hurriyet.com.tr/yazarlar/arda-sayiner/bir-james-bond-nasil-secilir-43387488",
+   "author": "Arda Sayıner",
+   "date": "2026-11-23T04:19:00+00:00",
+   "source": "Hürriyet"
   },
   {
    "title": "Dünyalının dünyalığı",
@@ -195,6 +517,55 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/salim-uzun/bakan-beye-cagrim-var-43387439",
    "author": "Salim Uzun",
    "date": "2026-11-23T03:32:00+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İstanbullular Ankara’ya geliyor peki Ankara nereye gidiyor?",
+   "link": "https://www.hurriyet.com.tr/yazarlar/murat-yilmaz/istanbullular-ankaraya-geliyor-peki-ankara-nereye-gidiyor-43387143",
+   "author": "Murat Yılmaz",
+   "date": "2026-11-23T03:28:56+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Numan Bey’in tarihi misyonu",
+   "link": "https://www.hurriyet.com.tr/yazarlar/fatih-cekirge/numan-beyin-tarihi-misyonu-43387444",
+   "author": "Fatih ÇEKİRGE",
+   "date": "2026-11-23T03:28:56+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Çöpten cebe 13.2 milyon",
+   "link": "https://www.hurriyet.com.tr/yazarlar/oya-armutcu/copten-cebe-13-2-milyon-43387445",
+   "author": "Oya ARMUTÇU",
+   "date": "2026-11-23T03:28:56+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İyi başladı, iyi bitirdi!",
+   "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/unal-ozuak/iyi-basladi-iyi-bitirdi-43387474",
+   "author": "Ünal Özüak",
+   "date": "2026-11-23T03:28:56+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Daha farklı olabilirdi!",
+   "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/mehmet-ayan/daha-farkli-olabilirdi-43387477",
+   "author": "Mehmet Ayan",
+   "date": "2026-11-23T03:28:56+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Derbi öncesi Vlahovic ve Trossard'dan gözdağı!",
+   "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/firat-aydinus/derbi-oncesi-vlahovic-ve-trossarddan-gozdagi-43387478",
+   "author": "Fırat Aydınus",
+   "date": "2026-11-23T03:28:56+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Hücum: 10, savunma: 1!",
+   "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/guntekin-onay/hucum-10-savunma-1-43387479",
+   "author": "GÜNTEKİN ONAY",
+   "date": "2026-11-23T03:28:56+00:00",
    "source": "Hürriyet"
   },
   {
