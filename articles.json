@@ -1,6 +1,230 @@
 {
- "updated": "2026-11-23T00:56:27+00:00",
+ "updated": "2026-11-23T03:57:41+00:00",
  "articles": [
+  {
+   "title": "Zorbanın korktuğu ne varsa!",
+   "link": "https://www.birgun.net/makale/zorbanin-korktugu-ne-varsa-747848",
+   "author": "Uğur Kutay",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Komisyon değil mücadele: Asgari ücrette asıl mesele",
+   "link": "https://www.birgun.net/makale/komisyon-degil-mucadele-asgari-ucrette-asil-mesele-747846",
+   "author": "Aziz Çelik",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Kayyumlar \"iletişim açığı\"nı kapatabilir mi?",
+   "link": "https://www.birgun.net/makale/kayyumlar-iletisim-acigi-ni-kapatabilir-mi-747849",
+   "author": "Faruk Bildirici",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Geçti mi, geçirildi mi?",
+   "link": "https://www.birgun.net/makale/gecti-mi-gecirildi-mi-747847",
+   "author": "Selçuk Candansayar",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Antibiyotik öncesi yıllara dönüyoruz",
+   "link": "https://www.birgun.net/makale/antibiyotik-oncesi-yillara-donuyoruz-747845",
+   "author": "Osman Öztürk",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Ataması, Güvencesi, Can Güvenliği Yok, Derdi Çok: Öğretmenlikten Esnaflığa…",
+   "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/atamasi-guvencesi-can-guvenligi-yok-derdi-cok-ogretmenlikten-esnafliga-166203",
+   "author": "Damla Turgutlu Soybas",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Borçtan değil, borcu yanlış kullanmaktan korkalım",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/borctan-degil-borcu-yanlis-kullanmaktan-korkalim-166204",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Aman dikkat!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/aman-dikkat-166207",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Babandan krallık mı kaldı?",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/babandan-krallik-mi-kaldi-166208",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "SPK taslağında kapsam tartışması. Yasa geriye dönük işletilsin…",
+   "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/spk-taslaginda-kapsam-tartismasi-yasa-geriye-donuk-isletilsin-166211",
+   "author": "Nuray Babacan",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Karanlığı aydınlatacak olan yine yurtseverlerdir!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/karanligi-aydinlatacak-olan-yine-yurtseverlerdir-166212",
+   "author": "Umit Zileli",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Altay iyiydi",
+   "link": "https://www.nefes.com.tr/yazarlar/argun-darici/altay-iyiydi-166216",
+   "author": "Argun Darici",
+   "date": "2026-11-23T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Dünyalının dünyalığı",
+   "link": "https://www.yenisafak.com/yazarlar/gokhan-ozcan/dunyalinin-dunyaligi-4875554",
+   "author": "Gökhan Özcan",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Ahmet Hamdi Tanpınar’dan bugünün bürokrasisine ibretlik dersler",
+   "link": "https://www.yenisafak.com/yazarlar/ahmet-unlu/ahmet-hamdi-tanpinardan-bugunun-burokrasisine-ibretlik-dersler-4875532",
+   "author": "Ahmet Ünlü",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Zirve tamam, savaşa devâm mı?",
+   "link": "https://www.yenisafak.com/yazarlar/suleyman-seyfi-ogun/zirve-tamam-savasa-devam-mi-4875525",
+   "author": "Süleyman Seyfi Öğün",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Almanya’dan Danimarka ve Çekya’ya uzanan siyasi örüntü",
+   "link": "https://www.yenisafak.com/yazarlar/selcuk-turkyilmaz/almanyadan-danimarka-ve-cekyaya-uzanan-siyasi-oruntu-4875548",
+   "author": "Selçuk Türkyılmaz",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Suriye’de Devrim’in önündeki tehdit: İsrail",
+   "link": "https://www.yenisafak.com/yazarlar/aydin-unal/suriyede-devrimin-onundeki-tehdit-israil-4875544",
+   "author": "Aydın Ünal",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Hayreddin Karaman’ın cazgırlarla imtihanı",
+   "link": "https://www.yenisafak.com/yazarlar/yasin-aktay/hayreddin-karamanin-cazgirlarla-imtihani-4875551",
+   "author": "Yasin Aktay",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yeni ekonomik düzen",
+   "link": "https://www.yenisafak.com/yazarlar/erdal-tanas-karagol/yeni-ekonomik-duzen-4875528",
+   "author": "Erdal Tanas Karagöl",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Düşüncenin İslam’la ilişkisinden ne anlamalıyız? (7)",
+   "link": "https://www.yenisafak.com/yazarlar/omer-turker/dusuncenin-islamla-iliskisinden-ne-anlamaliyiz-7-4875523",
+   "author": "Ömer Türker",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Batı’nın askerî zorbalık düzenine karşı Osmanlı’nın ebedî sulh düzeni",
+   "link": "https://www.yenisafak.com/yazarlar/yusuf-kaplan/batinin-askeri-zorbalik-duzenine-karsi-osmanlinin-ebedi-sulh-duzeni-4875535",
+   "author": "Yusuf Kaplan",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Avrupa’nın geleceği: Çanlar kimin için çalıyor?",
+   "link": "https://www.yenisafak.com/yazarlar/turgay-yerlikaya/avrupanin-gelecegi-canlar-kimin-icin-caliyor-4875540",
+   "author": "Turgay Yerlikaya",
+   "date": "2026-11-23T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Monoton bir cinsellik orgazmı zorlaştırır mı?",
+   "link": "https://www.korkusuz.com.tr/monoton-bir-cinsellik-orgazmi-zorlastirir-mi-p58585",
+   "author": "Kemal Özcan",
+   "date": "2026-11-23T03:57:41+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Son kale ve yanlış yol!",
+   "link": "https://www.korkusuz.com.tr/son-kale-ve-yanlis-yol-p58584",
+   "author": "Korkusuz Kalem Osman Ferit",
+   "date": "2026-11-23T03:57:41+00:00",
+   "source": "Sözcü"
+  },
+  {
+   "title": "Özel sektör devlerinin savaş makinesi ve Türkiye modeli",
+   "link": "https://www.milliyet.com.tr/yazarlar/ozay-sendir/ozel-sektor-devlerinin-savas-makinesi-ve-turkiye-modeli-7705843",
+   "author": "Özay Şendir",
+   "date": "2026-11-23T03:57:41+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Yapay zekâ bu kadar yanlış yapar mıydı?..",
+   "link": "https://www.milliyet.com.tr/yazarlar/tunca-bengin/yapay-zeka-bu-kadar-yanlis-yapar-miydi-7705835",
+   "author": "Tunca Bengin",
+   "date": "2026-11-23T03:57:41+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Ortalık toz duman!",
+   "link": "https://www.milliyet.com.tr/yazarlar/levent-koprulu/ortalik-toz-duman-7705889",
+   "author": "Levent Köprülü",
+   "date": "2026-11-23T03:57:41+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Bakan Bey’e çağrım var…",
+   "link": "https://www.hurriyet.com.tr/yazarlar/salim-uzun/bakan-beye-cagrim-var-43387439",
+   "author": "Salim Uzun",
+   "date": "2026-11-23T03:32:00+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Dünya yıldızından genç müzisyenlere büyük destek",
+   "link": "https://www.hurriyet.com.tr/yazarlar/ihsan-yilmaz/dunya-yildizindan-genc-muzisyenlere-buyuk-destek-43387435",
+   "author": "İhsan Yılmaz",
+   "date": "2026-11-23T03:25:00+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İşte Sarıgül’ün utanç fezlekesi",
+   "link": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/iste-sarigulun-utanc-fezlekesi-43387436",
+   "author": "Nedim ŞENER",
+   "date": "2026-11-23T03:24:37+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Ekrem İmamoğlu ile Özgür Özel arasında çatlak",
+   "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ekrem-imamoglu-ile-ozgur-ozel-arasinda-catlak-43387432",
+   "author": "Abdulkadir SELVİ",
+   "date": "2026-11-23T03:24:07+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İftiracıya abdestten söz edilmez",
+   "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/iftiraciya-abdestten-soz-edilmez-43387440",
+   "author": "Ahmet HAKAN",
+   "date": "2026-11-23T03:23:33+00:00",
+   "source": "Hürriyet"
+  },
   {
    "title": "Futbol, aynasıdır bir ülkenin",
    "link": "https://www.sozcu.com.tr/futbol-aynasidir-bir-ulkenin-p383549",
