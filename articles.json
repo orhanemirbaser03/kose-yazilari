@@ -1,6 +1,293 @@
 {
- "updated": "2026-11-24T00:58:02+00:00",
+ "updated": "2026-11-24T03:54:28+00:00",
  "articles": [
+  {
+   "title": "Mühendisleri seviyor musunuz?",
+   "link": "https://www.birgun.net/makale/muhendisleri-seviyor-musunuz-748045",
+   "author": "L.  Doğan Tılıç",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Shenzen’deki üç dev fare doğurdu",
+   "link": "https://www.birgun.net/makale/shenzendeki-uc-dev-fare-dogurdu-748059",
+   "author": "Hayri Kozanoğlu",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "COP31 bize ne anlatıyor?",
+   "link": "https://www.birgun.net/makale/cop31-bize-ne-anlatiyor-748047",
+   "author": "Özgür Gürbüz",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Başkanlar tutsak, foncular serbest!",
+   "link": "https://www.birgun.net/makale/baskanlar-tutsak-foncular-serbest-748061",
+   "author": "Fikri Sağlar",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Rubio korkmakta haklı, Marx yaşıyor",
+   "link": "https://www.birgun.net/makale/rubio-korkmakta-hakli-marx-yasiyor-748062",
+   "author": "Özge Güneş",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Ne Schäubleler gördük geçirdik, bunlar da geçer",
+   "link": "https://www.nefes.com.tr/yazarlar/nevsin-mengu/ne-schaubleler-gorduk-gecirdik-bunlar-da-gecer-166418",
+   "author": "Nevsin Mengu",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Ne o, savaş mı var?",
+   "link": "https://www.nefes.com.tr/yazarlar/can-atakli/ne-o-savas-mi-var-166419",
+   "author": "Can Atakli",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Şu bıyıksız keşişe bak",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/su-biyiksiz-kesise-bak-166420",
+   "author": "Soner Yalcin",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "“Yaman Çelişki” başarısızlığı!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/yaman-celiski-basarisizligi-166422",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Önce güven bitti sonra rezervler gitti!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/once-guven-bitti-sonra-rezervler-gitti-166424",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Şahap Kavcıoğlu’yla ilgili kritik tarih",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/sahap-kavciogluyla-ilgili-kritik-tarih-166425",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Yarış hiç adil değil",
+   "link": "https://www.nefes.com.tr/yazarlar/argun-darici/yaris-hic-adil-degil-166433",
+   "author": "Argun Darici",
+   "date": "2026-11-24T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Demokratlar savaşı durdurabilecekler mi?",
+   "link": "https://www.yenisafak.com/yazarlar/abdullah-muradoglu/demokratlar-savasi-durdurabilecekler-mi-4875871",
+   "author": "Abdullah Muradoğlu",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yalta-Malta, konferans-monferans",
+   "link": "https://www.yenisafak.com/yazarlar/mehmet-seker/yalta-malta-konferans-monferans-4875874",
+   "author": "Mehmet Şeker",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Görme, çağın gözü ve mülkiyet",
+   "link": "https://www.yenisafak.com/yazarlar/omer-lekesiz/gorme-cagin-gozu-ve-mulkiyet-4875846",
+   "author": "Ömer Lekesiz",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yılın kelimesi “insan”, “İnsan insanın yurdudur”, yurdunu müdafaa et ey insan!",
+   "link": "https://www.yenisafak.com/yazarlar/fatma-barbarosoglu/yilin-kelimesi-insan-insan-insanin-yurdudur-yurdunu-mudafaa-et-ey-insan-4875858",
+   "author": "Fatma Barbarosoğlu",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Rus savaş gemisini kim vurdu? Ukrayna mı İsrail-BAE ekseni mi?\nSaldırı neden Libya’da yapıldı? Libya birleşmesi, Türk-Rus ilişkileri mi sabote ediliyor?\nSonraki saldırı Kızıldeniz’de mi olacak? Bu sefer Türk gemisi mi hedef alınacak?",
+   "link": "https://www.yenisafak.com/yazarlar/ibrahim-karagul/rus-savas-gemisini-kim-vurdu-ukrayna-mi-israil-bae-ekseni-misaldiri-neden-libyada-yapildi-libya-birlesmesi-turk-rus-iliskileri-mi-sabote-ediliyorsonraki-saldiri-kizildenizde-mi-olacak-bu-sefer-turk-gemisi-mi-hedef-alinacak-4875869",
+   "author": "İbrahim Karagül",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Şeyh Halid’in huzurunda",
+   "link": "https://www.yenisafak.com/yazarlar/ismail-kilicarslan/seyh-halidin-huzurunda-4875850",
+   "author": "İsmail Kılıçarslan",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Rozet takmak iyi ama yetmez…",
+   "link": "https://www.yenisafak.com/yazarlar/ali-saydam/rozet-takmak-iyi-ama-yetmez-4875851",
+   "author": "Ali Saydam",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Pazar olarak Çin",
+   "link": "https://www.yenisafak.com/yazarlar/yusuf-dinc/pazar-olarak-cin-4875853",
+   "author": "Yusuf Dinç",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yeni bir toplum inşası",
+   "link": "https://www.yenisafak.com/yazarlar/ihsan-aktas/yeni-bir-toplum-insasi-4875866",
+   "author": "İhsan Aktaş",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Üç dünya savaşı: COP31’de arka planda ne yaşandı?",
+   "link": "https://www.yenisafak.com/yazarlar/yahya-bostan/uc-dunya-savasi-cop31de-arka-planda-ne-yasandi-4875862",
+   "author": "Yahya Bostan",
+   "date": "2026-11-24T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Reuters’e konuşan kaynaklar ve COP31",
+   "link": "https://www.milliyet.com.tr/yazarlar/zafer-sahin/reuterse-konusan-kaynaklar-ve-cop31-7706549",
+   "author": "Zafer Şahin",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "BAU ve MSG’nin akademik iş birliği",
+   "link": "https://www.milliyet.com.tr/yazarlar/ali-eyuboglu/bau-ve-msgnin-akademik-is-birligi-7706529",
+   "author": "Ali Eyüboğlu",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Kültür Yolu bu şehirden geçmeli",
+   "link": "https://www.milliyet.com.tr/yazarlar/eren-aka/kultur-yolu-bu-sehirden-gecmeli-7706553",
+   "author": "Eren Aka",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Kastamonu'dan İzlanda'ya",
+   "link": "https://www.milliyet.com.tr/skorer/emre-ergul/kastamonudan-izlandaya-7706513",
+   "author": "Emre Ergül",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Kapitalizm bile oligarşiye ve sansüre karşı!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/kapitalizm-bile-oligarsiye-ve-sansure-karsi-2558761",
+   "author": "Emre Kongar",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "İzleme komisyonu ve İmamoğlu’nun görüşü üzerine: Ayrılık mı?",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/izleme-komisyonu-ve-imamoglu-nun-gorusu-uzerine-ayrilik-mi-2558766",
+   "author": "Orhan Bursalı",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Eğitim eşittir öğretmen!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/egitim-esittir-ogretmen-2558764",
+   "author": "Mustafa Balbay",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "HGS sorun da EDS değil mi?",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/murat-agirel/hgs-sorun-da-eds-degil-mi-2558769",
+   "author": "Murat Ağırel",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Zehra İpşiroğlu ve Emek Ödülü...",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/dikmen-gurun/zehra-ipsiroglu-ve-emek-odulu-2558770",
+   "author": "Dikmen Gürün",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Sorun var ama...",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/sorun-var-ama-2558771",
+   "author": "Arif Kızılyalın",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Kurşunlu’nun Kapısı Kime Kapandı?",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/guven-baykan/kursunlu-nun-kapisi-kime-kapandi-2558787",
+   "author": "Güven Baykan",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Otoriterliği aşmak",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/otoriterligi-asmak-2558762",
+   "author": "Mehmet Şakir Örs",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Ukrayna savaşı değil, küresel savaş",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/deniz-berktay/ukrayna-savasi-degil-kuresel-savas-2558768",
+   "author": "Deniz Berktay",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "SANSÜR",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/cigdem-bayraktar-or/sansur-2558798",
+   "author": "Çiğdem Bayraktar Ör",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "O dersi şimdi daha iyi anlıyorum - Cengiz Kuday",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/o-dersi-simdi-daha-iyi-anliyorum-cengiz-kuday-2558758",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "46. yıldönümünde Öğretmenler Günü - Duran Güldemir",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/46-yildonumunde-ogretmenler-gunu-duran-guldemir-2558759",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-24T03:54:28+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "‘Yahudi terörü’ ve Eisenkot’un çıkmazı",
+   "link": "https://www.hurriyet.com.tr/yazarlar/nilgun-tekfidan-gumus/yahudi-teroru-ve-eisenkotun-cikmazi-43388625",
+   "author": "Nilgün Tekfidan GÜMÜŞ",
+   "date": "2026-11-24T02:52:59+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Vize serbestliğinde yeni perde: Ankara altı kriteri aşarsa Avrupa ne yapacak?",
+   "link": "https://www.hurriyet.com.tr/yazarlar/hande-firat/vize-serbestliginde-yeni-perde-ankara-alti-kriteri-asarsa-avrupa-ne-yapacak-43388620",
+   "author": "Hande FIRAT",
+   "date": "2026-11-24T02:52:00+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Ekrem İmamoğlu için bir imkân daha var",
+   "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ekrem-imamoglu-icin-bir-imkan-daha-var-43388634",
+   "author": "Abdulkadir SELVİ",
+   "date": "2026-11-24T02:48:33+00:00",
+   "source": "Hürriyet"
+  },
   {
    "title": "İstanbul alarmda… Şehrin göbeğinde aslanın işi ne",
    "link": "https://www.hurriyet.com.tr/yazarlar/fulya-soybas/istanbul-alarmda-sehrin-gobeginde-aslanin-isi-ne-43388650",
