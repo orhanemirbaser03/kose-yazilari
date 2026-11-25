@@ -1,6 +1,272 @@
 {
- "updated": "2026-11-24T21:52:56+00:00",
+ "updated": "2026-11-25T03:56:57+00:00",
  "articles": [
+  {
+   "title": "Okan Buruk'un imza gecesi",
+   "link": "https://haberglobal.com/yazarlar/okan-burukun-imza-gecesi-555006",
+   "author": "",
+   "date": "2026-11-25T06:31:00+03:00",
+   "source": "Haber Global"
+  },
+  {
+   "title": "400 TL’lik yapıştırıcıyla 76 sefer: Filo Jet’te suçlama “kasten öldürme”ye çevrildi",
+   "link": "https://www.birgun.net/makale/400-tllik-yapistiriciyla-76-sefer-filo-jette-suclama-kasten-oldurmeye-cevrildi-748293",
+   "author": "Gözde Bedeloğlu",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Kız çocukları yeni nesil çete şiddetine nasıl dahil oldu?",
+   "link": "https://www.birgun.net/makale/kiz-cocuklari-yeni-nesil-cete-siddetine-nasil-dahil-oldu-748282",
+   "author": "Ayça Söylemez",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Şiddet Kapıyı Çalmıyor, Zaten İçeride!",
+   "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/siddet-kapiyi-calmiyor-zaten-iceride-166668",
+   "author": "Damla Turgutlu Soybas",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Bir tahliye kararı ve hukukun temel ilkeleri",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/bir-tahliye-karari-ve-hukukun-temel-ilkeleri-166671",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Bu itiraflar neyin habercisi?",
+   "link": "https://www.nefes.com.tr/yazarlar/can-atakli/bu-itiraflar-neyin-habercisi-166672",
+   "author": "Can Atakli",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Aslan nereden kaçtı",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/aslan-nereden-kacti-166674",
+   "author": "Soner Yalcin",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Baskın seçim olur mu?",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/baskin-secim-olur-mu-166675",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Aslan bulundu!",
+   "link": "https://www.nefes.com.tr/yazarlar/fatih-soylemezoglu/aslan-bulundu-166682",
+   "author": "Fatih Soylemezoglu",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Kademeli emeklilik…",
+   "link": "https://www.nefes.com.tr/yazarlar/mahmut-aydogmus/kademeli-emeklilik-166687",
+   "author": "Mahmut Aydogmus",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Açılımda Kandil mesaisi. İzleme Komisyonu’na Bahçeli formülü",
+   "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/acilimda-kandil-mesaisi-izleme-komisyonuna-bahceli-formulu-166688",
+   "author": "Nuray Babacan",
+   "date": "2026-11-25T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Kâğıthane safâsı",
+   "link": "https://www.yenisafak.com/yazarlar/mustafa-kutlu/kagithane-safasi-4876200",
+   "author": "Mustafa Kutlu",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Kalbimizin tam ortasında...",
+   "link": "https://www.yenisafak.com/yazarlar/ersin-celik/kalbimizin-tam-ortasinda-4876252",
+   "author": "Ersin Çelik",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Lübnan’ın sesi yok",
+   "link": "https://www.yenisafak.com/yazarlar/taha-kilinc/lubnanin-sesi-yok-4876257",
+   "author": "Taha Kılınç",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Bu iş böyle değil, anlattıkları gibi değil",
+   "link": "https://www.yenisafak.com/yazarlar/yasin-aktay/bu-is-boyle-degil-anlattiklari-gibi-degil-4876251",
+   "author": "Yasin Aktay",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Fazla turist ülkeye zarar",
+   "link": "https://www.yenisafak.com/yazarlar/yasar-sungu/fazla-turist-ulkeye-zarar-4876214",
+   "author": "Yaşar Süngü",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Trump-Çin ortak operasyonu; NVIDIA’da YZ kaybetti, SZ kazandı...",
+   "link": "https://www.yenisafak.com/yazarlar/nedret-ersanel/trump-cin-ortak-operasyonu-nvidiada-yz-kaybetti-sz-kazandi-4876245",
+   "author": "Nedret Ersanel",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Amerika’nın büyük güç siyasetine dönüşü mü?",
+   "link": "https://www.yenisafak.com/yazarlar/kadir-ustun/amerikanin-buyuk-guc-siyasetine-donusu-mu-4876235",
+   "author": "Kadir Üstün",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "Kademeli emeklilik mi, kademeli yaşlanma mı?",
+   "link": "https://www.yenisafak.com/yazarlar/ozgur-bayram-soylu/kademeli-emeklilik-mi-kademeli-yaslanma-mi-4876226",
+   "author": "Özgür Bayram Soylu",
+   "date": "2026-11-25T04:00:00+03:00",
+   "source": "Yeni Şafak"
+  },
+  {
+   "title": "COP31’in faturası…",
+   "link": "https://www.milliyet.com.tr/yazarlar/ozay-sendir/cop31in-faturasi-7707409",
+   "author": "Özay Şendir",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Antibiyotik kullanırken tabağınıza da bakın",
+   "link": "https://www.milliyet.com.tr/yazarlar/dilara-kocak/antibiyotik-kullanirken-tabaginiza-da-bakin-7707422",
+   "author": "Dilara Koçak",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Panikle tüm tuşlara basıyorlar",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/zulal-kalkandelen/panikle-tum-tuslara-basiyorlar-2559133",
+   "author": "Zülal Kalkandelen",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Fatma ve Murat arasındaki 7 fark",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/baris-pehlivan/fatma-ve-murat-arasindaki-7-fark-2559134",
+   "author": "Barış Pehlivan",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Kılık Kıyafet Devrimi’nin psiko-sosyal anlamı!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/sinan-meydan/kilik-kiyafet-devrimi-nin-psiko-sosyal-anlami-2559140",
+   "author": "Sinan Meydan",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Fona aslan bakışı!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/fona-aslan-bakisi-2559135",
+   "author": "Arif Kızılyalın",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Dezenflasyon değil slumpflasyon",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/oztin-akguc/dezenflasyon-degil-slumpflasyon-2559129",
+   "author": "Öztin Akgüç",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Sacha Göetzel ve Mahler",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/evin-ilyasoglu/sacha-goetzel-ve-mahler-2559141",
+   "author": "Evin İlyasoğlu",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "İtibardan tasarruf olmaz!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ahmet-suha-umar/itibardan-tasarruf-olmaz-2559138",
+   "author": "Ahmet Süha Umar",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Bekleme odası: Türkiye’de genç olmak - Fatma Deniz Polat",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/bekleme-odasi-turkiye-de-genc-olmak-fatma-deniz-polat-2559142",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "92. yılında bir devrimin adı: ATATÜRK - Atilla Can Akarcalı",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/92-yilinda-bir-devrimin-adi-ataturk-atilla-can-akarcali-2559143",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Her hayvan evde beslenir mi? - Dr. Gülay Ertürk",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/her-hayvan-evde-beslenir-mi-dr-gulay-erturk-2559147",
+   "author": "Olaylar Ve Görüşler",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Döve dövüle!",
+   "link": "https://www.cumhuriyet.com.tr/yazarlar/ebru-kilicoglu/dove-dovule-2559144",
+   "author": "Ebru Kılıçoğlu",
+   "date": "2026-11-25T03:56:57+00:00",
+   "source": "Cumhuriyet"
+  },
+  {
+   "title": "Trilyon dolarlık ihanet",
+   "link": "https://www.hurriyet.com.tr/yazarlar/yunus-paksoy/trilyon-dolarlik-ihanet-43390023",
+   "author": "Yunus Paksoy",
+   "date": "2026-11-25T02:55:20+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İklim samimiyetsizliği",
+   "link": "https://www.hurriyet.com.tr/yazarlar/gokce-aytulu/iklim-samimiyetsizligi-43390066",
+   "author": "Gökçe Aytulu",
+   "date": "2026-11-25T02:54:11+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "İmamoğlu’ndan sonra Demirtaş da Özgür Özel’e yüklendi",
+   "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/imamoglundan-sonra-demirtas-da-ozgur-ozele-yuklendi-43390080",
+   "author": "Abdulkadir SELVİ",
+   "date": "2026-11-25T02:53:08+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Mustafa Sarıgül neden çıldırdı",
+   "link": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/mustafa-sarigul-neden-cildirdi-43390068",
+   "author": "Nedim ŞENER",
+   "date": "2026-11-25T02:52:11+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Kurtulmuş’tan fonlarla ilgili çok sert sözler",
+   "link": "https://www.hurriyet.com.tr/yazarlar/fatih-cekirge/kurtulmustan-fonlarla-ilgili-cok-sert-sozler-43390073",
+   "author": "Fatih ÇEKİRGE",
+   "date": "2026-11-25T02:51:22+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Emeklilik için doğru zaman hangisi… 2026 mı avantajlı 2027 mi",
+   "link": "https://www.hurriyet.com.tr/yazarlar/noyan-dogan/emeklilik-icin-dogru-zaman-hangisi-2026-mi-avantajli-2027-mi-43390064",
+   "author": "Noyan Doğan",
+   "date": "2026-11-25T02:50:22+00:00",
+   "source": "Hürriyet"
+  },
   {
    "title": "Sait Faik hikâyeci miydi, şair mi?",
    "link": "https://www.haberturk.com/ozel-icerikler/muhsin-kizilkaya-2291/3929888-sait-faik-hikyeci-miydi-sair-mi",
