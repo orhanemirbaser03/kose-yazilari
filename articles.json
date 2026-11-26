@@ -1,6 +1,132 @@
 {
- "updated": "2026-11-26T01:01:30+00:00",
+ "updated": "2026-11-26T03:53:56+00:00",
  "articles": [
+  {
+   "title": "Umut büyüyor, değişim kaçınılmaz oluyor!",
+   "link": "https://www.birgun.net/makale/umut-buyuyor-degisim-kacinilmaz-oluyor-748503",
+   "author": "Fikri Sağlar",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Seyreltilmiş AKP sorunu çözer mi?",
+   "link": "https://www.birgun.net/makale/seyreltilmis-akp-sorunu-cozer-mi-748495",
+   "author": "Yaşar Aydın",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Palavraya dur demek!",
+   "link": "https://www.birgun.net/makale/palavraya-dur-demek-748494",
+   "author": "Merdan Yanardağ",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Yeni söylem: Nüfus azalıyor okula, öğretmene ihtiyaç kalmayacak",
+   "link": "https://www.birgun.net/makale/yeni-soylem-nufus-azaliyor-okula-ogretmene-ihtiyac-kalmayacak-748490",
+   "author": "Feray Aytekin Aydoğan",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Nezihe Meriç’in Ankara’sında bir nefes",
+   "link": "https://www.birgun.net/makale/nezihe-mericin-ankarasinda-bir-nefes-748504",
+   "author": "Zeynep Altıok Akatlı",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "O telefon 12 bin defa çaldı",
+   "link": "https://www.birgun.net/makale/o-telefon-12-bin-defa-caldi-748498",
+   "author": "Semra Kardeşoğlu",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Küresel siyaset ve zirveler: Asya’da uyum, Avrupa’da gerilim mi?",
+   "link": "https://www.birgun.net/makale/kuresel-siyaset-ve-zirveler-asyada-uyum-avrupada-gerilim-mi-748500",
+   "author": "İlhan Uzgel",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "“Yanlış iliklenen düğme”",
+   "link": "https://www.birgun.net/makale/yanlis-iliklenen-dugme-748493",
+   "author": "Şükrü Aslan",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Bir sefere mahsus",
+   "link": "https://www.birgun.net/makale/bir-sefere-mahsus-748497",
+   "author": "Bülent Usta",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Süreçte sahte ikilem",
+   "link": "https://www.birgun.net/makale/surecte-sahte-ikilem-748465",
+   "author": "Berkant Gültekin",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "İş, ekmek, özgürlük için Kartal’a!",
+   "link": "https://www.birgun.net/makale/is-ekmek-ozgurluk-icin-kartala-748492",
+   "author": "Nazım Alpman",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "BirGün"
+  },
+  {
+   "title": "Barış çağrısı değerlidir ama...",
+   "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/baris-cagrisi-degerlidir-ama-166906",
+   "author": "Memduh Bayraktaroglu",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "CHP’de neler oluyor?",
+   "link": "https://www.nefes.com.tr/yazarlar/can-atakli/chpde-neler-oluyor-166908",
+   "author": "Can Atakli",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Baykal’ın Erdoğan hatası",
+   "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/baykalin-erdogan-hatasi-166910",
+   "author": "Soner Yalcin",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Sorun göründüğünden büyük!",
+   "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/sorun-gorundugunden-buyuk-166912",
+   "author": "Deniz Zeyrek",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Yabancı yatırımcı ya fotoğraf paylaşırsa!",
+   "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/yabanci-yatirimci-ya-fotograf-paylasirsa-166913",
+   "author": "Murat Muratoglu",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Gazeteci Murat Ağırel \"zannedersem\" yazmadı",
+   "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/gazeteci-murat-agirel-zannedersem-yazmadi-166916",
+   "author": "Aytunc Erkin",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
+  {
+   "title": "Nutuk!",
+   "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/nutuk-166917",
+   "author": "Umit Zileli",
+   "date": "2026-11-26T05:00:00+03:00",
+   "source": "Nefes"
+  },
   {
    "title": "Dijital boşlukta",
    "link": "https://www.yenisafak.com/yazarlar/gokhan-ozcan/dijital-boslukta-4876628",
@@ -70,6 +196,41 @@
    "author": "Turgay Yerlikaya",
    "date": "2026-11-26T04:00:00+03:00",
    "source": "Yeni Şafak"
+  },
+  {
+   "title": "Yunan’ın yolu mandacılık belli ki!",
+   "link": "https://www.milliyet.com.tr/yazarlar/tunca-bengin/yunanin-yolu-mandacilik-belli-ki-7708059",
+   "author": "Tunca Bengin",
+   "date": "2026-11-26T03:53:56+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Aslanın ekmeğini Şeyda Üst yedi!",
+   "link": "https://www.milliyet.com.tr/yazarlar/ali-eyuboglu/aslanin-ekmegini-seyda-ust-yedi-7708057",
+   "author": "Ali Eyüboğlu",
+   "date": "2026-11-26T03:53:56+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Fuarcıların gözü COP31 alanında!",
+   "link": "https://www.milliyet.com.tr/yazarlar/eren-aka/fuarcilarin-gozu-cop31-alaninda-7708048",
+   "author": "Eren Aka",
+   "date": "2026-11-26T03:53:56+00:00",
+   "source": "Milliyet"
+  },
+  {
+   "title": "Kadın istihdamına teşvik 2029’a uzuyor",
+   "link": "https://www.hurriyet.com.tr/yazarlar/noyan-dogan/kadin-istihdamina-tesvik-2029a-uzuyor-43391290",
+   "author": "Noyan Doğan",
+   "date": "2026-11-26T03:03:44+00:00",
+   "source": "Hürriyet"
+  },
+  {
+   "title": "Özgür Özel, İmamoğlu’nu tasfiye mi ediyor",
+   "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ozgur-ozel-imamoglunu-tasfiye-mi-ediyor-43391296",
+   "author": "Abdulkadir SELVİ",
+   "date": "2026-11-26T03:02:37+00:00",
+   "source": "Hürriyet"
   },
   {
    "title": "Devlet adamı, ‘eşit vatandaşlık’ simgesi, 70 yıllık dava arkadaşım",
