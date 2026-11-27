@@ -4,14 +4,14 @@
     "type": "html",
     "url": "https://www.sozcu.com.tr/yazarlar",
     "link_regex": "/[^/]+-p(\\d+)/?$",
-    "author_from": "img_alt"
+    "author_from": "img_alt",
     "photo": true
   },
   {
     "name": "Hürriyet",
     "type": "rss",
     "url": "https://www.hurriyet.com.tr/rss/yazarlar",
-    "author_from_page": true
+    "author_from_page": true,
     "photo": true
   },
   {
@@ -53,7 +53,7 @@
     "name": "BirGün",
     "type": "rss",
     "url": "https://www.birgun.net/rss/yazarlar",
-    "author_from_page": true
+    "author_from_page": true,
     "photo": true
   },
   {
@@ -66,7 +66,7 @@
     "type": "html",
     "url": "https://m.star.com.tr/yazarlar/",
     "link_regex": "/yazar/[^/]+-yazi-(\\d+)/?$",
-    "author_from": "next_img_alt"
+    "author_from": "next_img_alt",
     "photo": true
   },
   {
@@ -89,7 +89,8 @@
     "type": "rss",
     "url": "https://www.nefes.com.tr/export/rss/yazarlar",
     "author_from_page": true,
-    "author_regex": "/yazarlar/([^/]+)/"
+    "author_regex": "/yazarlar/([^/]+)/",
+    "photo": true
   },
   {
     "name": "T24",
