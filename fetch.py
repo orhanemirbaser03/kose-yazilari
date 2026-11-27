@@ -1,5 +1,6 @@
 """sources.json'daki siteleri tarar, articles.json üretir.
-Sadece başlık, yazar, tarih ve link saklanır; yazı metni kopyalanmaz."""
+Sadece başlık, yazar, tarih, link ve (isteğe bağlı) yazar fotoğrafı saklanır;
+yazı metni kopyalanmaz."""
 import json, re, datetime as dt
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
@@ -12,6 +13,7 @@ UA = {"User-Agent": "Mozilla/5.0 (kisisel kose yazisi okuyucu)"}
 KEEP_DAYS = 30
 MAX_PAGE_FETCH = 40  # bir çalıştırmada yazar için en fazla bu kadar sayfa açılır
 NOW = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+MRSS = "{http://search.yahoo.com/mrss/}"
 
 
 def get(url):
@@ -37,6 +39,27 @@ def tr_title(s):
         first = "İ" if w[:1] == "i" else w[:1].upper()
         return first + w[1:]
     return " ".join(fix(w) for w in s.split())
+
+
+def img_url(img, base):
+    """<img> etiketinden gerçek adresi çıkarır (tembel yüklemede data-src'e bakar)."""
+    if img is None:
+        return ""
+    for key in ("data-src", "data-original", "data-lazy-src", "src"):
+        v = (img.get(key) or "").strip()
+        if v and not v.startswith("data:"):
+            return urljoin(base, v)
+    return ""
+
+
+def rss_photo(it):
+    """RSS kaydındaki resim: media:content, media:thumbnail, enclosure ya da açıklamadaki <img>."""
+    for tag in (MRSS + "content", MRSS + "thumbnail", "enclosure"):
+        el = it.find(tag)
+        if el is not None and el.get("url"):
+            return el.get("url").strip()
+    m = re.search(r'<img[^>]+src="([^"]+)"', it.findtext("description") or "")
+    return m.group(1).strip() if m else ""
 
 
 def page_author(url):
@@ -70,6 +93,7 @@ def from_rss(src):
             "author": (it.findtext("dc:creator", namespaces=dc)
                        or it.findtext("author") or "").strip(),
             "date": date,
+            "photo": rss_photo(it) if src.get("photo") else "",
         })
     return out
 
@@ -111,6 +135,8 @@ def from_html(src):
             if (mode == "next_img_alt" and current and el.get("alt")
                     and not groups[current]["alt"]):
                 groups[current]["alt"] = clean(el["alt"])
+                groups[current]["photo"] = (groups[current]["photo"]
+                                            or img_url(el, src["url"]))
             continue
         if not el.get("href"):
             continue
@@ -121,7 +147,7 @@ def from_html(src):
         current = full
         g = groups.setdefault(
             full, {"slug": m.group(1), "texts": [], "title": "", "alt": "",
-                   "bold": "", "strings": []})
+                   "bold": "", "strings": [], "photo": ""})
         text = clean(el.get_text(" ", strip=True))
         if text:
             g["texts"].append(text)
@@ -129,6 +155,8 @@ def from_html(src):
         img = el.find("img")
         if img and img.get("alt") and not g["alt"]:
             g["alt"] = clean(img["alt"])
+        if not g["photo"]:
+            g["photo"] = img_url(img, src["url"])
         bold = el.find(["strong", "b"])
         if bold and not g["bold"]:
             g["bold"] = clean(bold.get_text(" ", strip=True))
@@ -195,7 +223,8 @@ def from_html(src):
             author = re.sub(r"-\d+$", "", g["slug"]).replace("-", " ").title()
         if not title:
             continue
-        out.append({"title": title, "link": full, "author": author, "date": NOW})
+        out.append({"title": title, "link": full, "author": author, "date": NOW,
+                    "photo": g["photo"] if src.get("photo") else ""})
     return out
 
 
@@ -223,6 +252,9 @@ def main():
                 continue
             it["source"] = src["name"]
             prev = by_link.get(it["link"])
+            # Eski kayıtta fotoğraf yoksa şimdi bulunanı ekle
+            if prev and it.get("photo") and not prev.get("photo"):
+                prev["photo"] = it["photo"]
             if prev and (prev.get("author") or not src.get("author_from_page")):
                 continue
             if src.get("author_from_page") and not it["author"] and fetched < MAX_PAGE_FETCH:
@@ -240,6 +272,9 @@ def main():
     limit = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=KEEP_DAYS)).isoformat()
     arts = sorted((a for a in by_link.values() if a["date"] >= limit),
                   key=lambda a: a["date"], reverse=True)
+    for a in arts:
+        if not a.get("photo"):
+            a.pop("photo", None)
     json.dump({"updated": NOW, "articles": arts},
               open("articles.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
