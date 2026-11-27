@@ -97,6 +97,7 @@
     "type": "html",
     "url": "https://t24.com.tr/son-yazilar",
     "link_regex": "/yazarlar/([^/]+)/[^/]+,\\d+/?$",
-    "author_from": "strings_pair"
+    "author_from": "strings_pair",
+    "photo": true
   }
 ]
