@@ -5,42 +5,91 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Köşe Yazılarım</title>
 <style>
-:root{--bg:#faf8f4;--fg:#1d1b18;--mut:#7a746b;--line:#e4dfd5;--acc:#b3261e}
-@media (prefers-color-scheme:dark){:root{--bg:#161513;--fg:#ece8e1;--mut:#9a948a;--line:#2d2a26;--acc:#ff8a80}}
+:root{--bg:#faf8f4;--fg:#1d1b18;--mut:#7a746b;--line:#e4dfd5;--acc:#b3261e;--chip:#ece6da}
+@media (prefers-color-scheme:dark){:root{--bg:#161513;--fg:#ece8e1;--mut:#9a948a;--line:#2d2a26;--acc:#ff8a80;--chip:#2a2723}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.4 Georgia,serif}
 main{max-width:760px;margin:0 auto;padding:16px}
-h1{font-size:1.4rem;margin:8px 0 12px}
+h1{font-size:1.4rem;margin:8px 0 8px}
+.tabs{display:flex;gap:16px;margin-bottom:12px;border-bottom:1px solid var(--line);font:15px system-ui,sans-serif}
+.tabs a{padding:8px 2px;color:var(--mut);text-decoration:none;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs a.on{color:var(--fg);border-bottom-color:var(--acc);font-weight:600}
 .bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;font:14px system-ui,sans-serif}
 .bar>*{padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg)}
 #q{flex:1 1 180px}
-.row{display:flex;gap:10px;padding:12px 0;border-bottom:1px solid var(--line)}
-.row a{color:var(--fg);text-decoration:none;font-size:1.05rem}
-.row a:visited{color:var(--mut)}
+.row{display:flex;gap:10px;align-items:flex-start;padding:12px 0;border-bottom:1px solid var(--line)}
+.row a,.card a{color:var(--fg);text-decoration:none}
+.row a{font-size:1.05rem}
+.row a:visited,.card a:visited{color:var(--mut)}
 .meta{font:13px system-ui,sans-serif;color:var(--mut);margin-top:2px}
-.star{cursor:pointer;background:none;border:0;font-size:1.2rem;color:var(--mut);padding:0}
+.star{cursor:pointer;background:none;border:0;font-size:1.2rem;color:var(--mut);padding:0;line-height:1}
 .star.on{color:var(--acc)}
+.av{width:40px;height:40px;border-radius:50%;flex:none;background:var(--chip);color:var(--mut);display:flex;align-items:center;justify-content:center;font:600 14px system-ui,sans-serif;overflow:hidden}
+.av img{width:100%;height:100%;object-fit:cover;object-position:center top}
+.card{border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:12px}
+.card-head{display:flex;gap:12px;align-items:center;margin-bottom:6px}
+.card-head .grow{flex:1;min-width:0}
+.card-head b{font-size:1.1rem}
+.art{padding:8px 0;border-top:1px solid var(--line)}
+.more{font:13px system-ui,sans-serif;background:none;border:0;color:var(--acc);cursor:pointer;padding:6px 0}
+.empty{font:14px system-ui,sans-serif;color:var(--mut);padding:8px 0}
 #upd{font:12px system-ui,sans-serif;color:var(--mut)}
 </style>
 </head>
 <body>
 <main>
 <h1>Köşe Yazılarım</h1>
-<div class="bar">
+<nav class="tabs">
+  <a id="tab-tum" href="#tum">Tüm yazılar</a>
+  <a id="tab-takip" href="#takip">★ Takip ettiklerim</a>
+</nav>
+<div class="bar" id="filters">
   <input id="q" type="search" placeholder="Başlık veya yazar ara">
   <select id="src"><option value="">Tüm kaynaklar</option></select>
   <select id="aut"><option value="">Tüm yazarlar</option></select>
-  <label><input id="fav" type="checkbox"> ★ Takip ettiklerim</label>
 </div>
 <div id="list"></div>
 <p id="upd"></p>
 </main>
 <script>
-let all = [], follow = new Set();
+let all = [], photos = {}, follow = new Set(), expanded = new Set();
 try { follow = new Set(JSON.parse(localStorage.getItem("follow") || "[]")); } catch (e) {}
 const $ = id => document.getElementById(id);
 const save = () => { try { localStorage.setItem("follow", JSON.stringify([...follow])); } catch (e) {} };
 const fmt = iso => new Date(iso).toLocaleString("tr-TR", {day: "numeric", month: "long", hour: "2-digit", minute: "2-digit"});
+const safe = u => /^https?:\/\//i.test(u) ? u : "#";
+const view = () => location.hash === "#takip" ? "takip" : "tum";
+
+function initials(name) {
+  const w = (name || "").split(/\s+/).filter(Boolean);
+  return w.length ? (w[0][0] + (w.length > 1 ? w[w.length - 1][0] : "")).toLocaleUpperCase("tr") : "?";
+}
+
+// Fotoğraf yalnızca başarıyla yüklenirse gösterilir; yoksa baş harfler kalır.
+function avatar(name, size) {
+  const d = document.createElement("div");
+  d.className = "av";
+  if (size) { d.style.width = d.style.height = size + "px"; }
+  d.textContent = initials(name);
+  const p = photos[name];
+  if (p && /^https?:/i.test(p)) {
+    const img = new Image();
+    img.referrerPolicy = "no-referrer";
+    img.alt = "";
+    img.onload = () => { d.textContent = ""; d.append(img); };
+    img.src = p;
+  }
+  return d;
+}
+
+function starBtn(author) {
+  const s = document.createElement("button");
+  s.className = "star" + (follow.has(author) ? " on" : "");
+  s.textContent = follow.has(author) ? "★" : "☆";
+  s.title = follow.has(author) ? "Takibi bırak" : "Yazarı takip et";
+  s.onclick = () => { follow.has(author) ? follow.delete(author) : follow.add(author); save(); render(); };
+  return s;
+}
 
 function fill(sel, vals) {
   const cur = sel.value;
@@ -49,38 +98,89 @@ function fill(sel, vals) {
   sel.value = cur;
 }
 
-function render() {
-  const q = $("q").value.toLocaleLowerCase("tr"), s = $("src").value, a = $("aut").value, f = $("fav").checked;
+function renderAll(list) {
+  const q = $("q").value.toLocaleLowerCase("tr"), s = $("src").value, a = $("aut").value;
   const rows = all.filter(x =>
-    (!s || x.source === s) && (!a || x.author === a) && (!f || follow.has(x.author)) &&
+    (!s || x.source === s) && (!a || x.author === a) &&
     (!q || (x.title + " " + x.author).toLocaleLowerCase("tr").includes(q)));
-  const list = $("list");
-  list.replaceChildren();
   rows.forEach(x => {
     const row = document.createElement("div"); row.className = "row";
-    const star = document.createElement("button");
-    star.className = "star" + (follow.has(x.author) ? " on" : "");
-    star.textContent = follow.has(x.author) ? "★" : "☆";
-    star.title = "Yazarı takip et";
-    star.onclick = () => { follow.has(x.author) ? follow.delete(x.author) : follow.add(x.author); save(); render(); };
     const box = document.createElement("div");
     const link = document.createElement("a");
-    link.href = x.link; link.target = "_blank"; link.rel = "noopener"; link.textContent = x.title;
+    link.href = safe(x.link); link.target = "_blank"; link.rel = "noopener"; link.textContent = x.title;
     const meta = document.createElement("div"); meta.className = "meta";
     meta.textContent = [x.author || "—", x.source, fmt(x.date)].join(" · ");
-    box.append(link, meta); row.append(star, box); list.append(row);
+    box.append(link, meta);
+    row.append(x.author ? starBtn(x.author) : document.createElement("span"), avatar(x.author, 36), box);
+    list.append(row);
   });
   if (!rows.length) list.textContent = "Yazı bulunamadı.";
 }
 
+function renderFollow(list) {
+  if (!follow.size) {
+    const e = document.createElement("div"); e.className = "empty";
+    e.textContent = "Henüz yazar takip etmiyorsun. “Tüm yazılar” sekmesinde yazarın yanındaki ☆ simgesine bas.";
+    list.append(e); return;
+  }
+  const by = {};
+  all.forEach(x => { if (follow.has(x.author)) (by[x.author] = by[x.author] || []).push(x); });
+  const names = [...follow].sort((a, b) => {
+    const da = by[a] ? by[a][0].date : "", db = by[b] ? by[b][0].date : "";
+    return db.localeCompare(da) || a.localeCompare(b, "tr");
+  });
+  names.forEach(name => {
+    const arts = by[name] || [];
+    const card = document.createElement("div"); card.className = "card";
+    const head = document.createElement("div"); head.className = "card-head";
+    const grow = document.createElement("div"); grow.className = "grow";
+    const nm = document.createElement("b"); nm.textContent = name;
+    const meta = document.createElement("div"); meta.className = "meta";
+    const srcs = [...new Set(arts.map(x => x.source))].join(", ");
+    meta.textContent = arts.length ? srcs + " · " + arts.length + " yazı" : "Son 30 günde yazı bulunamadı";
+    grow.append(nm, meta);
+    head.append(avatar(name, 48), grow, starBtn(name));
+    card.append(head);
+    const open = expanded.has(name);
+    (open ? arts : arts.slice(0, 5)).forEach(x => {
+      const d = document.createElement("div"); d.className = "art";
+      const a = document.createElement("a");
+      a.href = safe(x.link); a.target = "_blank"; a.rel = "noopener"; a.textContent = x.title;
+      const m = document.createElement("div"); m.className = "meta"; m.textContent = fmt(x.date);
+      d.append(a, m); card.append(d);
+    });
+    if (arts.length > 5) {
+      const b = document.createElement("button"); b.className = "more";
+      b.textContent = open ? "Daha az göster" : "Tüm " + arts.length + " yazıyı göster";
+      b.onclick = () => { open ? expanded.delete(name) : expanded.add(name); render(); };
+      card.append(b);
+    }
+    list.append(card);
+  });
+}
+
+function render() {
+  const v = view();
+  $("tab-tum").classList.toggle("on", v === "tum");
+  $("tab-takip").classList.toggle("on", v === "takip");
+  $("tab-takip").textContent = "★ Takip ettiklerim (" + follow.size + ")";
+  $("filters").hidden = v !== "tum";
+  const list = $("list");
+  list.replaceChildren();
+  v === "tum" ? renderAll(list) : renderFollow(list);
+}
+
 fetch("articles.json").then(r => r.json()).then(d => {
   all = d.articles;
+  all.forEach(x => { if (x.author && x.photo && !photos[x.author]) photos[x.author] = x.photo; });
   fill($("src"), all.map(x => x.source));
   fill($("aut"), all.map(x => x.author));
   $("upd").textContent = "Son güncelleme: " + fmt(d.updated);
   render();
 }).catch(() => { $("list").textContent = "articles.json yüklenemedi. Önce fetch.py çalışmalı."; });
-["q", "src", "aut", "fav"].forEach(id => $(id).addEventListener("input", render));
+["q", "src", "aut"].forEach(id => $(id).addEventListener("input", render));
+window.addEventListener("hashchange", render);
+render();
 </script>
 </body>
 </html>
