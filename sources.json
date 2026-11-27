@@ -11,8 +11,7 @@
     "name": "Hürriyet",
     "type": "rss",
     "url": "https://www.hurriyet.com.tr/rss/yazarlar",
-    "author_from_page": true,
-    "photo": true
+    "author_from_page": true
   },
   {
     "name": "Habertürk",
@@ -26,8 +25,7 @@
     "type": "html",
     "url": "https://www.sabah.com.tr/yazarlar",
     "link_regex": "/yazarlar/(?:[^/]+/)?([^/]+)/\\d{4}/\\d{2}/\\d{2}/[^/]+/?$",
-    "author_from": "bold_title",
-     "photo": true
+    "author_from": "bold_title"
   },
   {
     "name": "Milliyet",
