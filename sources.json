@@ -5,12 +5,14 @@
     "url": "https://www.sozcu.com.tr/yazarlar",
     "link_regex": "/[^/]+-p(\\d+)/?$",
     "author_from": "img_alt"
+    "photo": true
   },
   {
     "name": "Hürriyet",
     "type": "rss",
     "url": "https://www.hurriyet.com.tr/rss/yazarlar",
     "author_from_page": true
+    "photo": true
   },
   {
     "name": "Habertürk",
@@ -52,6 +54,7 @@
     "type": "rss",
     "url": "https://www.birgun.net/rss/yazarlar",
     "author_from_page": true
+    "photo": true
   },
   {
     "name": "Yeni Şafak",
@@ -64,6 +67,7 @@
     "url": "https://m.star.com.tr/yazarlar/",
     "link_regex": "/yazar/[^/]+-yazi-(\\d+)/?$",
     "author_from": "next_img_alt"
+    "photo": true
   },
   {
     "name": "Haber Global",
