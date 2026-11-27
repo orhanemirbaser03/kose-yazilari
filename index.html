@@ -52,13 +52,20 @@ h1{font-size:1.4rem;margin:8px 0 8px}
 <p id="upd"></p>
 </main>
 <script>
-let all = [], photos = {}, follow = new Set(), expanded = new Set();
+let all = [], auto = {}, manual = {}, mine = {}, follow = new Set(), expanded = new Set();
 try { follow = new Set(JSON.parse(localStorage.getItem("follow") || "[]")); } catch (e) {}
+try { mine = JSON.parse(localStorage.getItem("myphotos") || "{}"); } catch (e) {}
 const $ = id => document.getElementById(id);
 const save = () => { try { localStorage.setItem("follow", JSON.stringify([...follow])); } catch (e) {} };
+const saveMine = () => { try { localStorage.setItem("myphotos", JSON.stringify(mine)); } catch (e) {} };
 const fmt = iso => new Date(iso).toLocaleString("tr-TR", {day: "numeric", month: "long", hour: "2-digit", minute: "2-digit"});
 const safe = u => /^https?:\/\//i.test(u) ? u : "#";
 const view = () => location.hash === "#takip" ? "takip" : "tum";
+// Yazar adlarındaki büyük/küçük harf farkını yok say ("Ahmet HAKAN" = "Ahmet Hakan")
+const key = n => (n || "").toLocaleLowerCase("tr").replace(/\s+/g, " ").trim();
+// Adres ya da depodaki göreli yol (örn. fotolar/ahmet-hakan.jpg) kabul edilir
+const okPhoto = p => /^https?:\/\//i.test(p) || /^[\w\-.\/%]+$/.test(p);
+const photoOf = name => mine[key(name)] || manual[key(name)] || auto[key(name)] || "";
 
 function initials(name) {
   const w = (name || "").split(/\s+/).filter(Boolean);
@@ -71,8 +78,8 @@ function avatar(name, size) {
   d.className = "av";
   if (size) { d.style.width = d.style.height = size + "px"; }
   d.textContent = initials(name);
-  const p = photos[name];
-  if (p && /^https?:/i.test(p)) {
+  const p = photoOf(name);
+  if (p && okPhoto(p)) {
     const img = new Image();
     img.referrerPolicy = "no-referrer";
     img.alt = "";
@@ -89,6 +96,24 @@ function starBtn(author) {
   s.title = follow.has(author) ? "Takibi bırak" : "Yazarı takip et";
   s.onclick = () => { follow.has(author) ? follow.delete(author) : follow.add(author); save(); render(); };
   return s;
+}
+
+function camBtn(name) {
+  const b = document.createElement("button");
+  b.className = "star";
+  b.textContent = "📷";
+  b.title = "Fotoğraf ekle / değiştir";
+  b.onclick = () => {
+    const cur = mine[key(name)] || "";
+    const u = prompt(name + " için fotoğraf adresi (resme sağ tıkla → “Resim adresini kopyala”). Boş bırakıp Tamam’a basarsan senin eklediğin fotoğraf silinir:", cur);
+    if (u === null) return;
+    const t = u.trim();
+    if (!t) delete mine[key(name)];
+    else if (okPhoto(t)) mine[key(name)] = t;
+    else { alert("Geçerli bir adres değil."); return; }
+    saveMine(); render();
+  };
+  return b;
 }
 
 function fill(sel, vals) {
@@ -139,7 +164,7 @@ function renderFollow(list) {
     const srcs = [...new Set(arts.map(x => x.source))].join(", ");
     meta.textContent = arts.length ? srcs + " · " + arts.length + " yazı" : "Son 30 günde yazı bulunamadı";
     grow.append(nm, meta);
-    head.append(avatar(name, 48), grow, starBtn(name));
+    head.append(avatar(name, 48), grow, camBtn(name), starBtn(name));
     card.append(head);
     const open = expanded.has(name);
     (open ? arts : arts.slice(0, 5)).forEach(x => {
@@ -170,9 +195,13 @@ function render() {
   v === "tum" ? renderAll(list) : renderFollow(list);
 }
 
-fetch("articles.json").then(r => r.json()).then(d => {
+Promise.all([
+  fetch("articles.json").then(r => r.json()),
+  fetch("photos.json").then(r => r.ok ? r.json() : {}).catch(() => ({}))
+]).then(([d, p]) => {
   all = d.articles;
-  all.forEach(x => { if (x.author && x.photo && !photos[x.author]) photos[x.author] = x.photo; });
+  all.forEach(x => { if (x.author && x.photo && !auto[key(x.author)]) auto[key(x.author)] = x.photo; });
+  Object.keys(p || {}).forEach(n => { if (typeof p[n] === "string") manual[key(n)] = p[n]; });
   fill($("src"), all.map(x => x.source));
   fill($("aut"), all.map(x => x.author));
   $("upd").textContent = "Son güncelleme: " + fmt(d.updated);
