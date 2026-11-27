@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-27T18:52:04+00:00",
+ "updated": "2026-11-27T21:37:21+00:00",
  "articles": [
+  {
+   "title": "Hikmet Abi ile Saraybosna'da: Biz küçükler savaş çıkarmazdık, ama politika büyüklerin işi...",
+   "link": "https://t24.com.tr/yazarlar/hasan-cemal/hikmet-abi-ile-saraybosnada-biz-kucukler-savas-cikarmazdik-ama-politika-buyuklerin-isi,60096",
+   "author": "Hasan Cemal",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "İrtikap ve intikam!",
+   "link": "https://t24.com.tr/yazarlar/umur-talu/irtikap-ve-intikam,60102",
+   "author": "Umur Talu",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Yemek buldun ye, dayak buldun kaç!",
+   "link": "https://t24.com.tr/yazarlar/mehmet-y-yilmaz/yemek-buldun-ye-dayak-buldun-kac,60100",
+   "author": "Mehmet Y Yilmaz",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Kozağaçlı’nın alamadığı, alamayacağı 40 puan ve BM kararı",
+   "link": "https://t24.com.tr/yazarlar/gokcer-tahincioglu-yuzlesme/kozagaclinin-alamadigi-alamayacagi-40-puan-ve-bm-karari,60107",
+   "author": "Gokcer Tahincioglu Yuzlesme",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Taşlaşan çağın vicdanı",
+   "link": "https://t24.com.tr/yazarlar/ahmet-gunestekin/taslasan-cagin-vicdani,60099",
+   "author": "Ahmet Gunestekin",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "\"Kapılar\"ın yaratıcıları Berna Adıgüzel Alben ve Serhan Alben: Tiyatro bir ürün değil, \"şarjı çabuk bitiyor\" basitliğinde yorum yapılam",
+   "link": "https://t24.com.tr/yazarlar/faruk-ekici/kapilarin-yaraticilari-berna-adiguzel-alben-ve-serhan-alben-tiyatro-bir-urun-degil-sarji-cabuk-bitiyor-basitliginde-yorum-yapilamaz,60105",
+   "author": "Faruk Ekici",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Sevgi Soysal’dan bize kalan",
+   "link": "https://t24.com.tr/yazarlar/sukru-hatun/sevgi-soysaldan-bize-kalan,60104",
+   "author": "Sukru Hatun",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Sözcü TV’de aşina yüzlerle kayyım perdesi",
+   "link": "https://t24.com.tr/yazarlar/zeynel-lule/sozcu-tvde-asina-yuzlerle-kayyim-perdesi,60109",
+   "author": "Zeynel Lule",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Haydi Kartal’a!",
+   "link": "https://t24.com.tr/yazarlar/cagatay-anadol/haydi-kartala,60103",
+   "author": "Cagatay Anadol",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
+  {
+   "title": "Buzda yeni dönemin şifreleri: Minimalist zarafet mi, maksimalist teknik mi?",
+   "link": "https://t24.com.tr/yazarlar/ferhan-mantar/buzda-yeni-donemin-sifreleri-minimalist-zarafet-mi-maksimalist-teknik-mi,60110",
+   "author": "Ferhan Mantar",
+   "date": "2026-11-27T21:37:21+00:00",
+   "source": "T24"
+  },
   {
    "title": "Uydular ortaya çıkardı, su kaybettikçe yükseliyoruz!",
    "link": "https://haberglobal.com/yazarlar/uydular-ortaya-cikardi-su-kaybettikce-yukseliyoruz-555443",
@@ -279,42 +349,48 @@
    "link": "https://m.star.com.tr/yazar/oo-yeni-dese-bile-en-eski-yeniyi-de-tutturamayacak-gibi-yazi-2056049/",
    "author": "Selahaddin E. ÇAKIRGİL",
    "date": "2026-11-27T07:08:42+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/162.png?v=1907.99"
   },
   {
    "title": "Islık mı çalalım?",
    "link": "https://m.star.com.tr/yazar/islik-mi-calalim-yazi-2056011/",
    "author": "Yakup KÖSE",
    "date": "2026-11-27T07:08:42+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/161.png?v=1907.99"
   },
   {
    "title": "Suya giden yola kahrolsun denir mi?",
    "link": "https://m.star.com.tr/yazar/suya-giden-yola-kahrolsun-denir-mi-yazi-2055994/",
    "author": "Mustafa SABRİ BEŞER",
    "date": "2026-11-27T07:08:42+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/185.png?v=1907.99"
   },
   {
    "title": "Yorgun",
    "link": "https://m.star.com.tr/yazar/yorgun-yazi-2056010/",
    "author": "Esra ELÖNÜ",
    "date": "2026-11-27T07:08:42+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/184.png?v=1907.99"
   },
   {
    "title": "Belirli süreli işlerde kıdem tazminatı",
    "link": "https://m.star.com.tr/yazar/belirli-sureli-islerde-kidem-tazminati-yazi-2056000/",
    "author": "Resul KURT",
    "date": "2026-11-27T07:08:42+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/38.png?v=1907.99"
   },
   {
    "title": "Gizli operasyon(lar)",
    "link": "https://m.star.com.tr/yazar/gizli-operasyonlar-yazi-2056003/",
    "author": "Filiz Katman",
    "date": "2026-11-27T07:08:42+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/194.png?v=1907.99"
   },
   {
    "title": "Vergide zam ve faizler düşürüldü",
@@ -335,77 +411,88 @@
    "link": "https://www.birgun.net/makale/iscinin-de-emeklinin-de-gundemi-gecim-emekciler-kartalda-bulusuyor-748684",
    "author": "Hüseyin İrfan Fırat",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2024/10/21/huseyin-irfan-firat.jpg"
   },
   {
    "title": "Ah, o korku!..",
    "link": "https://www.birgun.net/makale/ah-o-korku-748686",
    "author": "Zafer Arapkirli",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2022/01/28/zafer-arapkirli-963-4.jpg"
   },
   {
    "title": "Kasa boşaltıldıktan sonra...",
    "link": "https://www.birgun.net/makale/kasa-bosaltildiktan-sonra-748687",
    "author": "Yalçın Karatepe",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/yalcin-karatepe-441-4.jpg"
   },
   {
    "title": "KDP-KYB, Erbil-Bağdat kavgası: Süreçte güz sancısı",
    "link": "https://www.birgun.net/makale/kdp-kyb-erbil-bagdat-kavgasi-surecte-guz-sancisi-748685",
    "author": "İbrahim Varlı",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2023/03/08/ibrahim-varli-1003-4.jpg"
   },
   {
    "title": "Bu bütçeyle sağlıklı olunmaz",
    "link": "https://www.birgun.net/makale/bu-butceyle-saglikli-olunmaz-748683",
    "author": "Bayazıt İlhan",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/06/26/bayazit-ilhan-911-4.jpg"
   },
   {
    "title": "Başka Türlü | Kaçak aslanlar...",
    "link": "https://www.birgun.net/makale/baska-turlu-kacak-aslanlar-748708",
    "author": "Yankı Yazgan",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/yanki-yazgan-443-4.jpg"
   },
   {
    "title": "Tedavi mi tedrici intihar mı?",
    "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/tedavi-mi-tedrici-intihar-mi-167113",
    "author": "Memduh Bayraktaroglu",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/memduh-bayraktaroglu-a5bz.jpg"
   },
   {
    "title": "Krizde gezi tutkusu",
    "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/krizde-gezi-tutkusu-167117",
    "author": "Soner Yalcin",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/soner-yalcin-i3eg.jpg"
   },
   {
    "title": "Bir hazırlık mı var?",
    "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/bir-hazirlik-mi-var-167119",
    "author": "Deniz Zeyrek",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/deniz-zeyrek-oyfs.jpg"
   },
   {
    "title": "Emekliye yine müjdeler olsun!",
    "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/emekliye-yine-mujdeler-olsun-167124",
    "author": "Murat Muratoglu",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/murat-muratoglu-sghq.jpg"
   },
   {
    "title": "AKP’de neler oluyor? Eski dostlara acil çağrı!",
    "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/akpde-neler-oluyor-eski-dostlara-acil-cagri-167125",
    "author": "Nuray Babacan",
    "date": "2026-11-27T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/nuray-babacan-kvda.jpg"
   },
   {
    "title": "Zamanın ritmini köy şartlarında kaydeden yönetmen: \nAhmet Uluçay",
@@ -475,63 +562,72 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/ceren-can/oscar-sezonu-acildi-43392266",
    "author": "Ceren Can",
    "date": "2026-11-27T03:28:07+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Son 20 dakikada gelen 4'te 4!",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/mehmet-ayan/son-20-dakikada-gelen-4te-4-43392623",
    "author": "Mehmet Ayan",
    "date": "2026-11-27T03:28:07+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Beşiktaş'ı hiçbir şey durduramadı!",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/banu-yelkovan/besiktasi-hicbir-sey-durduramadi-43392624",
    "author": "Banu Yelkovan",
    "date": "2026-11-27T03:28:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b090994e4260a756c077ee0.jpg"
   },
   {
    "title": "Erdoğan İzmir’e sürprizlerle gelecek",
    "link": "https://www.hurriyet.com.tr/yazarlar/deniz-sipahi/erdogan-izmire-surprizlerle-gelecek-43392541",
    "author": "Deniz SİPAHİ",
    "date": "2026-11-27T03:00:37+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b08f24bbb1c24f618126f95.jpg"
   },
   {
    "title": "Altın nereye koşuyor",
    "link": "https://www.hurriyet.com.tr/yazarlar/fulya-soybas/altin-nereye-kosuyor-43392556",
    "author": "Fulya Soybaş",
    "date": "2026-11-27T02:59:06+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b08f1e7bb1c24f618126f92.jpg"
   },
   {
    "title": "Yeni fezleke yolda",
    "link": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/yeni-fezleke-yolda-43392586",
    "author": "Nedim ŞENER",
    "date": "2026-11-27T02:58:01+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b08f1a9bb1c24f618126f8f.jpg"
   },
   {
    "title": "Mansur Yavaş ittifakı kuruluyor",
    "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/mansur-yavas-ittifaki-kuruluyor-43392568",
    "author": "Abdulkadir SELVİ",
    "date": "2026-11-27T02:56:28+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b08f14ebb1c24f618126f8c.jpg"
   },
   {
    "title": "İncili’ye bakmadan restorana gidilmez",
    "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/inciliye-bakmadan-restorana-gidilmez-43392554",
    "author": "Ahmet HAKAN",
    "date": "2026-11-27T02:55:26+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b08f112bb1c24f618126f89.jpg"
   },
   {
    "title": "Filistin bayrağı Dolmabahçe’de de dalgalanırdı",
    "link": "https://www.birgun.net/makale/filistin-bayragi-dolmabahcede-de-dalgalanirdi-748704",
    "author": "Eren Tutel",
    "date": "2026-11-27T01:53:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2023/07/31/eren-tutel.jpg"
   },
   {
    "title": "Çağının çağdaşı gazete",
@@ -629,14 +725,16 @@
    "link": "https://www.birgun.net/makale/savasi-cikaran-israil-surgune-gonderilen-besiktas-futbolun-baris-soylemi-ve-emperyalizmin-cifte-standardi-748682",
    "author": "Müslüm Gülhan",
    "date": "2026-11-26T23:38:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2023/12/22/muslum-gulhan.jpg"
   },
   {
    "title": "Irak niye karıştı",
    "link": "https://www.hurriyet.com.tr/yazarlar/nilgun-tekfidan-gumus/irak-niye-karisti-43392607",
    "author": "Nilgün Tekfidan GÜMÜŞ",
    "date": "2026-11-26T22:46:32+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Foncu valiler merkeze çekildi: WhatsApp grubu yenilendi!",
@@ -734,7 +832,8 @@
    "link": "https://www.hurriyet.com.tr/aile/yazarlar/guncel-ozturk/rinoplastiden-sonra-gulusunuz-degisir-mi-43392299",
    "author": "Güncel Öztürk",
    "date": "2026-11-26T14:53:06+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0847d1716333c09cfebbb9.jpg"
   },
   {
    "title": "Dolar, enflasyon, faiz! 2027'de ekonomi nasıl olacak?",
@@ -762,7 +861,8 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/erdal-fernergiz/ogretmenlere-vefa-gecesi-43391998",
    "author": "Erdal Fernergiz",
    "date": "2026-11-26T11:57:48+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Recep İvedik’e övgü",
@@ -804,7 +904,8 @@
    "link": "https://www.hurriyet.com.tr/mahmure/yazarlar/selin-irmak-kacmaz/kalin-bagirsak-kanserinde-yeni-tablo-genclerde-artis-var-sikayetler-gec-fark-ediliyor-43391429",
    "author": "Selin Irmak KAÇMAZ",
    "date": "2026-11-26T07:08:26+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07da42596435f32018f9ec.jpg"
   },
   {
    "title": "Aslan ve biz",
@@ -1049,42 +1150,48 @@
    "link": "https://m.star.com.tr/yazar/kurgulanmis-guzellikler-ya-da-aynilasmanin-sigligi-yazi-2055743/",
    "author": "Halime KÖKCE",
    "date": "2026-11-26T07:08:10+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/108.png?v=1907.99"
   },
   {
    "title": "Irak'ta beklenen merkezîleşme",
    "link": "https://m.star.com.tr/yazar/irakta-beklenen-merkezilesme-yazi-2055733/",
    "author": "M. Yalçın YILMAZ",
    "date": "2026-11-26T07:08:10+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/186.png?v=1907.99"
   },
   {
    "title": "Tek Libya'yı Türkiye kuruyor",
    "link": "https://m.star.com.tr/yazar/tek-libyayi-turkiye-kuruyor-yazi-2055748/",
    "author": "Hasan Hüseyin ÖZ",
    "date": "2026-11-26T07:08:10+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/190.png?v=1907.99"
   },
   {
    "title": "Özel neden masadan kaçıyor?",
    "link": "https://m.star.com.tr/yazar/ozel-neden-masadan-kaciyor-yazi-2055703/",
    "author": "İbrahim Güneş",
    "date": "2026-11-26T07:08:10+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/192.png?v=1907.99"
   },
   {
    "title": "Ukrayna savaşı Akdeniz'e taşınırken Avrupa'nın güvenlik açmazı",
    "link": "https://m.star.com.tr/yazar/ukrayna-savasi-akdenize-tasinirken-avrupanin-guvenlik-acmazi-yazi-2055746/",
    "author": "Faik Tanrıkulu",
    "date": "2026-11-26T07:08:10+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/195.png?v=1907.99"
   },
   {
    "title": "COP31 uluslararası sistemin tükenmişliğini tescilledi",
    "link": "https://m.star.com.tr/yazar/cop31-uluslararasi-sistemin-tukenmisligini-tescilledi-yazi-2055741/",
    "author": "Muhammed Ali Uçar",
    "date": "2026-11-26T07:08:10+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/203.png?v=1907.99"
   },
   {
    "title": "Geçen çarşamba akşamı ANAMED salonundaki Afrika papatyalarını kim gönderdi?",
@@ -1098,126 +1205,144 @@
    "link": "https://www.birgun.net/makale/umut-buyuyor-degisim-kacinilmaz-oluyor-748503",
    "author": "Fikri Sağlar",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/fikri-saglar-407-4.jpg"
   },
   {
    "title": "Seyreltilmiş AKP sorunu çözer mi?",
    "link": "https://www.birgun.net/makale/seyreltilmis-akp-sorunu-cozer-mi-748495",
    "author": "Yaşar Aydın",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2021/05/17/yasar-aydin-941-4.jpg"
   },
   {
    "title": "Palavraya dur demek!",
    "link": "https://www.birgun.net/makale/palavraya-dur-demek-748494",
    "author": "Merdan Yanardağ",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/11/21/merdan-yanardag-929-4.jpg"
   },
   {
    "title": "Yeni söylem: Nüfus azalıyor okula, öğretmene ihtiyaç kalmayacak",
    "link": "https://www.birgun.net/makale/yeni-soylem-nufus-azaliyor-okula-ogretmene-ihtiyac-kalmayacak-748490",
    "author": "Feray Aytekin Aydoğan",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/01/23/feray-aytekin-aydogan-481-4.jpg"
   },
   {
    "title": "Nezihe Meriç’in Ankara’sında bir nefes",
    "link": "https://www.birgun.net/makale/nezihe-mericin-ankarasinda-bir-nefes-748504",
    "author": "Zeynep Altıok Akatlı",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2021/05/17/zeynep-altiok-943-4.jpg"
   },
   {
    "title": "O telefon 12 bin defa çaldı",
    "link": "https://www.birgun.net/makale/o-telefon-12-bin-defa-caldi-748498",
    "author": "Semra Kardeşoğlu",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/01/03/semra-kardesoglu.jpg"
   },
   {
    "title": "Küresel siyaset ve zirveler: Asya’da uyum, Avrupa’da gerilim mi?",
    "link": "https://www.birgun.net/makale/kuresel-siyaset-ve-zirveler-asyada-uyum-avrupada-gerilim-mi-748500",
    "author": "İlhan Uzgel",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2021/11/15/ilhan-uzgel-957-4.jpg"
   },
   {
    "title": "“Yanlış iliklenen düğme”",
    "link": "https://www.birgun.net/makale/yanlis-iliklenen-dugme-748493",
    "author": "Şükrü Aslan",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/06/24/sukru-aslan-907-4.jpg"
   },
   {
    "title": "Bir sefere mahsus",
    "link": "https://www.birgun.net/makale/bir-sefere-mahsus-748497",
    "author": "Bülent Usta",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/bulent-usta-327-4.jpg"
   },
   {
    "title": "Süreçte sahte ikilem",
    "link": "https://www.birgun.net/makale/surecte-sahte-ikilem-748465",
    "author": "Berkant Gültekin",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2022/11/11/berkant-gultekin-979-4.jpg"
   },
   {
    "title": "İş, ekmek, özgürlük için Kartal’a!",
    "link": "https://www.birgun.net/makale/is-ekmek-ozgurluk-icin-kartala-748492",
    "author": "Nazım Alpman",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/nazim-alpman-385-4.jpg"
   },
   {
    "title": "Barış çağrısı değerlidir ama...",
    "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/baris-cagrisi-degerlidir-ama-166906",
    "author": "Memduh Bayraktaroglu",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/memduh-bayraktaroglu-a5bz.jpg"
   },
   {
    "title": "CHP’de neler oluyor?",
    "link": "https://www.nefes.com.tr/yazarlar/can-atakli/chpde-neler-oluyor-166908",
    "author": "Can Atakli",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/can-atakli-kz2v.jpg"
   },
   {
    "title": "Baykal’ın Erdoğan hatası",
    "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/baykalin-erdogan-hatasi-166910",
    "author": "Soner Yalcin",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/soner-yalcin-i3eg.jpg"
   },
   {
    "title": "Sorun göründüğünden büyük!",
    "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/sorun-gorundugunden-buyuk-166912",
    "author": "Deniz Zeyrek",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/deniz-zeyrek-oyfs.jpg"
   },
   {
    "title": "Yabancı yatırımcı ya fotoğraf paylaşırsa!",
    "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/yabanci-yatirimci-ya-fotograf-paylasirsa-166913",
    "author": "Murat Muratoglu",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/murat-muratoglu-sghq.jpg"
   },
   {
    "title": "Gazeteci Murat Ağırel \"zannedersem\" yazmadı",
    "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/gazeteci-murat-agirel-zannedersem-yazmadi-166916",
    "author": "Aytunc Erkin",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/aytunc-erkin-icui.jpg"
   },
   {
    "title": "Nutuk!",
    "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/nutuk-166917",
    "author": "Umit Zileli",
    "date": "2026-11-26T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/umit-zileli-opup.jpg"
   },
   {
    "title": "Şampiyonlar Ligi'nde 3 Türk teknik direktör",
@@ -1231,21 +1356,24 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/sinem-vural/ingilizce-sarki-yapma-devri-bitti-43391344",
    "author": "Sinem Vural",
    "date": "2026-11-26T04:20:25+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Bir aslan miyav dedi",
    "link": "https://www.hurriyet.com.tr/yazarlar/omur-gedik/bir-aslan-miyav-dedi-43391342",
    "author": "Ömür GEDİK",
    "date": "2026-11-26T04:18:23+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Karşılaşırsanız yapmanız gerekenler",
    "link": "https://www.hurriyet.com.tr/yazarlar/orkun-un/karsilasirsaniz-yapmaniz-gerekenler-43391341",
    "author": "Orkun Ün",
    "date": "2026-11-26T04:16:43+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Dijital boşlukta",
@@ -1343,35 +1471,40 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/aziz-devrimci/o-hafif-bas-donmesi-43390509",
    "author": "Aziz DEVRİMCİ",
    "date": "2026-11-26T03:28:07+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Tiyatro tarihimizden bir yıldız",
    "link": "https://www.hurriyet.com.tr/yazarlar/dogan-hizlan/tiyatro-tarihimizden-bir-yildiz-43391315",
    "author": "Doğan HIZLAN",
    "date": "2026-11-26T03:28:07+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Londra'nın kralı Muriqi!",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/ugur-meleke/londranin-krali-muriqi-43391337",
    "author": "Uğur MELEKE",
    "date": "2026-11-26T03:28:07+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Kadın istihdamına teşvik 2029’a uzuyor",
    "link": "https://www.hurriyet.com.tr/yazarlar/noyan-dogan/kadin-istihdamina-tesvik-2029a-uzuyor-43391290",
    "author": "Noyan Doğan",
    "date": "2026-11-26T03:03:44+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07a1858c01a1364d06bd34.jpg"
   },
   {
    "title": "Özgür Özel, İmamoğlu’nu tasfiye mi ediyor",
    "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ozgur-ozel-imamoglunu-tasfiye-mi-ediyor-43391296",
    "author": "Abdulkadir SELVİ",
    "date": "2026-11-26T03:02:37+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07a13f8c01a1364d06bd31.jpg"
   },
   {
    "title": "Devlet adamı, ‘eşit vatandaşlık’ simgesi, 70 yıllık dava arkadaşım",
@@ -1483,14 +1616,16 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/ebru-erke/peynirin-etiketleri-degisiyor-43391316",
    "author": "Ebru Erke",
    "date": "2026-11-25T22:33:16+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Hayati Yazıcı’nın yazılı açıklaması neden kötü",
    "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/hayati-yazicinin-yazili-aciklamasi-neden-kotu-43391301",
    "author": "Ahmet HAKAN",
    "date": "2026-11-25T22:04:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07a10a8c01a1364d06bd2e.jpg"
   },
   {
    "title": "Hakikati bükmek, Anayasa Mahkemesi, yargı ve sorumluluklar üzerine…",
@@ -1567,7 +1702,8 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/fulya-soybas/yedi-yasinda-bir-cocuga-bu-ofke-niye-43391284",
    "author": "Fulya Soybaş",
    "date": "2026-11-25T21:21:52+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b07a1b98c01a1364d06bd37.jpg"
   },
   {
    "title": "Türkiye'deki Schengen başvurularında bekleme listesi dönemi: Bir ülke daha başlattı",
@@ -1609,14 +1745,16 @@
    "link": "https://www.birgun.net/makale/fon-vurgunu-rejim-ve-yoksulluk-748384",
    "author": "Güldem Atabay",
    "date": "2026-11-25T13:05:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/05/27/guldem-atabay.jpg"
   },
   {
    "title": "Okullarda her çocuğa 1 bardak taze portakal suyu! ATB’den Türkiye’ye örnek proje…",
    "link": "https://www.hurriyet.com.tr/yazarlar/erdal-fernergiz/okullarda-her-cocuga-1-bardak-taze-portakal-suyu-atbden-turkiyeye-ornek-proje-43390772",
    "author": "Erdal Fernergiz",
    "date": "2026-11-25T11:58:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Beşiktaş neden Gürcistan'da oynuyor?",
@@ -1833,14 +1971,16 @@
    "link": "https://m.star.com.tr/yazar/toplumsal-dayanisma-ve-ortak-yarinlar-ama-nasil-yazi-2055511/",
    "author": "Sibel ERASLAN",
    "date": "2026-11-25T07:09:14+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/23.png?v=1907.99"
   },
   {
    "title": "Bir hadise var Yeni Parti ile DEM Parti arasında",
    "link": "https://m.star.com.tr/yazar/bir-hadise-var-yeni-parti-ile-dem-parti-arasinda-yazi-2055480/",
    "author": "Hüseyin GÜLERCE",
    "date": "2026-11-25T07:09:14+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/163.png?v=1907.99"
   },
   {
    "title": "Öğretmenler Günü'ne bir buket mağlubiyet",
@@ -1854,21 +1994,24 @@
    "link": "https://m.star.com.tr/yazar/ana-gibi-yar-olmaz-yazi-2055506/",
    "author": "Coşkun BAŞBUĞ",
    "date": "2026-11-25T07:09:14+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/187.png?v=1907.99"
   },
   {
    "title": "Savunma anlaşmalarının yerli savunma sanayine katkısı",
    "link": "https://m.star.com.tr/yazar/savunma-anlasmalarinin-yerli-savunma-sanayine-katkisi-yazi-2055567/",
    "author": "Betül Soysal Bozdoğan",
    "date": "2026-11-25T07:09:14+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/201.png?v=1907.99"
   },
   {
    "title": "Diyarbakır",
    "link": "https://m.star.com.tr/yazar/diyarbakir-yazi-2055517/",
    "author": "Cüneyd Altıparmak",
    "date": "2026-11-25T07:09:14+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/193.png?v=1907.99"
   },
   {
    "title": "Okan Buruk'un imza gecesi",
@@ -1889,77 +2032,88 @@
    "link": "https://www.birgun.net/makale/kiz-cocuklari-yeni-nesil-cete-siddetine-nasil-dahil-oldu-748282",
    "author": "Ayça Söylemez",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2023/01/10/ayca-soylemez-997-4.jpg"
   },
   {
    "title": "Şiddet Kapıyı Çalmıyor, Zaten İçeride!",
    "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/siddet-kapiyi-calmiyor-zaten-iceride-166668",
    "author": "Damla Turgutlu Soybas",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/damla-turgutlu-soybas-ihni.jpg"
   },
   {
    "title": "Bir tahliye kararı ve hukukun temel ilkeleri",
    "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/bir-tahliye-karari-ve-hukukun-temel-ilkeleri-166671",
    "author": "Memduh Bayraktaroglu",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/memduh-bayraktaroglu-a5bz.jpg"
   },
   {
    "title": "Bu itiraflar neyin habercisi?",
    "link": "https://www.nefes.com.tr/yazarlar/can-atakli/bu-itiraflar-neyin-habercisi-166672",
    "author": "Can Atakli",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/can-atakli-kz2v.jpg"
   },
   {
    "title": "Aslan nereden kaçtı",
    "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/aslan-nereden-kacti-166674",
    "author": "Soner Yalcin",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/soner-yalcin-i3eg.jpg"
   },
   {
    "title": "Baskın seçim olur mu?",
    "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/baskin-secim-olur-mu-166675",
    "author": "Deniz Zeyrek",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/deniz-zeyrek-oyfs.jpg"
   },
   {
    "title": "Aslan bulundu!",
    "link": "https://www.nefes.com.tr/yazarlar/fatih-soylemezoglu/aslan-bulundu-166682",
    "author": "Fatih Soylemezoglu",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/fatih-soylemezoglu-3qlm.jpg"
   },
   {
    "title": "Kademeli emeklilik…",
    "link": "https://www.nefes.com.tr/yazarlar/mahmut-aydogmus/kademeli-emeklilik-166687",
    "author": "Mahmut Aydogmus",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/mahmut-aydogmus-61rz.jpg"
   },
   {
    "title": "Açılımda Kandil mesaisi. İzleme Komisyonu’na Bahçeli formülü",
    "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/acilimda-kandil-mesaisi-izleme-komisyonuna-bahceli-formulu-166688",
    "author": "Nuray Babacan",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/nuray-babacan-kvda.jpg"
   },
   {
    "title": "400 TL’lik yapıştırıcıyla 76 sefer: Filo Jet’te “tedbirsizlik” suçlaması “adam öldürme”ye çevrildi",
    "link": "https://www.birgun.net/makale/400-tllik-yapistiriciyla-76-sefer-filo-jette-tedbirsizlik-suclamasi-adam-oldurmeye-cevrildi-748293",
    "author": "Gözde Bedeloğlu",
    "date": "2026-11-25T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/gozde-bedeloglu-343-4.jpg"
   },
   {
    "title": "Neden Robert Pattinson yeni Bond oldu?",
    "link": "https://www.hurriyet.com.tr/yazarlar/elif-zorlu-tapan/neden-robert-pattinson-yeni-bond-oldu-43390111",
    "author": "Elif Zorlu Tapan",
    "date": "2026-11-25T04:25:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Kâğıthane safâsı",
@@ -2113,91 +2267,104 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/suheyla-buyrukcu/yuzunuze-isik-katan-kucuk-dokunuslar-43389805",
    "author": "Süheyla Buyrukçu",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Suda yansıyan İstanbul silueti",
    "link": "https://www.hurriyet.com.tr/yazarlar/ihsan-yilmaz/suda-yansiyan-istanbul-silueti-43390071",
    "author": "İhsan Yılmaz",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Uçaktaki gizli oda",
    "link": "https://www.hurriyet.com.tr/yazarlar/ugur-cebeci/ucaktaki-gizli-oda-43390096",
    "author": "Uğur CEBECİ",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Satrancın kazananı Okan Buruk",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/ugur-meleke/satrancin-kazanani-okan-buruk-43390056",
    "author": "Uğur MELEKE",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b06100f596435f32018f64e.jpg"
   },
   {
    "title": "Okan Buruk da, G.Saray da çağ atlıyor",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/mehmet-ayan/okan-buruk-da-g-saray-da-cag-atliyor-43390059",
    "author": "Mehmet Ayan",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0611e5596435f32018f656.jpg"
   },
   {
    "title": "Gül gibi galibiyet",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/banu-yelkovan/gul-gibi-galibiyet-43390063",
    "author": "Banu Yelkovan",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0612ca596435f32018f660.jpg"
   },
   {
    "title": "Fenerbahçe Barça'yı fethetti",
    "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/unal-ozuak/fenerbahce-barcayi-fethetti-43390076",
    "author": "Ünal Özüak",
    "date": "2026-11-25T03:28:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b0618a8596435f32018f69b.jpg"
   },
   {
    "title": "Trilyon dolarlık ihanet",
    "link": "https://www.hurriyet.com.tr/yazarlar/yunus-paksoy/trilyon-dolarlik-ihanet-43390023",
    "author": "Yunus Paksoy",
    "date": "2026-11-25T02:55:20+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b064e0e9a30875a04579c0b.jpg"
   },
   {
    "title": "İklim samimiyetsizliği",
    "link": "https://www.hurriyet.com.tr/yazarlar/gokce-aytulu/iklim-samimiyetsizligi-43390066",
    "author": "Gökçe Aytulu",
    "date": "2026-11-25T02:54:11+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b064dc69a30875a04579c08.jpg"
   },
   {
    "title": "İmamoğlu’ndan sonra Demirtaş da Özgür Özel’e yüklendi",
    "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/imamoglundan-sonra-demirtas-da-ozgur-ozele-yuklendi-43390080",
    "author": "Abdulkadir SELVİ",
    "date": "2026-11-25T02:53:08+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b064d899a30875a04579c05.jpg"
   },
   {
    "title": "Mustafa Sarıgül neden çıldırdı",
    "link": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/mustafa-sarigul-neden-cildirdi-43390068",
    "author": "Nedim ŞENER",
    "date": "2026-11-25T02:52:11+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b064d529a30875a04579c02.jpg"
   },
   {
    "title": "Kurtulmuş’tan fonlarla ilgili çok sert sözler",
    "link": "https://www.hurriyet.com.tr/yazarlar/fatih-cekirge/kurtulmustan-fonlarla-ilgili-cok-sert-sozler-43390073",
    "author": "Fatih ÇEKİRGE",
    "date": "2026-11-25T02:51:22+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b064d229a30875a04579bfe.jpg"
   },
   {
    "title": "Emeklilik için doğru zaman hangisi… 2026 mı avantajlı 2027 mi",
    "link": "https://www.hurriyet.com.tr/yazarlar/noyan-dogan/emeklilik-icin-dogru-zaman-hangisi-2026-mi-avantajli-2027-mi-43390064",
    "author": "Noyan Doğan",
    "date": "2026-11-25T02:50:22+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b064ce29a30875a04579bfb.jpg"
   },
   {
    "title": "Sait Faik hikâyeci miydi, şair mi?",
@@ -2302,7 +2469,8 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/gozde-hatunoglu/herkes-icin-adalet-diyen-bir-festival-16-uluslararasi-suc-ve-ceza-film-festivalini-prof-dr-bengi-semerciyle-konustuk-43389657",
    "author": "Gözde Hatunoğlu",
    "date": "2026-11-24T14:12:06+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Bir öğretmen, bir çocuğun sağlıklı geleceğini değiştirebilir!",
@@ -2526,14 +2694,16 @@
    "link": "https://m.star.com.tr/yazar/ben-bir-sifir-atik-neferiyim-yazi-2055302/",
    "author": "Nuh ALBAYRAK",
    "date": "2026-11-24T07:05:51+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/152.png?v=1907.99"
   },
   {
    "title": "Mızıkçılık yapan kaybeder!",
    "link": "https://m.star.com.tr/yazar/mizikcilik-yapan-kaybeder-yazi-2055292/",
    "author": "Resul TOSUN",
    "date": "2026-11-24T07:05:51+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/154.png?v=1907.99"
   },
   {
    "title": "SGK primlerinin iadesi",
@@ -2547,7 +2717,8 @@
    "link": "https://m.star.com.tr/yazar/harci-merhametle-karilmis-kalelerimizi-korumanin-onemi-yazi-2055295/",
    "author": "Vahdettin İNCE",
    "date": "2026-11-24T07:05:51+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/189.png?v=1907.99"
   },
   {
    "title": "Bir aforoz hikâyesi daha",
@@ -2561,7 +2732,8 @@
    "link": "https://m.star.com.tr/yazar/karbon-sifirdan-mutabakat-sifira-yazi-2055283/",
    "author": "Levent Ersin Orallı",
    "date": "2026-11-24T07:05:51+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/198.png?v=1907.99"
   },
   {
    "title": "Bu öneriler, büyüklerimizi niye rahatsız ediyor?",
@@ -2659,21 +2831,24 @@
    "link": "https://www.birgun.net/makale/muhendisleri-seviyor-musunuz-748045",
    "author": "L.  Doğan Tılıç",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/03/04/l-dogan-tilic-1.jpeg"
   },
   {
    "title": "Shenzen’deki üç dev fare doğurdu",
    "link": "https://www.birgun.net/makale/shenzendeki-uc-dev-fare-dogurdu-748059",
    "author": "Hayri Kozanoğlu",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/hayri-kozanoglu-353-4.jpg"
   },
   {
    "title": "COP31 bize ne anlatıyor?",
    "link": "https://www.birgun.net/makale/cop31-bize-ne-anlatiyor-748047",
    "author": "Özgür Gürbüz",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2024/11/16/ozgur-gurbuz.jpg"
   },
   {
    "title": "Başkanlar tutsak, foncular serbest!",
@@ -2687,77 +2862,88 @@
    "link": "https://www.birgun.net/makale/rubio-korkmakta-hakli-marx-yasiyor-748062",
    "author": "Özge Güneş",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2023/12/12/ozge-gunes.jpg"
   },
   {
    "title": "Ne Schäubleler gördük geçirdik, bunlar da geçer",
    "link": "https://www.nefes.com.tr/yazarlar/nevsin-mengu/ne-schaubleler-gorduk-gecirdik-bunlar-da-gecer-166418",
    "author": "Nevsin Mengu",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/nevsin-mengu-d4s3.jpg"
   },
   {
    "title": "Ne o, savaş mı var?",
    "link": "https://www.nefes.com.tr/yazarlar/can-atakli/ne-o-savas-mi-var-166419",
    "author": "Can Atakli",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/can-atakli-kz2v.jpg"
   },
   {
    "title": "Şu bıyıksız keşişe bak",
    "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/su-biyiksiz-kesise-bak-166420",
    "author": "Soner Yalcin",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/soner-yalcin-i3eg.jpg"
   },
   {
    "title": "“Yaman Çelişki” başarısızlığı!",
    "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/yaman-celiski-basarisizligi-166422",
    "author": "Deniz Zeyrek",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/deniz-zeyrek-oyfs.jpg"
   },
   {
    "title": "Önce güven bitti sonra rezervler gitti!",
    "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/once-guven-bitti-sonra-rezervler-gitti-166424",
    "author": "Murat Muratoglu",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/murat-muratoglu-sghq.jpg"
   },
   {
    "title": "Şahap Kavcıoğlu’yla ilgili kritik tarih",
    "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/sahap-kavciogluyla-ilgili-kritik-tarih-166425",
    "author": "Aytunc Erkin",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/aytunc-erkin-icui.jpg"
   },
   {
    "title": "Yarış hiç adil değil",
    "link": "https://www.nefes.com.tr/yazarlar/argun-darici/yaris-hic-adil-degil-166433",
    "author": "Argun Darici",
    "date": "2026-11-24T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/argun-darici-ifdd.jpg"
   },
   {
    "title": "Aslana değil sahibine bakalım",
    "link": "https://www.hurriyet.com.tr/yazarlar/orkun-un/aslana-degil-sahibine-bakalim-43388669",
    "author": "Orkun Ün",
    "date": "2026-11-24T04:50:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Ünlülerin dijitalle çok geç kalmış savaşı",
    "link": "https://www.hurriyet.com.tr/yazarlar/savas-ozbey/unlulerin-dijitalle-cok-gec-kalmis-savasi-43388667",
    "author": "Savaş ÖZBEY",
    "date": "2026-11-24T04:48:08+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Perma’yı dinleyiciler kurdu",
    "link": "https://www.hurriyet.com.tr/yazarlar/omur-gedik/permayi-dinleyiciler-kurdu-43388666",
    "author": "Ömür GEDİK",
    "date": "2026-11-24T04:43:26+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Demokratlar savaşı durdurabilecekler mi?",
@@ -2946,49 +3132,56 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/ilker-topdemir/kisin-en-guzel-hali-benim-amsterdamim-43387729",
    "author": "İlker Topdemir",
    "date": "2026-11-24T03:28:56+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Çocuklarımızı hayata mı yarışa mı hazırlıyoruz?",
    "link": "https://www.hurriyet.com.tr/yazarlar/ebru-dogdu/cocuklarimizi-hayata-mi-yarisa-mi-hazirliyoruz-43388405",
    "author": "Ebru Doğdu",
    "date": "2026-11-24T03:28:56+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
   },
   {
    "title": "Premier Lig Seyir Defteri: Everton, Brentford deplasmanında farklı mağlubiyet",
    "link": "https://www.birgun.net/makale/premier-lig-seyir-defteri-everton-brentford-deplasmaninda-farkli-maglubiyet-748638",
    "author": "Ziya Adnan",
    "date": "2026-11-24T02:55:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/ziya-adnan-341-4.jpg"
   },
   {
    "title": "‘Yahudi terörü’ ve Eisenkot’un çıkmazı",
    "link": "https://www.hurriyet.com.tr/yazarlar/nilgun-tekfidan-gumus/yahudi-teroru-ve-eisenkotun-cikmazi-43388625",
    "author": "Nilgün Tekfidan GÜMÜŞ",
    "date": "2026-11-24T02:52:59+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04fbfe9a30875a04579380.jpg"
   },
   {
    "title": "Vize serbestliğinde yeni perde: Ankara altı kriteri aşarsa Avrupa ne yapacak?",
    "link": "https://www.hurriyet.com.tr/yazarlar/hande-firat/vize-serbestliginde-yeni-perde-ankara-alti-kriteri-asarsa-avrupa-ne-yapacak-43388620",
    "author": "Hande FIRAT",
    "date": "2026-11-24T02:52:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04fbc89a30875a0457937d.jpg"
   },
   {
    "title": "Ekrem İmamoğlu için bir imkân daha var",
    "link": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/ekrem-imamoglu-icin-bir-imkan-daha-var-43388634",
    "author": "Abdulkadir SELVİ",
    "date": "2026-11-24T02:48:33+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04faf09a30875a04579373.jpg"
   },
   {
    "title": "İstanbul alarmda… Şehrin göbeğinde aslanın işi ne",
    "link": "https://www.hurriyet.com.tr/yazarlar/fulya-soybas/istanbul-alarmda-sehrin-gobeginde-aslanin-isi-ne-43388650",
    "author": "Fulya Soybaş",
    "date": "2026-11-23T23:29:00+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04fb869a30875a04579379.jpg"
   },
   {
    "title": "Öğretmenlik, devleti de bağlayan ahlaki sorumluluktur",
@@ -3002,7 +3195,8 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/muhalif-kitleler-yavasa-cok-ofkeli-43388635",
    "author": "Ahmet HAKAN",
    "date": "2026-11-23T21:50:25+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04faaa9a30875a04579370.jpg"
   },
   {
    "title": "Bu öneriler, büyüklerimizi niye rahatsız ediyor?",
@@ -3093,7 +3287,8 @@
    "link": "https://www.hurriyet.com.tr/yazarlar/deniz-sipahi/disarida-tutarak-asil-avrupa-kaybeden-oldu-43388608",
    "author": "Deniz SİPAHİ",
    "date": "2026-11-23T21:08:15+00:00",
-   "source": "Hürriyet"
+   "source": "Hürriyet",
+   "photo": "https://image.hurimg.com/i/hurriyet/90/620x350/6b04fb3c9a30875a04579376.jpg"
   },
   {
    "title": "Yılan hikayesine dönen vize serbestisinde son perde mi?",
@@ -3114,7 +3309,8 @@
    "link": "https://www.sozcu.com.tr/besiktas-in-en-onemli-eksigi-p383791",
    "author": "Burak Özcan",
    "date": "2026-11-23T15:58:50+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/whatsappimage20260422at120733removebgpreviewpng-hwgTC_8OnkeDv-Ar_acSuA.png"
   },
   {
    "title": "Altın savaşları başladı! Kim nerede stokluyor?",
@@ -3128,14 +3324,16 @@
    "link": "https://www.sozcu.com.tr/o-aslan-bir-oligarkin-olabilir-mi-p383731",
    "author": "İpek Özbey",
    "date": "2026-11-23T13:08:00+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/10/agsrbhnnmjtrewqrfgdegfvdbgpng-Bd9CyYA1Z0eKPL5YM9rDdw.png"
   },
   {
    "title": "Kaşla göz arasında fark açılıyor",
    "link": "https://www.sozcu.com.tr/kasla-goz-arasinda-fark-aciliyor-p383749",
    "author": "Cenk Çınar",
    "date": "2026-11-23T13:08:00+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/2/whatsappimage20260210at115851removebgpreviewpng-VxoB5oTtYk2zoKKrFoMAJw.png"
   },
   {
    "title": "Terörsüz Türkiye ve Özgür Özel",
@@ -3170,7 +3368,8 @@
    "link": "https://www.sozcu.com.tr/vaatlerden-kriz-sarmalina-p383650",
    "author": "Oğulcan Çoksayar",
    "date": "2026-11-23T10:08:11+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/12/nonbgpng-9uJ-z8tAoUCMDKsYU3VExQ.png"
   },
   {
    "title": "Piyasaların Fed'le oyunu: Enflasyon mu, resesyon mu?",
@@ -3191,21 +3390,24 @@
    "link": "https://www.sozcu.com.tr/sampiyonluk-istiyorsan-bu-savunma-yetmez-p383633",
    "author": "Sonuç Sürmeli",
    "date": "2026-11-23T07:24:05+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/2b9dd3e8adb84af0af74bffcd61b63bdremovebgpreviewpng-pKso34h19065RvnkvAW_KQ.png"
   },
   {
    "title": "Sorunun kendisi Fenerbahçe",
    "link": "https://www.sozcu.com.tr/sorunun-kendisi-fenerbahce-p383580",
    "author": "Sercan C. Güler",
    "date": "2026-11-23T07:24:05+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/whatsappimage20260420at092526removebgpreviewpng-pkfAAPP-4k27es32T5Aylg.png"
   },
   {
    "title": "Şeytanın bacağını kırdı",
    "link": "https://www.sozcu.com.tr/seytanin-bacagini-kirdi-p383597",
    "author": "Ozan Kılıç",
    "date": "2026-11-23T07:24:05+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/3/whatsappimage20260331at110227removebgpreviewpng-T0vwG5pdtkOtly6i81CmFg.png"
   },
   {
    "title": "Karbon düğümünü nükleer enerji çözer",
@@ -3478,7 +3680,8 @@
    "link": "https://m.star.com.tr/yazar/iklim-degisikligi-bir-tehdit-mi-yeni-bir-ekonomi-firsati-mi-yazi-2055101/",
    "author": "Adil Karaismailoğlu",
    "date": "2026-11-23T07:24:05+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/200.png?v=1907.99"
   },
   {
    "title": "GEV gecesi umut olacak!",
@@ -3499,84 +3702,96 @@
    "link": "https://www.birgun.net/makale/zorbanin-korktugu-ne-varsa-747848",
    "author": "Uğur Kutay",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/ugur-kutay-395-4.jpg"
   },
   {
    "title": "Komisyon değil mücadele: Asgari ücrette asıl mesele",
    "link": "https://www.birgun.net/makale/komisyon-degil-mucadele-asgari-ucrette-asil-mesele-747846",
    "author": "Aziz Çelik",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/aziz-celik-311-4.jpg"
   },
   {
    "title": "Kayyumlar \"iletişim açığı\"nı kapatabilir mi?",
    "link": "https://www.birgun.net/makale/kayyumlar-iletisim-acigi-ni-kapatabilir-mi-747849",
    "author": "Faruk Bildirici",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2022/01/31/medya-ombudsmani-faruk-bildirici-967-4.jpg"
   },
   {
    "title": "Geçti mi, geçirildi mi?",
    "link": "https://www.birgun.net/makale/gecti-mi-gecirildi-mi-747847",
    "author": "Selçuk Candansayar",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2024/02/20/selcuk-candansayar.jpg"
   },
   {
    "title": "Antibiyotik öncesi yıllara dönüyoruz",
    "link": "https://www.birgun.net/makale/antibiyotik-oncesi-yillara-donuyoruz-747845",
    "author": "Osman Öztürk",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2023/07/31/osman-ozturk.jpeg"
   },
   {
    "title": "Ataması, Güvencesi, Can Güvenliği Yok, Derdi Çok: Öğretmenlikten Esnaflığa…",
    "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/atamasi-guvencesi-can-guvenligi-yok-derdi-cok-ogretmenlikten-esnafliga-166203",
    "author": "Damla Turgutlu Soybas",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/damla-turgutlu-soybas-ihni.jpg"
   },
   {
    "title": "Borçtan değil, borcu yanlış kullanmaktan korkalım",
    "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/borctan-degil-borcu-yanlis-kullanmaktan-korkalim-166204",
    "author": "Memduh Bayraktaroglu",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/memduh-bayraktaroglu-a5bz.jpg"
   },
   {
    "title": "Aman dikkat!",
    "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/aman-dikkat-166207",
    "author": "Deniz Zeyrek",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/deniz-zeyrek-oyfs.jpg"
   },
   {
    "title": "Babandan krallık mı kaldı?",
    "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/babandan-krallik-mi-kaldi-166208",
    "author": "Murat Muratoglu",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/murat-muratoglu-sghq.jpg"
   },
   {
    "title": "SPK taslağında kapsam tartışması. Yasa geriye dönük işletilsin…",
    "link": "https://www.nefes.com.tr/yazarlar/nuray-babacan/spk-taslaginda-kapsam-tartismasi-yasa-geriye-donuk-isletilsin-166211",
    "author": "Nuray Babacan",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/nuray-babacan-kvda.jpg"
   },
   {
    "title": "Karanlığı aydınlatacak olan yine yurtseverlerdir!",
    "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/karanligi-aydinlatacak-olan-yine-yurtseverlerdir-166212",
    "author": "Umit Zileli",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/umit-zileli-opup.jpg"
   },
   {
    "title": "Altay iyiydi",
    "link": "https://www.nefes.com.tr/yazarlar/argun-darici/altay-iyiydi-166216",
    "author": "Argun Darici",
    "date": "2026-11-23T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/argun-darici-ifdd.jpg"
   },
   {
    "title": "Şehrin hafızasında saklı bir dönem",
@@ -3667,7 +3882,8 @@
    "link": "https://www.korkusuz.com.tr/monoton-bir-cinsellik-orgazmi-zorlastirir-mi-p58585",
    "author": "Kemal Özcan",
    "date": "2026-11-23T03:57:41+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://korkusuz01.sozcucdn.com/korkusuz/development/uploads/images/2023/9/kemalozcanpng-5vu-kIpDD06cGHFdbzGN2g.png"
   },
   {
    "title": "Son kale ve yanlış yol!",
@@ -3786,7 +4002,8 @@
    "link": "https://www.sozcu.com.tr/futbol-aynasidir-bir-ulkenin-p383549",
    "author": "Hüseyin Şuekinci",
    "date": "2026-11-23T00:56:27+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/1/huseyinsuekencifotopng-_jBs-_3AZUWc8dAUqBGQXA.png"
   },
   {
    "title": "Kötü oyun, büyük istikrar",
@@ -4003,14 +4220,16 @@
    "link": "https://www.nefes.com.tr/yazarlar/alican-ozcan/bu-cocuk-okumaz-166055",
    "author": "Alican Ozcan",
    "date": "2026-11-22T10:01:34+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/alican-ozcan-9tpi.jpg"
   },
   {
    "title": "ŞANS DEĞİL KALİTE FARKI",
    "link": "https://www.korkusuz.com.tr/sans-degil-kalite-farki-p58578",
    "author": "Umut Hızdil",
    "date": "2026-11-22T09:43:53+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://korkusuz01.sozcucdn.com/korkusuz/production/uploads/images/2026/11/imageremovebgpreview-20261106t081855509png-dXw_rcEB9kaBY3XW8jtssQ.png"
   },
   {
    "title": "Ekaterina Antropova ve ace sayıları",
@@ -4192,7 +4411,8 @@
    "link": "https://www.birgun.net/makale/cavbella-747732",
    "author": "Haydar Ergülen",
    "date": "2026-11-22T07:27:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/haydar-ergulen-351-4.jpg"
   },
   {
    "title": "Şimdicilik paradoksu",
@@ -4584,7 +4804,8 @@
    "link": "https://m.star.com.tr/yazar/basbug-turkes-yazi-2054927/",
    "author": "Cengiz ÖZDEMİR",
    "date": "2026-11-22T06:58:49+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/202.png?v=1907.99"
   },
   {
    "title": "Made in Europe Avrupa'yı koruyabilir mi?",
@@ -4612,21 +4833,24 @@
    "link": "https://www.birgun.net/makale/metafor-747707",
    "author": "Halis Dokgöz",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/01/15/halis-dokgoz.jpg"
   },
   {
    "title": "Büyülü fenerin ışığında",
    "link": "https://www.birgun.net/makale/buyulu-fenerin-isiginda-747720",
    "author": "Vecdi Sayar",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/04/01/vecdi-sayar-495-4.jpg"
   },
   {
    "title": "Galileo’nun keşfinden buz altı okyanuslara",
    "link": "https://www.birgun.net/makale/galileonun-kesfinden-buz-alti-okyanuslara-747718",
    "author": "H. Tuğça Şener",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/05/19/h-tugca-sener.jpg"
   },
   {
    "title": "Aç karnına müfredat",
@@ -4640,42 +4864,48 @@
    "link": "https://www.birgun.net/makale/kaynasma-zamani-747716",
    "author": "Yakup Kepenek",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/05/07/yakup-kepenek-511-4.jpg"
   },
   {
    "title": "Genetiğini göremedik",
    "link": "https://www.nefes.com.tr/yazarlar/argun-darici/genetigini-goremedik-166019",
    "author": "Argun Darici",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/argun-darici-ifdd.jpg"
   },
   {
    "title": "Kazanıyor ama...",
    "link": "https://www.nefes.com.tr/yazarlar/fatih-soylemezoglu/kazaniyor-ama-166020",
    "author": "Fatih Soylemezoglu",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/fatih-soylemezoglu-3qlm.jpg"
   },
   {
    "title": "Yapay zekadan bile nasıl kaçtı?",
    "link": "https://www.nefes.com.tr/yazarlar/nevsin-mengu/yapay-zekadan-bile-nasil-kacti-166024",
    "author": "Nevsin Mengu",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/nevsin-mengu-d4s3.jpg"
   },
   {
    "title": "Durmak yok vurguna devam!",
    "link": "https://www.nefes.com.tr/yazarlar/murat-muratoglu/durmak-yok-vurguna-devam-166025",
    "author": "Murat Muratoglu",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/murat-muratoglu-sghq.jpg"
   },
   {
    "title": "Temiz siyaset… Panayır çakalları…",
    "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/temiz-siyaset-panayir-cakallari-166027",
    "author": "Aytunc Erkin",
    "date": "2026-11-22T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/aytunc-erkin-icui.jpg"
   },
   {
    "title": "Oğlum Cadılar Bayramı’nda Arda Güler oldu",
@@ -4780,14 +5010,16 @@
    "link": "https://www.korkusuz.com.tr/acikli-bir-tablo-p58569",
    "author": "Korkusuz Kalem Osman Ferit",
    "date": "2026-11-22T03:49:58+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://korkusuz01.sozcucdn.com/korkusuz/production/uploads/images/2024/11/kalempng-9x-NJQHeA0qGSYxThvcTJw.png"
   },
   {
    "title": "Bilgi çağında cehalet",
    "link": "https://www.korkusuz.com.tr/bilgi-caginda-cehalet-p58570",
    "author": "Pınar Erişen",
    "date": "2026-11-22T03:49:58+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://korkusuz01.sozcucdn.com/korkusuz/production/uploads/images/2024/7/pinarerisenpng--WSOpPAvsUqHZqXtUM7FyQ.png"
   },
   {
    "title": "\"Kürtçe konuşan Arjantinli kız\"",
@@ -5508,14 +5740,16 @@
    "link": "https://www.birgun.net/makale/baris-yetmediginde-uc-parmak-selami-747550",
    "author": "Tuğçe Madayanti Şen",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/tugce-madayanti-dizici-431-4.jpg"
   },
   {
    "title": "Ataç'ın Sözcükleri",
    "link": "https://www.birgun.net/makale/atac-in-sozcukleri-747555",
    "author": "Attila Aşut",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/attila-asut-303-4.jpg"
   },
   {
    "title": "Sadakatimiz kadar konuşacağız!",
@@ -5529,56 +5763,64 @@
    "link": "https://www.birgun.net/makale/siyasi-etik-kisisel-bir-tercih-degil-kamusal-bir-yukumluluktur-747554",
    "author": "Selin Nakıpoğlu",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2023/07/31/selin-nakipoglu.jpg"
   },
   {
    "title": "Anthropic'in halka arzı yapay zeka sorgusuna döndü",
    "link": "https://www.nefes.com.tr/yazarlar/firat-ozdemir/anthropicin-halka-arzi-yapay-zeka-sorgusuna-dondu-165762",
    "author": "Firat Ozdemir",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/firat-ozdemir-n2ob.jpg"
   },
   {
    "title": "Ne Ara Bozduk Memleketin Ayarını?",
    "link": "https://www.nefes.com.tr/yazarlar/damla-turgutlu-soybas/ne-ara-bozduk-memleketin-ayarini-165806",
    "author": "Damla Turgutlu Soybas",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/damla-turgutlu-soybas-ihni.jpg"
   },
   {
    "title": "Bir filmin pasaportu...",
    "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/bir-filmin-pasaportu-165812",
    "author": "Memduh Bayraktaroglu",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/memduh-bayraktaroglu-a5bz.jpg"
   },
   {
    "title": "Seçim ekonomisi tadında rekor borç!",
    "link": "https://www.nefes.com.tr/yazarlar/mahmut-aydogmus/secim-ekonomisi-tadinda-rekor-borc-165817",
    "author": "Mahmut Aydogmus",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/mahmut-aydogmus-61rz.jpg"
   },
   {
    "title": "“İngilizler Kurtuluş Savaşı’nda tarafsızdı!”",
    "link": "https://www.nefes.com.tr/yazarlar/umit-zileli/ingilizler-kurtulus-savasinda-tarafsizdi-165820",
    "author": "Umit Zileli",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/umit-zileli-opup.jpg"
   },
   {
    "title": "Real galibiyetiyle yetinmek",
    "link": "https://www.nefes.com.tr/yazarlar/utkan-aydin/real-galibiyetiyle-yetinmek-165826",
    "author": "Utkan Aydin",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/utkan-aydin-yinh.jpg"
   },
   {
    "title": "Prof. Dr. Yalçın Karatepe, Taha Çakmak’ın ifadesini okudu ve NEFES’e değerlendirdi: 2025’te “manipülasyonu” görüyor, ancak 2026’da Tera’da işlem yapıyor",
    "link": "https://www.nefes.com.tr/yazarlar/aytunc-erkin/prof-dr-yalcin-karatepe-taha-cakmakin-ifadesini-okudu-ve-nefese-degerlendirdi-2025te-manipulasyonu-goruyor-ancak-2026da-terada-islem-yapiyor-165837",
    "author": "Aytunc Erkin",
    "date": "2026-11-21T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/aytunc-erkin-icui.jpg"
   },
   {
    "title": "Akıl almıyor",
@@ -5669,7 +5911,8 @@
    "link": "https://www.korkusuz.com.tr/olmuyor-umit-hoca-p58550",
    "author": "Mustafa Mutlu",
    "date": "2026-11-21T03:47:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://korkusuz01.sozcucdn.com/korkusuz/production/uploads/images/2024/11/korkusuzyazarlarpng-3KfiN2s44kqeH4xmYXX_UQ.png"
   },
   {
    "title": "Toplumsal tabular cinselliği nasıl etkiler?",
@@ -6257,21 +6500,24 @@
    "link": "https://www.nefes.com.tr/yazarlar/memduh-bayraktaroglu/devletin-akli-mi-yurttasin-hakki-mi-165604",
    "author": "Memduh Bayraktaroglu",
    "date": "2026-11-20T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/memduh-bayraktaroglu-a5bz.jpg"
   },
   {
    "title": "Bu işin magazini olmaz",
    "link": "https://www.nefes.com.tr/yazarlar/soner-yalcin/bu-isin-magazini-olmaz-165606",
    "author": "Soner Yalcin",
    "date": "2026-11-20T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/soner-yalcin-i3eg.jpg"
   },
   {
    "title": "Korkaklıkla yaşanır mı?",
    "link": "https://www.nefes.com.tr/yazarlar/deniz-zeyrek/korkaklikla-yasanir-mi-165609",
    "author": "Deniz Zeyrek",
    "date": "2026-11-20T05:00:00+03:00",
-   "source": "Nefes"
+   "source": "Nefes",
+   "photo": "https://img.nefes.com.tr/rcman/Cw150h84q95gc/storage/files/images/2026/11/18/deniz-zeyrek-oyfs.jpg"
   },
   {
    "title": "Fon zararda, 3 milyar cepte, hisseler yerinde!",
@@ -7083,7 +7329,8 @@
    "link": "https://www.birgun.net/makale/dijital-cagin-yeni-nesil-savaslari-siber-saldirilar-747201",
    "author": "Mahir Ulutaş",
    "date": "2026-11-19T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/10/30/mahir-ulutas.jpg"
   },
   {
    "title": "23 Kasım'a giderken: Eğitim hakkı ve karma eğitim için mücadele",
@@ -7111,7 +7358,8 @@
    "link": "https://www.birgun.net/makale/tiyatromuz-yasasin-747200",
    "author": "Burhan Şeşen",
    "date": "2026-11-19T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/06/19/burhan-sesen-891-4.jpg"
   },
   {
    "title": "Emekliye zam fiyatlara bayram mı?",
@@ -7706,7 +7954,8 @@
    "link": "https://www.birgun.net/makale/tarafsizlik-maskesi-ve-sansur-747018",
    "author": "Can Ertuna",
    "date": "2026-11-18T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/10/28/can-ertuna.jpg"
   },
   {
    "title": "Siyasetten, medyaya yeni dizayn sürüyor",
@@ -8028,112 +8277,128 @@
    "link": "https://www.sozcu.com.tr/ozur-dileyerek-p380438",
    "author": "Emin Çölaşan",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/emincolasanpng-g2FMYWpR4k6cahY2kIUr6Q.png"
   },
   {
    "title": "Hapiste suçsuz yere geçen günler!",
    "link": "https://www.sozcu.com.tr/hapiste-sucsuz-yere-gecen-gunler-p382053",
    "author": "Rahmi Turan",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/rahmituranpng-FJbtC1s5HUS2XzjpYerfcA.png"
   },
   {
    "title": "Yeni Parti: Hep beraber!",
    "link": "https://www.sozcu.com.tr/yeni-parti-hep-beraber-p381674",
    "author": "Necati Doğru",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/necatidogrupng-j0O70nJfJk_M7IZfgRVAjg.png"
   },
   {
    "title": "Rauf Denktaş’a yapılan vefasızlık!",
    "link": "https://www.sozcu.com.tr/rauf-denktas-a-yapilan-vefasizlik-p382042",
    "author": "Saygı Öztürk",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/saygiozturkpng-lG7DyZ9jn06qWcoe4-tmMw.png"
   },
   {
    "title": "Kanunların ruhu",
    "link": "https://www.sozcu.com.tr/kanunlarin-ruhu-p381379",
    "author": "Ege Cansen",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/egecansenpng-zU2G_3psQ0eCCgvNBP4ZkQ.png"
   },
   {
    "title": "“Gelen geçen ‘Foncu naber’ diye bağırıyor”",
    "link": "https://www.sozcu.com.tr/gelen-gecen-foncu-naber-diye-bagiriyor-p382050",
    "author": "İsmail Saymaz",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/ismailsaymazpng-nhoZRyhdGEKuJZNsw0xr1Q.png"
   },
   {
    "title": "Atatürküm",
    "link": "https://www.sozcu.com.tr/ataturkum-p380443",
    "author": "Yekta Güngör Özden",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/yektagungorozdenpng-zP0TsX7F3Ee0UR1N0FEZlg.png"
   },
   {
    "title": "Beyin göçüyle gurur duyuyor!",
    "link": "https://www.sozcu.com.tr/beyin-gocuyle-gurur-duyuyor-p376466",
    "author": "Sultan Uçar",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/sultanucarpng-wVZpU-tLykKwKruMjrWSWw.png"
   },
   {
    "title": "Bu üçlü kavuşuma dikkat!",
    "link": "https://www.sozcu.com.tr/bu-uclu-kavusuma-dikkat-p381391",
    "author": "Öner Döşer",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2024/1/onerdoseryazarpng-iE37Ba61eUmpqyfO_xjZKQ.png"
   },
   {
    "title": "Lübnan gezisi",
    "link": "https://www.sozcu.com.tr/lubnan-gezisi-p382045",
    "author": "Güney Öztürk",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2024/11/guneyozturkfotopng-3QTgvCSH3EeZRs79DQyJfg.png"
   },
   {
    "title": "Savaşın ayak sesleri",
    "link": "https://www.sozcu.com.tr/savasin-ayak-sesleri-p381680",
    "author": "Naim Babüroğlu",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2024/10/sosyalmedyapng-HI03TVABiUu_QkWa3y4OqA.png"
   },
   {
    "title": "Bugün artık yarındır",
    "link": "https://www.sozcu.com.tr/bugun-artik-yarindir-p381957",
    "author": "Turan Yücel",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/8/8d275ead97154ded991d6991c1bc8ef1removebgpreviewpng-M4zXj0z0pEyXNlsENqp4tg.png"
   },
   {
    "title": "Emeklilerin duygularıyla oynamayın!",
    "link": "https://www.sozcu.com.tr/emeklilerin-duygulariyla-oynamayin-p374981",
    "author": "Ozan Bingöl",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/1/ozanbingolpng-kTEKO0DOt0mn7lD0ELvFBA.png"
   },
   {
    "title": "YOLCULUK ÇOK KISA",
    "link": "https://www.sozcu.com.tr/yolculuk-cok-kisa-p381073",
    "author": "Mesut Parlak",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/mesutparlakpng-ycCySPd93UyqZiiXRkLiYA.png"
   },
   {
    "title": "Kardeş vatandan hepimize ders",
    "link": "https://www.sozcu.com.tr/kardes-vatandan-hepimize-ders-p355234",
    "author": "Damla Doğan Tuncel",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/4/damladogantuncelpng-cTaaZ1CKzk_R7ZwVac3WMg.png"
   },
   {
    "title": "Zavallı İstanbul",
    "link": "https://www.sozcu.com.tr/zavalli-istanbul-p382054",
    "author": "Pınar Turan",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2023/12/pinarturanpng-6G8eLeRSPEuUZRAs9utOGA.png"
   },
   {
    "title": "Yeni Parti'nin yeni yüzleri",
@@ -8147,21 +8412,24 @@
    "link": "https://www.sozcu.com.tr/29-saatlik-surecin-esigi-p285502",
    "author": "Can Coşkun",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2023/12/cancoskunpng-pQRHbJUp4U_O8RXy-6O8bg.png"
   },
   {
    "title": "Yeni Parti’nin yenilikleri",
    "link": "https://www.sozcu.com.tr/yeni-parti-nin-yenilikleri-p381679",
    "author": "YÖN/Fikret Bila",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/10/fikretbilapng-t7ZO6lQfWEG6_7KHaY45Wg.png"
   },
   {
    "title": "İyiliğin Manifest’osu",
    "link": "https://www.sozcu.com.tr/iyiligin-manifest-osu-p341295",
    "author": "Selen Öktem",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/5/3510cae2a2b04e629d8cb985765e9b81removebgpreviewpng-04_FqOkxAkefP5Pgcmlo5w.png"
   },
   {
    "title": "Ebedi dostluk!",
@@ -8175,21 +8443,24 @@
    "link": "https://www.sozcu.com.tr/finans-merkezi-kurduk-guveni-kaybettik-p371025",
    "author": "Mahmut Aydoğmuş",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/7/muratpng-u62_UQ8rxkqTciuyduAHRw.png"
   },
   {
    "title": "Yine olmadı",
    "link": "https://www.sozcu.com.tr/yine-olmadi-p381685",
    "author": "Ercan Taner",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/ercantanerpng-0BigTX5KDEesYdSYO0M58w.png"
   },
   {
    "title": "22 dakikada maç bitti",
    "link": "https://www.sozcu.com.tr/22-dakikada-mac-bitti-p379331",
    "author": "Yasin Yıldırım",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Sözcü"
+   "source": "Sözcü",
+   "photo": "https://sozcu01.sozcucdn.com/sozcu/development/uploads/images/2023/10/yasinyildirimpng-9UZhCSAgtk6ANUIxxJV6KQ.png"
   },
   {
    "title": "Değişim gecikti, fatura ağır oldu!",
@@ -8665,7 +8936,8 @@
    "link": "https://m.star.com.tr/yazar/cesur-yeni-dunya-antalyada-somurgeci-beyaz-adam-nerede-yazi-2052841/",
    "author": "Fadime ÖZKAN",
    "date": "2026-11-17T21:12:33+00:00",
-   "source": "Star"
+   "source": "Star",
+   "photo": "https://www.star.com.tr/_imgs/yazarlar2/37.png?v=1907.99"
   },
   {
    "title": "Kurtulmuş: Devlet aklı ile millet vicdanı birleşti",
@@ -8903,7 +9175,8 @@
    "link": "https://www.birgun.net/makale/bin-dokuz-oyku-746804",
    "author": "Hüseyin Aygün",
    "date": "2026-11-17T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/huseyin-aygun-355-4.jpg"
   },
   {
    "title": "Umut, demokrasi ve değişim",
@@ -9197,14 +9470,16 @@
    "link": "https://www.birgun.net/makale/10-soruda-murat-agirel-gercekleri-746617",
    "author": "Timur Soykan",
    "date": "2026-11-16T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2020/06/22/timur-soykan-899-4.jpg"
   },
   {
    "title": "Küreselleşen tutku: Darbuka ve devrim",
    "link": "https://www.birgun.net/makale/kuresellesen-tutku-darbuka-ve-devrim-746586",
    "author": "Metin Özuğurlu",
    "date": "2026-11-16T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2026/11/16/metin-ozugurlu.jpeg"
   },
   {
    "title": "İki kez öldürülen işçiler",
@@ -9533,7 +9808,8 @@
    "link": "https://www.birgun.net/makale/yapay-zeka-hikaye-anlatimini-devralabilir-mi-746523",
    "author": "Tolga Mırmırık",
    "date": "2026-11-15T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/05/19/tolga-mirmirik.jpg"
   },
   {
    "title": "“Türkiye yenileniyor!”",
@@ -9561,7 +9837,8 @@
    "link": "https://www.birgun.net/makale/ayaga-kalkin-vurgusu-746507",
    "author": "Nurcan Bilge Gökdemir",
    "date": "2026-11-15T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2023/08/18/nurcan-gokdemir.jpg"
   },
   {
    "title": "Arda yetmez",
@@ -9820,7 +10097,8 @@
    "link": "https://www.birgun.net/makale/bakan-ve-iktidar-medyasinin-halka-yanlis-bilgi-verme-ozgurlugu-mu-var-746338",
    "author": "Erdoğan Atmış",
    "date": "2026-11-14T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2026/04/02/erdogan-atmis.jpg"
   },
   {
    "title": "Başlık, Yazının Özüdür",
@@ -10023,7 +10301,8 @@
    "link": "https://www.birgun.net/makale/hatali-tercihleri-fark-et-kabul-et-duzelt-746089",
    "author": "Betül Kanbolat",
    "date": "2026-11-13T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2022/12/28/betul-kanbolat-983-4.jpg"
   },
   {
    "title": "Cür’et, Kleptomani Ludomani…",
@@ -10555,7 +10834,8 @@
    "link": "https://www.birgun.net/makale/zaman-da-tasar-745029",
    "author": "Rahmi Öğdül",
    "date": "2026-11-07T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/yazar-profil/2019/08/04/rahmi-ogdul-405-4.jpg"
   },
   {
    "title": "Medeni Kanun’un 100. yılında eşit yurttaşlık mücadelesi",
@@ -10597,14 +10877,16 @@
    "link": "https://www.birgun.net/makale/saglik-sistemsizligi-kiskacindaki-aile-hekimligi-743598",
    "author": "Esin Davutoğlu Şenol",
    "date": "2026-10-31T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/05/19/esin-davutoglu-senol.jpg"
   },
   {
    "title": "Hakikatin sessiz tanıkları: Temastaki İz Ayrıntıdaki Şeytan",
    "link": "https://www.birgun.net/makale/hakikatin-sessiz-taniklari-temastaki-iz-ayrintidaki-seytan-743238",
    "author": "Ümit Kartoğlu",
    "date": "2026-10-29T05:00:00+03:00",
-   "source": "BirGün"
+   "source": "BirGün",
+   "photo": "https://static.birgun.net/resim/profile/2025/10/30/umit-kartoglu.jpg"
   }
  ]
 }
